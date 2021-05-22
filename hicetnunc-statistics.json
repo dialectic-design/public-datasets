@@ -1,0 +1,28 @@
+{
+    "addressesCount": 12159,
+    "sellsCount": 373776,
+    "swapsCount": 114061,
+    "tokensCount": 65663,
+    "transfersCount": 601563,
+    "meta": {
+        "data_from": "2021-03-01T03:39:21Z",
+        "data_up_to": "2021-05-06T09:24:45Z"
+    },
+    "addressesStats": {
+        "total": 12159,
+        "creatorsCount": 7916,
+        "zeroMintedCount": 4243,
+        "collectorsCount": 6888,
+        "zeroCollectedCount": 5271
+    },
+    "tokenStats": {
+        "total": 65663,
+        "swapped": 0,
+        "unswapped": 0,
+        "partialSwapped": 0,
+        "completeSwapped": 0,
+        "transfered": 0,
+        "totalEditionsMinted": 4453171,
+        "totalEditionsBurned": 1112726
+    }
+}
