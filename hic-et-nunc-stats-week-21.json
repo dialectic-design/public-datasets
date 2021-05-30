@@ -1,0 +1,1196 @@
+{
+  "datafile": "export-for-week-21",
+  "statsForWeek": 21,
+  "minMintDate": "2021-03-01T03:39:21+00:00",
+  "maxMintDate": "2021-05-30T09:55:18+00:00",
+  "minCollectDate": "2021-03-01T09:58:07+00:00",
+  "maxCollectDate": "2021-05-30T10:00:18+00:00",
+  "totalUsers": 16995,
+  "artists": 12074,
+  "collectors": 12437,
+  "artistCollectors": 7516,
+  "pureArtists": 4558,
+  "pureCollectors": 4921,
+  "totalObjkts": 105293,
+  "totalEditions": 7241202,
+  "totalCollects": 533564,
+  "totalEditionsCollected": 1056831,
+  "week-21": {
+    "minted": 10250,
+    "editionsCreated": 672592,
+    "editionsCollected": 55170,
+    "activeArtists": 3306,
+    "activeCollectors": 4595,
+    "weekDaterange": [
+      "2021-05-24",
+      "2021-05-30"
+    ],
+    "weekNr": 21,
+    "days": [
+      {
+        "nr": 1,
+        "minted": 1654,
+        "editionsCreated": 62794,
+        "editionsCollected": 7393,
+        "weekday": "Monday",
+        "dayofyear": 144,
+        "activeArtists": 924,
+        "activeCollectors": 1693
+      },
+      {
+        "nr": 2,
+        "minted": 1459,
+        "editionsCreated": 124034,
+        "editionsCollected": 7504,
+        "weekday": "Tuesday",
+        "dayofyear": 145,
+        "activeArtists": 899,
+        "activeCollectors": 1753
+      },
+      {
+        "nr": 3,
+        "minted": 1892,
+        "editionsCreated": 192489,
+        "editionsCollected": 7949,
+        "weekday": "Wednesday",
+        "dayofyear": 146,
+        "activeArtists": 1038,
+        "activeCollectors": 1837
+      },
+      {
+        "nr": 4,
+        "minted": 1610,
+        "editionsCreated": 85095,
+        "editionsCollected": 7495,
+        "weekday": "Thursday",
+        "dayofyear": 147,
+        "activeArtists": 933,
+        "activeCollectors": 1766
+      },
+      {
+        "nr": 5,
+        "minted": 1716,
+        "editionsCreated": 92519,
+        "editionsCollected": 10182,
+        "weekday": "Friday",
+        "dayofyear": 148,
+        "activeArtists": 986,
+        "activeCollectors": 2041
+      },
+      {
+        "nr": 6,
+        "minted": 1497,
+        "editionsCreated": 55232,
+        "editionsCollected": 12261,
+        "weekday": "Saturday",
+        "dayofyear": 149,
+        "activeArtists": 842,
+        "activeCollectors": 1874
+      },
+      {
+        "nr": 7,
+        "minted": 422,
+        "editionsCreated": 60429,
+        "editionsCollected": 2386,
+        "weekday": "Sunday",
+        "dayofyear": 150,
+        "activeArtists": 253,
+        "activeCollectors": 724
+      }
+    ]
+  },
+  "weekly": [
+    {
+      "minted": 1656,
+      "editionsCreated": 88523,
+      "editionsCollected": 2100,
+      "activeArtists": 387,
+      "activeCollectors": 450,
+      "weekDaterange": [
+        "2021-03-01",
+        "2021-03-07"
+      ],
+      "weekNr": 9,
+      "days": [
+        {
+          "nr": 1,
+          "minted": 58,
+          "editionsCreated": 20884,
+          "editionsCollected": 68,
+          "weekday": "Monday",
+          "dayofyear": 60,
+          "activeArtists": 33,
+          "activeCollectors": 22
+        },
+        {
+          "nr": 2,
+          "minted": 93,
+          "editionsCreated": 17966,
+          "editionsCollected": 65,
+          "weekday": "Tuesday",
+          "dayofyear": 61,
+          "activeArtists": 44,
+          "activeCollectors": 21
+        },
+        {
+          "nr": 3,
+          "minted": 108,
+          "editionsCreated": 8038,
+          "editionsCollected": 173,
+          "weekday": "Wednesday",
+          "dayofyear": 62,
+          "activeArtists": 56,
+          "activeCollectors": 92
+        },
+        {
+          "nr": 4,
+          "minted": 213,
+          "editionsCreated": 7203,
+          "editionsCollected": 385,
+          "weekday": "Thursday",
+          "dayofyear": 63,
+          "activeArtists": 78,
+          "activeCollectors": 167
+        },
+        {
+          "nr": 5,
+          "minted": 301,
+          "editionsCreated": 8180,
+          "editionsCollected": 378,
+          "weekday": "Friday",
+          "dayofyear": 64,
+          "activeArtists": 112,
+          "activeCollectors": 125
+        },
+        {
+          "nr": 6,
+          "minted": 433,
+          "editionsCreated": 9498,
+          "editionsCollected": 490,
+          "weekday": "Saturday",
+          "dayofyear": 65,
+          "activeArtists": 148,
+          "activeCollectors": 140
+        },
+        {
+          "nr": 7,
+          "minted": 450,
+          "editionsCreated": 16754,
+          "editionsCollected": 541,
+          "weekday": "Sunday",
+          "dayofyear": 66,
+          "activeArtists": 160,
+          "activeCollectors": 187
+        }
+      ]
+    },
+    {
+      "minted": 4356,
+      "editionsCreated": 197375,
+      "editionsCollected": 5072,
+      "activeArtists": 866,
+      "activeCollectors": 759,
+      "weekDaterange": [
+        "2021-03-08",
+        "2021-03-14"
+      ],
+      "weekNr": 10,
+      "days": [
+        {
+          "nr": 1,
+          "minted": 569,
+          "editionsCreated": 30233,
+          "editionsCollected": 1167,
+          "weekday": "Monday",
+          "dayofyear": 67,
+          "activeArtists": 229,
+          "activeCollectors": 256
+        },
+        {
+          "nr": 2,
+          "minted": 744,
+          "editionsCreated": 23991,
+          "editionsCollected": 996,
+          "weekday": "Tuesday",
+          "dayofyear": 68,
+          "activeArtists": 254,
+          "activeCollectors": 263
+        },
+        {
+          "nr": 3,
+          "minted": 784,
+          "editionsCreated": 29504,
+          "editionsCollected": 554,
+          "weekday": "Wednesday",
+          "dayofyear": 69,
+          "activeArtists": 238,
+          "activeCollectors": 213
+        },
+        {
+          "nr": 4,
+          "minted": 620,
+          "editionsCreated": 20165,
+          "editionsCollected": 625,
+          "weekday": "Thursday",
+          "dayofyear": 70,
+          "activeArtists": 240,
+          "activeCollectors": 194
+        },
+        {
+          "nr": 5,
+          "minted": 583,
+          "editionsCreated": 36841,
+          "editionsCollected": 553,
+          "weekday": "Friday",
+          "dayofyear": 71,
+          "activeArtists": 248,
+          "activeCollectors": 233
+        },
+        {
+          "nr": 6,
+          "minted": 570,
+          "editionsCreated": 22052,
+          "editionsCollected": 601,
+          "weekday": "Saturday",
+          "dayofyear": 72,
+          "activeArtists": 214,
+          "activeCollectors": 168
+        },
+        {
+          "nr": 7,
+          "minted": 486,
+          "editionsCreated": 34589,
+          "editionsCollected": 576,
+          "weekday": "Sunday",
+          "dayofyear": 73,
+          "activeArtists": 210,
+          "activeCollectors": 156
+        }
+      ]
+    },
+    {
+      "minted": 3892,
+      "editionsCreated": 287896,
+      "editionsCollected": 6431,
+      "activeArtists": 898,
+      "activeCollectors": 759,
+      "weekDaterange": [
+        "2021-03-15",
+        "2021-03-21"
+      ],
+      "weekNr": 11,
+      "days": [
+        {
+          "nr": 1,
+          "minted": 149,
+          "editionsCreated": 2390,
+          "editionsCollected": 35,
+          "weekday": "Monday",
+          "dayofyear": 74,
+          "activeArtists": 98,
+          "activeCollectors": 21
+        },
+        {
+          "nr": 2,
+          "minted": 514,
+          "editionsCreated": 49222,
+          "editionsCollected": 826,
+          "weekday": "Tuesday",
+          "dayofyear": 75,
+          "activeArtists": 226,
+          "activeCollectors": 195
+        },
+        {
+          "nr": 3,
+          "minted": 584,
+          "editionsCreated": 26197,
+          "editionsCollected": 873,
+          "weekday": "Wednesday",
+          "dayofyear": 76,
+          "activeArtists": 262,
+          "activeCollectors": 264
+        },
+        {
+          "nr": 4,
+          "minted": 682,
+          "editionsCreated": 64915,
+          "editionsCollected": 1241,
+          "weekday": "Thursday",
+          "dayofyear": 77,
+          "activeArtists": 274,
+          "activeCollectors": 325
+        },
+        {
+          "nr": 5,
+          "minted": 578,
+          "editionsCreated": 37584,
+          "editionsCollected": 1116,
+          "weekday": "Friday",
+          "dayofyear": 78,
+          "activeArtists": 281,
+          "activeCollectors": 262
+        },
+        {
+          "nr": 6,
+          "minted": 691,
+          "editionsCreated": 53710,
+          "editionsCollected": 980,
+          "weekday": "Saturday",
+          "dayofyear": 79,
+          "activeArtists": 254,
+          "activeCollectors": 244
+        },
+        {
+          "nr": 7,
+          "minted": 694,
+          "editionsCreated": 53878,
+          "editionsCollected": 1360,
+          "weekday": "Sunday",
+          "dayofyear": 80,
+          "activeArtists": 297,
+          "activeCollectors": 307
+        }
+      ]
+    },
+    {
+      "minted": 6033,
+      "editionsCreated": 517616,
+      "editionsCollected": 30826,
+      "activeArtists": 1311,
+      "activeCollectors": 1580,
+      "weekDaterange": [
+        "2021-03-22",
+        "2021-03-28"
+      ],
+      "weekNr": 12,
+      "days": [
+        {
+          "nr": 1,
+          "minted": 790,
+          "editionsCreated": 66436,
+          "editionsCollected": 1694,
+          "weekday": "Monday",
+          "dayofyear": 81,
+          "activeArtists": 332,
+          "activeCollectors": 430
+        },
+        {
+          "nr": 2,
+          "minted": 805,
+          "editionsCreated": 59505,
+          "editionsCollected": 1419,
+          "weekday": "Tuesday",
+          "dayofyear": 82,
+          "activeArtists": 307,
+          "activeCollectors": 370
+        },
+        {
+          "nr": 3,
+          "minted": 746,
+          "editionsCreated": 81523,
+          "editionsCollected": 1236,
+          "weekday": "Wednesday",
+          "dayofyear": 83,
+          "activeArtists": 332,
+          "activeCollectors": 336
+        },
+        {
+          "nr": 4,
+          "minted": 894,
+          "editionsCreated": 52425,
+          "editionsCollected": 1319,
+          "weekday": "Thursday",
+          "dayofyear": 84,
+          "activeArtists": 344,
+          "activeCollectors": 368
+        },
+        {
+          "nr": 5,
+          "minted": 914,
+          "editionsCreated": 78938,
+          "editionsCollected": 6683,
+          "weekday": "Friday",
+          "dayofyear": 85,
+          "activeArtists": 399,
+          "activeCollectors": 668
+        },
+        {
+          "nr": 6,
+          "minted": 974,
+          "editionsCreated": 58197,
+          "editionsCollected": 9314,
+          "weekday": "Saturday",
+          "dayofyear": 86,
+          "activeArtists": 392,
+          "activeCollectors": 801
+        },
+        {
+          "nr": 7,
+          "minted": 910,
+          "editionsCreated": 120592,
+          "editionsCollected": 9161,
+          "weekday": "Sunday",
+          "dayofyear": 87,
+          "activeArtists": 403,
+          "activeCollectors": 815
+        }
+      ]
+    },
+    {
+      "minted": 7166,
+      "editionsCreated": 397749,
+      "editionsCollected": 29668,
+      "activeArtists": 1534,
+      "activeCollectors": 1847,
+      "weekDaterange": [
+        "2021-03-29",
+        "2021-04-04"
+      ],
+      "weekNr": 13,
+      "days": [
+        {
+          "nr": 1,
+          "minted": 887,
+          "editionsCreated": 79032,
+          "editionsCollected": 5491,
+          "weekday": "Monday",
+          "dayofyear": 88,
+          "activeArtists": 396,
+          "activeCollectors": 752
+        },
+        {
+          "nr": 2,
+          "minted": 1057,
+          "editionsCreated": 54866,
+          "editionsCollected": 4629,
+          "weekday": "Tuesday",
+          "dayofyear": 89,
+          "activeArtists": 441,
+          "activeCollectors": 656
+        },
+        {
+          "nr": 3,
+          "minted": 1076,
+          "editionsCreated": 89991,
+          "editionsCollected": 4323,
+          "weekday": "Wednesday",
+          "dayofyear": 90,
+          "activeArtists": 454,
+          "activeCollectors": 685
+        },
+        {
+          "nr": 4,
+          "minted": 1249,
+          "editionsCreated": 50654,
+          "editionsCollected": 4112,
+          "weekday": "Thursday",
+          "dayofyear": 91,
+          "activeArtists": 504,
+          "activeCollectors": 703
+        },
+        {
+          "nr": 5,
+          "minted": 959,
+          "editionsCreated": 40917,
+          "editionsCollected": 3857,
+          "weekday": "Friday",
+          "dayofyear": 92,
+          "activeArtists": 445,
+          "activeCollectors": 617
+        },
+        {
+          "nr": 6,
+          "minted": 974,
+          "editionsCreated": 26400,
+          "editionsCollected": 3498,
+          "weekday": "Saturday",
+          "dayofyear": 93,
+          "activeArtists": 419,
+          "activeCollectors": 611
+        },
+        {
+          "nr": 7,
+          "minted": 964,
+          "editionsCreated": 55889,
+          "editionsCollected": 3758,
+          "weekday": "Sunday",
+          "dayofyear": 94,
+          "activeArtists": 428,
+          "activeCollectors": 647
+        }
+      ]
+    },
+    {
+      "minted": 6814,
+      "editionsCreated": 230614,
+      "editionsCollected": 24870,
+      "activeArtists": 1700,
+      "activeCollectors": 1883,
+      "weekDaterange": [
+        "2021-04-05",
+        "2021-04-11"
+      ],
+      "weekNr": 14,
+      "days": [
+        {
+          "nr": 1,
+          "minted": 926,
+          "editionsCreated": 20707,
+          "editionsCollected": 3382,
+          "weekday": "Monday",
+          "dayofyear": 95,
+          "activeArtists": 448,
+          "activeCollectors": 614
+        },
+        {
+          "nr": 2,
+          "minted": 864,
+          "editionsCreated": 47409,
+          "editionsCollected": 3418,
+          "weekday": "Tuesday",
+          "dayofyear": 96,
+          "activeArtists": 445,
+          "activeCollectors": 656
+        },
+        {
+          "nr": 3,
+          "minted": 920,
+          "editionsCreated": 23454,
+          "editionsCollected": 3154,
+          "weekday": "Wednesday",
+          "dayofyear": 97,
+          "activeArtists": 485,
+          "activeCollectors": 636
+        },
+        {
+          "nr": 4,
+          "minted": 954,
+          "editionsCreated": 24672,
+          "editionsCollected": 4292,
+          "weekday": "Thursday",
+          "dayofyear": 98,
+          "activeArtists": 477,
+          "activeCollectors": 777
+        },
+        {
+          "nr": 5,
+          "minted": 1034,
+          "editionsCreated": 36751,
+          "editionsCollected": 3658,
+          "weekday": "Friday",
+          "dayofyear": 99,
+          "activeArtists": 552,
+          "activeCollectors": 755
+        },
+        {
+          "nr": 6,
+          "minted": 1040,
+          "editionsCreated": 45923,
+          "editionsCollected": 3095,
+          "weekday": "Saturday",
+          "dayofyear": 100,
+          "activeArtists": 486,
+          "activeCollectors": 702
+        },
+        {
+          "nr": 7,
+          "minted": 1076,
+          "editionsCreated": 31698,
+          "editionsCollected": 3871,
+          "weekday": "Sunday",
+          "dayofyear": 101,
+          "activeArtists": 521,
+          "activeCollectors": 765
+        }
+      ]
+    },
+    {
+      "minted": 8117,
+      "editionsCreated": 325890,
+      "editionsCollected": 24988,
+      "activeArtists": 2093,
+      "activeCollectors": 2286,
+      "weekDaterange": [
+        "2021-04-12",
+        "2021-04-18"
+      ],
+      "weekNr": 15,
+      "days": [
+        {
+          "nr": 1,
+          "minted": 1085,
+          "editionsCreated": 21102,
+          "editionsCollected": 3030,
+          "weekday": "Monday",
+          "dayofyear": 102,
+          "activeArtists": 535,
+          "activeCollectors": 765
+        },
+        {
+          "nr": 2,
+          "minted": 1106,
+          "editionsCreated": 61879,
+          "editionsCollected": 4111,
+          "weekday": "Tuesday",
+          "dayofyear": 103,
+          "activeArtists": 557,
+          "activeCollectors": 910
+        },
+        {
+          "nr": 3,
+          "minted": 1208,
+          "editionsCreated": 48010,
+          "editionsCollected": 3679,
+          "weekday": "Wednesday",
+          "dayofyear": 104,
+          "activeArtists": 590,
+          "activeCollectors": 889
+        },
+        {
+          "nr": 4,
+          "minted": 1195,
+          "editionsCreated": 45185,
+          "editionsCollected": 4091,
+          "weekday": "Thursday",
+          "dayofyear": 105,
+          "activeArtists": 659,
+          "activeCollectors": 941
+        },
+        {
+          "nr": 5,
+          "minted": 1269,
+          "editionsCreated": 38852,
+          "editionsCollected": 3867,
+          "weekday": "Friday",
+          "dayofyear": 106,
+          "activeArtists": 658,
+          "activeCollectors": 961
+        },
+        {
+          "nr": 6,
+          "minted": 1175,
+          "editionsCreated": 58750,
+          "editionsCollected": 2874,
+          "weekday": "Saturday",
+          "dayofyear": 107,
+          "activeArtists": 572,
+          "activeCollectors": 737
+        },
+        {
+          "nr": 7,
+          "minted": 1079,
+          "editionsCreated": 52112,
+          "editionsCollected": 3336,
+          "weekday": "Sunday",
+          "dayofyear": 108,
+          "activeArtists": 550,
+          "activeCollectors": 839
+        }
+      ]
+    },
+    {
+      "minted": 11020,
+      "editionsCreated": 1215904,
+      "editionsCollected": 172265,
+      "activeArtists": 3001,
+      "activeCollectors": 4547,
+      "weekDaterange": [
+        "2021-04-19",
+        "2021-04-25"
+      ],
+      "weekNr": 16,
+      "days": [
+        {
+          "nr": 1,
+          "minted": 1225,
+          "editionsCreated": 29845,
+          "editionsCollected": 4343,
+          "weekday": "Monday",
+          "dayofyear": 109,
+          "activeArtists": 634,
+          "activeCollectors": 986
+        },
+        {
+          "nr": 2,
+          "minted": 1144,
+          "editionsCreated": 43512,
+          "editionsCollected": 3351,
+          "weekday": "Tuesday",
+          "dayofyear": 110,
+          "activeArtists": 655,
+          "activeCollectors": 872
+        },
+        {
+          "nr": 3,
+          "minted": 1499,
+          "editionsCreated": 73923,
+          "editionsCollected": 6065,
+          "weekday": "Wednesday",
+          "dayofyear": 111,
+          "activeArtists": 736,
+          "activeCollectors": 1253
+        },
+        {
+          "nr": 4,
+          "minted": 1727,
+          "editionsCreated": 93982,
+          "editionsCollected": 6859,
+          "weekday": "Thursday",
+          "dayofyear": 112,
+          "activeArtists": 864,
+          "activeCollectors": 1358
+        },
+        {
+          "nr": 5,
+          "minted": 1911,
+          "editionsCreated": 388003,
+          "editionsCollected": 27601,
+          "weekday": "Friday",
+          "dayofyear": 113,
+          "activeArtists": 1057,
+          "activeCollectors": 2106
+        },
+        {
+          "nr": 6,
+          "minted": 1773,
+          "editionsCreated": 395700,
+          "editionsCollected": 69786,
+          "weekday": "Saturday",
+          "dayofyear": 114,
+          "activeArtists": 997,
+          "activeCollectors": 2586
+        },
+        {
+          "nr": 7,
+          "minted": 1741,
+          "editionsCreated": 190939,
+          "editionsCollected": 54260,
+          "weekday": "Sunday",
+          "dayofyear": 115,
+          "activeArtists": 938,
+          "activeCollectors": 2962
+        }
+      ]
+    },
+    {
+      "minted": 10888,
+      "editionsCreated": 931477,
+      "editionsCollected": 553335,
+      "activeArtists": 3000,
+      "activeCollectors": 4653,
+      "weekDaterange": [
+        "2021-04-26",
+        "2021-05-02"
+      ],
+      "weekNr": 17,
+      "days": [
+        {
+          "nr": 1,
+          "minted": 1676,
+          "editionsCreated": 154655,
+          "editionsCollected": 44101,
+          "weekday": "Monday",
+          "dayofyear": 116,
+          "activeArtists": 933,
+          "activeCollectors": 2594
+        },
+        {
+          "nr": 2,
+          "minted": 1557,
+          "editionsCreated": 75537,
+          "editionsCollected": 23630,
+          "weekday": "Tuesday",
+          "dayofyear": 117,
+          "activeArtists": 821,
+          "activeCollectors": 1859
+        },
+        {
+          "nr": 3,
+          "minted": 1577,
+          "editionsCreated": 122772,
+          "editionsCollected": 49980,
+          "weekday": "Wednesday",
+          "dayofyear": 118,
+          "activeArtists": 833,
+          "activeCollectors": 1722
+        },
+        {
+          "nr": 4,
+          "minted": 1603,
+          "editionsCreated": 119655,
+          "editionsCollected": 172199,
+          "weekday": "Thursday",
+          "dayofyear": 119,
+          "activeArtists": 873,
+          "activeCollectors": 1670
+        },
+        {
+          "nr": 5,
+          "minted": 1547,
+          "editionsCreated": 116158,
+          "editionsCollected": 193250,
+          "weekday": "Friday",
+          "dayofyear": 120,
+          "activeArtists": 835,
+          "activeCollectors": 1538
+        },
+        {
+          "nr": 6,
+          "minted": 1425,
+          "editionsCreated": 87923,
+          "editionsCollected": 63762,
+          "weekday": "Saturday",
+          "dayofyear": 121,
+          "activeArtists": 760,
+          "activeCollectors": 1270
+        },
+        {
+          "nr": 7,
+          "minted": 1503,
+          "editionsCreated": 254777,
+          "editionsCollected": 6413,
+          "weekday": "Sunday",
+          "dayofyear": 122,
+          "activeArtists": 768,
+          "activeCollectors": 1341
+        }
+      ]
+    },
+    {
+      "minted": 11629,
+      "editionsCreated": 909199,
+      "editionsCollected": 63649,
+      "activeArtists": 3172,
+      "activeCollectors": 3998,
+      "weekDaterange": [
+        "2021-05-03",
+        "2021-05-09"
+      ],
+      "weekNr": 18,
+      "days": [
+        {
+          "nr": 1,
+          "minted": 1681,
+          "editionsCreated": 76839,
+          "editionsCollected": 9574,
+          "weekday": "Monday",
+          "dayofyear": 123,
+          "activeArtists": 894,
+          "activeCollectors": 1420
+        },
+        {
+          "nr": 2,
+          "minted": 1697,
+          "editionsCreated": 62964,
+          "editionsCollected": 10924,
+          "weekday": "Tuesday",
+          "dayofyear": 124,
+          "activeArtists": 860,
+          "activeCollectors": 1487
+        },
+        {
+          "nr": 3,
+          "minted": 1863,
+          "editionsCreated": 104120,
+          "editionsCollected": 11479,
+          "weekday": "Wednesday",
+          "dayofyear": 125,
+          "activeArtists": 894,
+          "activeCollectors": 1576
+        },
+        {
+          "nr": 4,
+          "minted": 1917,
+          "editionsCreated": 116109,
+          "editionsCollected": 9087,
+          "weekday": "Thursday",
+          "dayofyear": 126,
+          "activeArtists": 971,
+          "activeCollectors": 1651
+        },
+        {
+          "nr": 5,
+          "minted": 1597,
+          "editionsCreated": 103277,
+          "editionsCollected": 6644,
+          "weekday": "Friday",
+          "dayofyear": 127,
+          "activeArtists": 875,
+          "activeCollectors": 1425
+        },
+        {
+          "nr": 6,
+          "minted": 1551,
+          "editionsCreated": 245387,
+          "editionsCollected": 6413,
+          "weekday": "Saturday",
+          "dayofyear": 128,
+          "activeArtists": 831,
+          "activeCollectors": 1354
+        },
+        {
+          "nr": 7,
+          "minted": 1323,
+          "editionsCreated": 200503,
+          "editionsCollected": 9528,
+          "weekday": "Sunday",
+          "dayofyear": 129,
+          "activeArtists": 740,
+          "activeCollectors": 1285
+        }
+      ]
+    },
+    {
+      "minted": 12268,
+      "editionsCreated": 754218,
+      "editionsCollected": 41533,
+      "activeArtists": 3764,
+      "activeCollectors": 4533,
+      "weekDaterange": [
+        "2021-05-10",
+        "2021-05-16"
+      ],
+      "weekNr": 19,
+      "days": [
+        {
+          "nr": 1,
+          "minted": 1512,
+          "editionsCreated": 111583,
+          "editionsCollected": 6243,
+          "weekday": "Monday",
+          "dayofyear": 130,
+          "activeArtists": 894,
+          "activeCollectors": 1471
+        },
+        {
+          "nr": 2,
+          "minted": 1688,
+          "editionsCreated": 142927,
+          "editionsCollected": 4975,
+          "weekday": "Tuesday",
+          "dayofyear": 131,
+          "activeArtists": 990,
+          "activeCollectors": 1446
+        },
+        {
+          "nr": 3,
+          "minted": 1803,
+          "editionsCreated": 105713,
+          "editionsCollected": 6393,
+          "weekday": "Wednesday",
+          "dayofyear": 132,
+          "activeArtists": 1123,
+          "activeCollectors": 1780
+        },
+        {
+          "nr": 4,
+          "minted": 2057,
+          "editionsCreated": 82777,
+          "editionsCollected": 6628,
+          "weekday": "Thursday",
+          "dayofyear": 133,
+          "activeArtists": 1102,
+          "activeCollectors": 1725
+        },
+        {
+          "nr": 5,
+          "minted": 1844,
+          "editionsCreated": 166647,
+          "editionsCollected": 5951,
+          "weekday": "Friday",
+          "dayofyear": 134,
+          "activeArtists": 1041,
+          "activeCollectors": 1633
+        },
+        {
+          "nr": 6,
+          "minted": 1499,
+          "editionsCreated": 47794,
+          "editionsCollected": 5257,
+          "weekday": "Saturday",
+          "dayofyear": 135,
+          "activeArtists": 915,
+          "activeCollectors": 1446
+        },
+        {
+          "nr": 7,
+          "minted": 1865,
+          "editionsCreated": 96777,
+          "editionsCollected": 6086,
+          "weekday": "Sunday",
+          "dayofyear": 136,
+          "activeArtists": 930,
+          "activeCollectors": 1548
+        }
+      ]
+    },
+    {
+      "minted": 11204,
+      "editionsCreated": 712149,
+      "editionsCollected": 46924,
+      "activeArtists": 3609,
+      "activeCollectors": 4650,
+      "weekDaterange": [
+        "2021-05-17",
+        "2021-05-23"
+      ],
+      "weekNr": 20,
+      "days": [
+        {
+          "nr": 1,
+          "minted": 1615,
+          "editionsCreated": 184334,
+          "editionsCollected": 6513,
+          "weekday": "Monday",
+          "dayofyear": 137,
+          "activeArtists": 925,
+          "activeCollectors": 1552
+        },
+        {
+          "nr": 2,
+          "minted": 1611,
+          "editionsCreated": 56254,
+          "editionsCollected": 6668,
+          "weekday": "Tuesday",
+          "dayofyear": 138,
+          "activeArtists": 965,
+          "activeCollectors": 1822
+        },
+        {
+          "nr": 3,
+          "minted": 1632,
+          "editionsCreated": 76338,
+          "editionsCollected": 5894,
+          "weekday": "Wednesday",
+          "dayofyear": 139,
+          "activeArtists": 958,
+          "activeCollectors": 1755
+        },
+        {
+          "nr": 4,
+          "minted": 1834,
+          "editionsCreated": 150380,
+          "editionsCollected": 7635,
+          "weekday": "Thursday",
+          "dayofyear": 140,
+          "activeArtists": 1054,
+          "activeCollectors": 1951
+        },
+        {
+          "nr": 5,
+          "minted": 1784,
+          "editionsCreated": 109460,
+          "editionsCollected": 6493,
+          "weekday": "Friday",
+          "dayofyear": 141,
+          "activeArtists": 1036,
+          "activeCollectors": 1692
+        },
+        {
+          "nr": 6,
+          "minted": 1442,
+          "editionsCreated": 97900,
+          "editionsCollected": 6682,
+          "weekday": "Saturday",
+          "dayofyear": 142,
+          "activeArtists": 860,
+          "activeCollectors": 1587
+        },
+        {
+          "nr": 7,
+          "minted": 1286,
+          "editionsCreated": 37483,
+          "editionsCollected": 7039,
+          "weekday": "Sunday",
+          "dayofyear": 143,
+          "activeArtists": 750,
+          "activeCollectors": 1643
+        }
+      ]
+    },
+    {
+      "minted": 10250,
+      "editionsCreated": 672592,
+      "editionsCollected": 55170,
+      "activeArtists": 3306,
+      "activeCollectors": 4595,
+      "weekDaterange": [
+        "2021-05-24",
+        "2021-05-30"
+      ],
+      "weekNr": 21,
+      "days": [
+        {
+          "nr": 1,
+          "minted": 1654,
+          "editionsCreated": 62794,
+          "editionsCollected": 7393,
+          "weekday": "Monday",
+          "dayofyear": 144,
+          "activeArtists": 924,
+          "activeCollectors": 1693
+        },
+        {
+          "nr": 2,
+          "minted": 1459,
+          "editionsCreated": 124034,
+          "editionsCollected": 7504,
+          "weekday": "Tuesday",
+          "dayofyear": 145,
+          "activeArtists": 899,
+          "activeCollectors": 1753
+        },
+        {
+          "nr": 3,
+          "minted": 1892,
+          "editionsCreated": 192489,
+          "editionsCollected": 7949,
+          "weekday": "Wednesday",
+          "dayofyear": 146,
+          "activeArtists": 1038,
+          "activeCollectors": 1837
+        },
+        {
+          "nr": 4,
+          "minted": 1610,
+          "editionsCreated": 85095,
+          "editionsCollected": 7495,
+          "weekday": "Thursday",
+          "dayofyear": 147,
+          "activeArtists": 933,
+          "activeCollectors": 1766
+        },
+        {
+          "nr": 5,
+          "minted": 1716,
+          "editionsCreated": 92519,
+          "editionsCollected": 10182,
+          "weekday": "Friday",
+          "dayofyear": 148,
+          "activeArtists": 986,
+          "activeCollectors": 2041
+        },
+        {
+          "nr": 6,
+          "minted": 1497,
+          "editionsCreated": 55232,
+          "editionsCollected": 12261,
+          "weekday": "Saturday",
+          "dayofyear": 149,
+          "activeArtists": 842,
+          "activeCollectors": 1874
+        },
+        {
+          "nr": 7,
+          "minted": 422,
+          "editionsCreated": 60429,
+          "editionsCollected": 2386,
+          "weekday": "Sunday",
+          "dayofyear": 150,
+          "activeArtists": 253,
+          "activeCollectors": 724
+        }
+      ]
+    }
+  ]
+}
