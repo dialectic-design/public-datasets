@@ -2,29 +2,32 @@
   "datafile": "export-for-week-21",
   "statsForWeek": 21,
   "minMintDate": "2021-03-01T03:39:21+00:00",
-  "maxMintDate": "2021-05-30T09:55:18+00:00",
+  "maxMintDate": "2021-05-30T23:59:14+00:00",
   "minCollectDate": "2021-03-01T09:58:07+00:00",
-  "maxCollectDate": "2021-05-30T10:00:18+00:00",
-  "totalUsers": 16995,
-  "artists": 12074,
-  "collectors": 12437,
-  "artistCollectors": 7516,
-  "pureArtists": 4558,
-  "pureCollectors": 4921,
-  "totalObjkts": 105293,
-  "totalEditions": 7241202,
-  "totalCollects": 533564,
-  "totalEditionsCollected": 1056831,
+  "maxCollectDate": "2021-05-30T23:59:14+00:00",
+  "totalUsers": 17109,
+  "artists": 12140,
+  "collectors": 12544,
+  "artistCollectors": 7575,
+  "pureArtists": 4565,
+  "pureCollectors": 4969,
+  "totalObjkts": 106385,
+  "totalEditions": 7280302,
+  "totalCollects": 539479,
+  "totalEditionsCollected": 1063329,
   "week-21": {
-    "minted": 10250,
-    "editionsCreated": 672592,
-    "editionsCollected": 55170,
-    "activeArtists": 3306,
-    "activeCollectors": 4595,
+    "minted": 11342,
+    "editionsCreated": 711692,
+    "editionsCollected": 61668,
+    "activeArtists": 3491,
+    "activeCollectors": 4819,
     "weekDaterange": [
       "2021-05-24",
       "2021-05-30"
     ],
+    "newUsers": 0,
+    "newArtists": 0,
+    "newCollectors": 0,
     "weekNr": 21,
     "days": [
       {
@@ -89,13 +92,13 @@
       },
       {
         "nr": 7,
-        "minted": 422,
-        "editionsCreated": 60429,
-        "editionsCollected": 2386,
+        "minted": 1514,
+        "editionsCreated": 99529,
+        "editionsCollected": 8884,
         "weekday": "Sunday",
         "dayofyear": 150,
-        "activeArtists": 253,
-        "activeCollectors": 724
+        "activeArtists": 799,
+        "activeCollectors": 1816
       }
     ]
   },
@@ -110,6 +113,9 @@
         "2021-03-01",
         "2021-03-07"
       ],
+      "newUsers": 0,
+      "newArtists": 0,
+      "newCollectors": 0,
       "weekNr": 9,
       "days": [
         {
@@ -194,6 +200,9 @@
         "2021-03-08",
         "2021-03-14"
       ],
+      "newUsers": 0,
+      "newArtists": 0,
+      "newCollectors": 0,
       "weekNr": 10,
       "days": [
         {
@@ -278,6 +287,9 @@
         "2021-03-15",
         "2021-03-21"
       ],
+      "newUsers": 0,
+      "newArtists": 0,
+      "newCollectors": 0,
       "weekNr": 11,
       "days": [
         {
@@ -362,6 +374,9 @@
         "2021-03-22",
         "2021-03-28"
       ],
+      "newUsers": 0,
+      "newArtists": 0,
+      "newCollectors": 0,
       "weekNr": 12,
       "days": [
         {
@@ -446,6 +461,9 @@
         "2021-03-29",
         "2021-04-04"
       ],
+      "newUsers": 0,
+      "newArtists": 0,
+      "newCollectors": 0,
       "weekNr": 13,
       "days": [
         {
@@ -530,6 +548,9 @@
         "2021-04-05",
         "2021-04-11"
       ],
+      "newUsers": 0,
+      "newArtists": 0,
+      "newCollectors": 0,
       "weekNr": 14,
       "days": [
         {
@@ -614,6 +635,9 @@
         "2021-04-12",
         "2021-04-18"
       ],
+      "newUsers": 0,
+      "newArtists": 0,
+      "newCollectors": 0,
       "weekNr": 15,
       "days": [
         {
@@ -698,6 +722,9 @@
         "2021-04-19",
         "2021-04-25"
       ],
+      "newUsers": 0,
+      "newArtists": 0,
+      "newCollectors": 0,
       "weekNr": 16,
       "days": [
         {
@@ -782,6 +809,9 @@
         "2021-04-26",
         "2021-05-02"
       ],
+      "newUsers": 0,
+      "newArtists": 0,
+      "newCollectors": 0,
       "weekNr": 17,
       "days": [
         {
@@ -866,6 +896,9 @@
         "2021-05-03",
         "2021-05-09"
       ],
+      "newUsers": 0,
+      "newArtists": 0,
+      "newCollectors": 0,
       "weekNr": 18,
       "days": [
         {
@@ -950,6 +983,9 @@
         "2021-05-10",
         "2021-05-16"
       ],
+      "newUsers": 0,
+      "newArtists": 0,
+      "newCollectors": 0,
       "weekNr": 19,
       "days": [
         {
@@ -1034,6 +1070,9 @@
         "2021-05-17",
         "2021-05-23"
       ],
+      "newUsers": 0,
+      "newArtists": 0,
+      "newCollectors": 0,
       "weekNr": 20,
       "days": [
         {
@@ -1109,15 +1148,18 @@
       ]
     },
     {
-      "minted": 10250,
-      "editionsCreated": 672592,
-      "editionsCollected": 55170,
-      "activeArtists": 3306,
-      "activeCollectors": 4595,
+      "minted": 11342,
+      "editionsCreated": 711692,
+      "editionsCollected": 61668,
+      "activeArtists": 3491,
+      "activeCollectors": 4819,
       "weekDaterange": [
         "2021-05-24",
         "2021-05-30"
       ],
+      "newUsers": 0,
+      "newArtists": 0,
+      "newCollectors": 0,
       "weekNr": 21,
       "days": [
         {
@@ -1182,13 +1224,13 @@
         },
         {
           "nr": 7,
-          "minted": 422,
-          "editionsCreated": 60429,
-          "editionsCollected": 2386,
+          "minted": 1514,
+          "editionsCreated": 99529,
+          "editionsCollected": 8884,
           "weekday": "Sunday",
           "dayofyear": 150,
-          "activeArtists": 253,
-          "activeCollectors": 724
+          "activeArtists": 799,
+          "activeCollectors": 1816
         }
       ]
     }
