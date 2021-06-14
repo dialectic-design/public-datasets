@@ -18,3 +18,9 @@ Hicetnunc statistics
 Hicetnunc weekly files
 
 [https://dialectic-design.github.io/public-datasets/hic-et-nunc-stats-week-21.json](https://dialectic-design.github.io/public-datasets/hic-et-nunc-stats-week-21.json)
+
+[https://dialectic-design.github.io/public-datasets/hic-et-nunc-stats-week-22.json](https://dialectic-design.github.io/public-datasets/hic-et-nunc-stats-week-22.json)
+
+[https://dialectic-design.github.io/public-datasets/hic-et-nunc-stats-week-23.json](https://dialectic-design.github.io/public-datasets/hic-et-nunc-stats-week-23.json)
+
+[https://dialectic-design.github.io/public-datasets/artists.csv](https://dialectic-design.github.io/public-datasets/artists.csv)
