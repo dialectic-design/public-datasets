@@ -41,10 +41,10 @@
     "newCollectors": 455,
     "burns": 232788,
     "burnsUpToWeek": 21215864,
-    "influxForWeek": 98646.724182,
-    "influxUpToWeek": 1863938.171831,
-    "xtzTradedInWeek": 135256.484866,
-    "xtzTradedUpToWeek": 2779477.006931999,
+    "influxForWeek": 98631.824182,
+    "influxUpToWeek": 1863923.0718309998,
+    "xtzTradedInWeek": 135239.68486600003,
+    "xtzTradedUpToWeek": 2779460.2069319994,
     "weekNr": 30,
     "days": [
       {
@@ -3672,10 +3672,10 @@
       "newCollectors": 455,
       "burns": 232788,
       "burnsUpToWeek": 21215864,
-      "influxForWeek": 98646.724182,
-      "influxUpToWeek": 1863938.171831,
-      "xtzTradedInWeek": 135256.484866,
-      "xtzTradedUpToWeek": 2779477.006931999,
+      "influxForWeek": 98631.824182,
+      "influxUpToWeek": 1863923.0718309998,
+      "xtzTradedInWeek": 135239.68486600003,
+      "xtzTradedUpToWeek": 2779460.2069319994,
       "weekNr": 30,
       "days": [
         {
