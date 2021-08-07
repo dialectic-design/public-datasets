@@ -46,6 +46,14 @@
     "influxUpToWeek": 1706825.5692159997,
     "xtzTradedInWeek": 122304.205399,
     "xtzTradedUpToWeek": 2516835.7692249995,
+    "averageXtzPerEditionPerTrade": 2.8930789067565965,
+    "xtzPerEditionPerTradeQuantiles": {
+      "min": 0.0,
+      "q1": 0.0,
+      "median": 0.64,
+      "q3": 2.0,
+      "max": 11500.0
+    },
     "weekNr": 28,
     "days": [
       {
@@ -220,6 +228,14 @@
       "influxUpToWeek": 9336.584836,
       "xtzTradedInWeek": 12804.163321,
       "xtzTradedUpToWeek": 12804.163321,
+      "averageXtzPerEditionPerTrade": 6.097220629047619,
+      "xtzPerEditionPerTradeQuantiles": {
+        "min": 0.0,
+        "q1": 0.0,
+        "median": 0.9,
+        "q3": 3.0,
+        "max": 1000.0
+      },
       "weekNr": 9,
       "days": [
         {
@@ -393,6 +409,14 @@
       "influxUpToWeek": 27564.429617,
       "xtzTradedInWeek": 23159.29276,
       "xtzTradedUpToWeek": 35963.456081000004,
+      "averageXtzPerEditionPerTrade": 5.014424997350809,
+      "xtzPerEditionPerTradeQuantiles": {
+        "min": 0.0,
+        "q1": 0.0,
+        "median": 1.0,
+        "q3": 3.0,
+        "max": 1100.0
+      },
       "weekNr": 10,
       "days": [
         {
@@ -566,6 +590,14 @@
       "influxUpToWeek": 62212.80404599999,
       "xtzTradedInWeek": 42176.358131,
       "xtzTradedUpToWeek": 78139.814212,
+      "averageXtzPerEditionPerTrade": 5.7443074477688745,
+      "xtzPerEditionPerTradeQuantiles": {
+        "min": 0.0,
+        "q1": 0.3745,
+        "median": 1.0,
+        "q3": 5.0,
+        "max": 2000.0
+      },
       "weekNr": 11,
       "days": [
         {
@@ -739,6 +771,14 @@
       "influxUpToWeek": 109161.82627100001,
       "xtzTradedInWeek": 54699.81458900001,
       "xtzTradedUpToWeek": 132839.62880099998,
+      "averageXtzPerEditionPerTrade": 2.9903605300901956,
+      "xtzPerEditionPerTradeQuantiles": {
+        "min": 0.0,
+        "q1": 0.0,
+        "median": 0.0,
+        "q3": 1.2,
+        "max": 2000.0
+      },
       "weekNr": 12,
       "days": [
         {
@@ -912,6 +952,14 @@
       "influxUpToWeek": 266498.47684400005,
       "xtzTradedInWeek": 187137.324529,
       "xtzTradedUpToWeek": 319976.95333,
+      "averageXtzPerEditionPerTrade": 4.318735591802762,
+      "xtzPerEditionPerTradeQuantiles": {
+        "min": 0.0,
+        "q1": 0.0,
+        "median": 0.0,
+        "q3": 1.0,
+        "max": 2000.0
+      },
       "weekNr": 13,
       "days": [
         {
@@ -1085,6 +1133,14 @@
       "influxUpToWeek": 484137.9442119999,
       "xtzTradedInWeek": 242028.531275,
       "xtzTradedUpToWeek": 562005.4846050001,
+      "averageXtzPerEditionPerTrade": 5.679099143812315,
+      "xtzPerEditionPerTradeQuantiles": {
+        "min": 0.0,
+        "q1": 0.0,
+        "median": 0.0,
+        "q3": 2.0,
+        "max": 11500.0
+      },
       "weekNr": 14,
       "days": [
         {
@@ -1258,6 +1314,14 @@
       "influxUpToWeek": 573318.549957,
       "xtzTradedInWeek": 108954.515672,
       "xtzTradedUpToWeek": 670960.0002770002,
+      "averageXtzPerEditionPerTrade": 5.42595853841718,
+      "xtzPerEditionPerTradeQuantiles": {
+        "min": 0.0,
+        "q1": 0.0,
+        "median": 0.2,
+        "q3": 2.0,
+        "max": 11500.0
+      },
       "weekNr": 15,
       "days": [
         {
@@ -1431,6 +1495,14 @@
       "influxUpToWeek": 637411.8014710001,
       "xtzTradedInWeek": 93293.24377500001,
       "xtzTradedUpToWeek": 764253.2440520002,
+      "averageXtzPerEditionPerTrade": 2.843508133774859,
+      "xtzPerEditionPerTradeQuantiles": {
+        "min": 0.0,
+        "q1": 0.0,
+        "median": 0.0,
+        "q3": 1.0,
+        "max": 11500.0
+      },
       "weekNr": 16,
       "days": [
         {
@@ -1604,6 +1676,14 @@
       "influxUpToWeek": 720027.916867,
       "xtzTradedInWeek": 126015.64813599999,
       "xtzTradedUpToWeek": 890268.8921880003,
+      "averageXtzPerEditionPerTrade": 2.5226096754220406,
+      "xtzPerEditionPerTradeQuantiles": {
+        "min": 0.0,
+        "q1": 0.0,
+        "median": 0.0,
+        "q3": 1.0,
+        "max": 11500.0
+      },
       "weekNr": 17,
       "days": [
         {
@@ -1777,6 +1857,14 @@
       "influxUpToWeek": 784915.8674339999,
       "xtzTradedInWeek": 104187.730522,
       "xtzTradedUpToWeek": 994456.6227100003,
+      "averageXtzPerEditionPerTrade": 2.5253435056447167,
+      "xtzPerEditionPerTradeQuantiles": {
+        "min": 0.0,
+        "q1": 0.0,
+        "median": 0.0,
+        "q3": 1.0,
+        "max": 11500.0
+      },
       "weekNr": 18,
       "days": [
         {
@@ -1950,6 +2038,14 @@
       "influxUpToWeek": 842744.9507219999,
       "xtzTradedInWeek": 90117.73022499999,
       "xtzTradedUpToWeek": 1084574.3529350003,
+      "averageXtzPerEditionPerTrade": 2.5027845502027257,
+      "xtzPerEditionPerTradeQuantiles": {
+        "min": 0.0,
+        "q1": 0.0,
+        "median": 0.0,
+        "q3": 1.0,
+        "max": 11500.0
+      },
       "weekNr": 19,
       "days": [
         {
@@ -2123,6 +2219,14 @@
       "influxUpToWeek": 928577.4105279999,
       "xtzTradedInWeek": 135561.08434499998,
       "xtzTradedUpToWeek": 1220135.4372800002,
+      "averageXtzPerEditionPerTrade": 2.5471337999950405,
+      "xtzPerEditionPerTradeQuantiles": {
+        "min": 0.0,
+        "q1": 0.0,
+        "median": 0.01,
+        "q3": 1.0,
+        "max": 11500.0
+      },
       "weekNr": 20,
       "days": [
         {
@@ -2296,6 +2400,14 @@
       "influxUpToWeek": 1059072.017253,
       "xtzTradedInWeek": 210445.547406,
       "xtzTradedUpToWeek": 1430580.9846859998,
+      "averageXtzPerEditionPerTrade": 2.6507633555201275,
+      "xtzPerEditionPerTradeQuantiles": {
+        "min": 0.0,
+        "q1": 0.0,
+        "median": 0.1,
+        "q3": 1.11,
+        "max": 11500.0
+      },
       "weekNr": 21,
       "days": [
         {
@@ -2469,6 +2581,14 @@
       "influxUpToWeek": 1197502.0678770002,
       "xtzTradedInWeek": 227705.07114499997,
       "xtzTradedUpToWeek": 1658286.0558310002,
+      "averageXtzPerEditionPerTrade": 2.80410630430053,
+      "xtzPerEditionPerTradeQuantiles": {
+        "min": 0.0,
+        "q1": 0.0,
+        "median": 0.2,
+        "q3": 2.0,
+        "max": 11500.0
+      },
       "weekNr": 22,
       "days": [
         {
@@ -2642,6 +2762,14 @@
       "influxUpToWeek": 1323093.138359,
       "xtzTradedInWeek": 216349.99007499998,
       "xtzTradedUpToWeek": 1874636.0459059996,
+      "averageXtzPerEditionPerTrade": 2.7449982872544756,
+      "xtzPerEditionPerTradeQuantiles": {
+        "min": 0.0,
+        "q1": 0.0,
+        "median": 0.2,
+        "q3": 1.99,
+        "max": 11500.0
+      },
       "weekNr": 23,
       "days": [
         {
@@ -2815,6 +2943,14 @@
       "influxUpToWeek": 1461684.287747,
       "xtzTradedInWeek": 243133.99398600002,
       "xtzTradedUpToWeek": 2117770.039891999,
+      "averageXtzPerEditionPerTrade": 2.7392899425407244,
+      "xtzPerEditionPerTradeQuantiles": {
+        "min": 0.0,
+        "q1": 0.0,
+        "median": 0.5,
+        "q3": 1.5,
+        "max": 11500.0
+      },
       "weekNr": 24,
       "days": [
         {
@@ -2988,6 +3124,14 @@
       "influxUpToWeek": 1569818.1956520004,
       "xtzTradedInWeek": 178532.52357199998,
       "xtzTradedUpToWeek": 2296302.5634639994,
+      "averageXtzPerEditionPerTrade": 2.8176702869982884,
+      "xtzPerEditionPerTradeQuantiles": {
+        "min": 0.0,
+        "q1": 0.0,
+        "median": 0.5,
+        "q3": 2.0,
+        "max": 11500.0
+      },
       "weekNr": 25,
       "days": [
         {
@@ -3161,6 +3305,14 @@
       "influxUpToWeek": 1577851.076697,
       "xtzTradedInWeek": 12735.276835,
       "xtzTradedUpToWeek": 2309037.8402989996,
+      "averageXtzPerEditionPerTrade": 2.8243614246342434,
+      "xtzPerEditionPerTradeQuantiles": {
+        "min": 0.0,
+        "q1": 0.0,
+        "median": 0.5,
+        "q3": 2.0,
+        "max": 11500.0
+      },
       "weekNr": 26,
       "days": [
         {
@@ -3334,6 +3486,14 @@
       "influxUpToWeek": 1632062.6562509998,
       "xtzTradedInWeek": 85493.72352700001,
       "xtzTradedUpToWeek": 2394531.5638259994,
+      "averageXtzPerEditionPerTrade": 2.8650270844542414,
+      "xtzPerEditionPerTradeQuantiles": {
+        "min": 0.0,
+        "q1": 0.0,
+        "median": 0.6,
+        "q3": 2.0,
+        "max": 11500.0
+      },
       "weekNr": 27,
       "days": [
         {
@@ -3507,6 +3667,14 @@
       "influxUpToWeek": 1706825.5692159997,
       "xtzTradedInWeek": 122304.205399,
       "xtzTradedUpToWeek": 2516835.7692249995,
+      "averageXtzPerEditionPerTrade": 2.8930789067565965,
+      "xtzPerEditionPerTradeQuantiles": {
+        "min": 0.0,
+        "q1": 0.0,
+        "median": 0.64,
+        "q3": 2.0,
+        "max": 11500.0
+      },
       "weekNr": 28,
       "days": [
         {
