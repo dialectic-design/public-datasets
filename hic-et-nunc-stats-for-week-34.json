@@ -14,6 +14,208 @@
   "totalObjkts": 241568,
   "totalEditions": 34507517,
   "totalCollects": 817021,
+  "topTagsUpToWeek": [
+    {
+      "tag": "generative",
+      "counts": 28388
+    },
+    {
+      "tag": "art",
+      "counts": 27972
+    },
+    {
+      "tag": "illustration",
+      "counts": 26044
+    },
+    {
+      "tag": "abstract",
+      "counts": 18839
+    },
+    {
+      "tag": "3d",
+      "counts": 18148
+    },
+    {
+      "tag": "animation",
+      "counts": 17149
+    },
+    {
+      "tag": "digital",
+      "counts": 16131
+    },
+    {
+      "tag": "pixel",
+      "counts": 14760
+    },
+    {
+      "tag": "nft",
+      "counts": 13085
+    },
+    {
+      "tag": "photography",
+      "counts": 12868
+    },
+    {
+      "tag": "pixelart",
+      "counts": 12280
+    },
+    {
+      "tag": "digitalart",
+      "counts": 12269
+    },
+    {
+      "tag": "gif",
+      "counts": 11095
+    },
+    {
+      "tag": "programart",
+      "counts": 10729
+    },
+    {
+      "tag": "loop",
+      "counts": 9156
+    },
+    {
+      "tag": "nftcommunity",
+      "counts": 9090
+    },
+    {
+      "tag": "glitch",
+      "counts": 8809
+    },
+    {
+      "tag": "painting",
+      "counts": 8092
+    },
+    {
+      "tag": "ai",
+      "counts": 7583
+    },
+    {
+      "tag": "collectible",
+      "counts": 7299
+    },
+    {
+      "tag": "cryptoart",
+      "counts": 7104
+    },
+    {
+      "tag": "generativeart",
+      "counts": 6810
+    },
+    {
+      "tag": "drawing",
+      "counts": 6547
+    },
+    {
+      "tag": "2d",
+      "counts": 6080
+    },
+    {
+      "tag": "portrait",
+      "counts": 5990
+    },
+    {
+      "tag": "tezos",
+      "counts": 5592
+    },
+    {
+      "tag": "psychedelic",
+      "counts": 5367
+    },
+    {
+      "tag": "colorful",
+      "counts": 5314
+    },
+    {
+      "tag": "collage",
+      "counts": 5218
+    },
+    {
+      "tag": "nftpeople",
+      "counts": 5035
+    },
+    {
+      "tag": "nftart",
+      "counts": 4845
+    },
+    {
+      "tag": "crypto",
+      "counts": 4831
+    },
+    {
+      "tag": "cat",
+      "counts": 4680
+    },
+    {
+      "tag": "blackandwhite",
+      "counts": 4619
+    },
+    {
+      "tag": "dark",
+      "counts": 4576
+    },
+    {
+      "tag": "creativecoding",
+      "counts": 4527
+    },
+    {
+      "tag": "video",
+      "counts": 4500
+    },
+    {
+      "tag": "color",
+      "counts": 4472
+    },
+    {
+      "tag": "interactive",
+      "counts": 4381
+    },
+    {
+      "tag": "surreal",
+      "counts": 4263
+    },
+    {
+      "tag": "processing",
+      "counts": 4226
+    },
+    {
+      "tag": "trippy",
+      "counts": 4221
+    },
+    {
+      "tag": "photo",
+      "counts": 4110
+    },
+    {
+      "tag": "space",
+      "counts": 4057
+    },
+    {
+      "tag": "nature",
+      "counts": 4011
+    },
+    {
+      "tag": "artwork",
+      "counts": 3856
+    },
+    {
+      "tag": "black",
+      "counts": 3576
+    },
+    {
+      "tag": "colors",
+      "counts": 3402
+    },
+    {
+      "tag": "punk",
+      "counts": 3392
+    },
+    {
+      "tag": "glitchart",
+      "counts": 3364
+    }
+  ],
   "totalEditionsCollected": 1566913,
   "week-34": {
     "minted": 20731,
@@ -56,6 +258,209 @@
       "q3": 2.0,
       "max": 31337.0
     },
+    "nrOfTagsUsedInWeek": 158721,
+    "topTagsInWeek": [
+      {
+        "tag": "generative",
+        "counts": 28388
+      },
+      {
+        "tag": "art",
+        "counts": 27972
+      },
+      {
+        "tag": "illustration",
+        "counts": 26044
+      },
+      {
+        "tag": "abstract",
+        "counts": 18839
+      },
+      {
+        "tag": "3d",
+        "counts": 18148
+      },
+      {
+        "tag": "animation",
+        "counts": 17149
+      },
+      {
+        "tag": "digital",
+        "counts": 16131
+      },
+      {
+        "tag": "pixel",
+        "counts": 14760
+      },
+      {
+        "tag": "nft",
+        "counts": 13085
+      },
+      {
+        "tag": "photography",
+        "counts": 12868
+      },
+      {
+        "tag": "pixelart",
+        "counts": 12280
+      },
+      {
+        "tag": "digitalart",
+        "counts": 12269
+      },
+      {
+        "tag": "gif",
+        "counts": 11095
+      },
+      {
+        "tag": "programart",
+        "counts": 10729
+      },
+      {
+        "tag": "loop",
+        "counts": 9156
+      },
+      {
+        "tag": "nftcommunity",
+        "counts": 9090
+      },
+      {
+        "tag": "glitch",
+        "counts": 8809
+      },
+      {
+        "tag": "painting",
+        "counts": 8092
+      },
+      {
+        "tag": "ai",
+        "counts": 7583
+      },
+      {
+        "tag": "collectible",
+        "counts": 7299
+      },
+      {
+        "tag": "cryptoart",
+        "counts": 7104
+      },
+      {
+        "tag": "generativeart",
+        "counts": 6810
+      },
+      {
+        "tag": "drawing",
+        "counts": 6547
+      },
+      {
+        "tag": "2d",
+        "counts": 6080
+      },
+      {
+        "tag": "portrait",
+        "counts": 5990
+      },
+      {
+        "tag": "tezos",
+        "counts": 5592
+      },
+      {
+        "tag": "psychedelic",
+        "counts": 5367
+      },
+      {
+        "tag": "colorful",
+        "counts": 5314
+      },
+      {
+        "tag": "collage",
+        "counts": 5218
+      },
+      {
+        "tag": "nftpeople",
+        "counts": 5035
+      },
+      {
+        "tag": "nftart",
+        "counts": 4845
+      },
+      {
+        "tag": "crypto",
+        "counts": 4831
+      },
+      {
+        "tag": "cat",
+        "counts": 4680
+      },
+      {
+        "tag": "blackandwhite",
+        "counts": 4619
+      },
+      {
+        "tag": "dark",
+        "counts": 4576
+      },
+      {
+        "tag": "creativecoding",
+        "counts": 4527
+      },
+      {
+        "tag": "video",
+        "counts": 4500
+      },
+      {
+        "tag": "color",
+        "counts": 4472
+      },
+      {
+        "tag": "interactive",
+        "counts": 4381
+      },
+      {
+        "tag": "surreal",
+        "counts": 4263
+      },
+      {
+        "tag": "processing",
+        "counts": 4226
+      },
+      {
+        "tag": "trippy",
+        "counts": 4221
+      },
+      {
+        "tag": "photo",
+        "counts": 4110
+      },
+      {
+        "tag": "space",
+        "counts": 4057
+      },
+      {
+        "tag": "nature",
+        "counts": 4011
+      },
+      {
+        "tag": "artwork",
+        "counts": 3856
+      },
+      {
+        "tag": "black",
+        "counts": 3576
+      },
+      {
+        "tag": "colors",
+        "counts": 3402
+      },
+      {
+        "tag": "punk",
+        "counts": 3392
+      },
+      {
+        "tag": "glitchart",
+        "counts": 3364
+      }
+    ],
     "weekNr": 34,
     "days": [
       {
@@ -240,6 +645,209 @@
         "q3": 3.0,
         "max": 1000.0
       },
+      "nrOfTagsUsedInWeek": 0,
+      "topTagsInWeek": [
+        {
+          "tag": "generative",
+          "counts": 28388
+        },
+        {
+          "tag": "art",
+          "counts": 27972
+        },
+        {
+          "tag": "illustration",
+          "counts": 26044
+        },
+        {
+          "tag": "abstract",
+          "counts": 18839
+        },
+        {
+          "tag": "3d",
+          "counts": 18148
+        },
+        {
+          "tag": "animation",
+          "counts": 17149
+        },
+        {
+          "tag": "digital",
+          "counts": 16131
+        },
+        {
+          "tag": "pixel",
+          "counts": 14760
+        },
+        {
+          "tag": "nft",
+          "counts": 13085
+        },
+        {
+          "tag": "photography",
+          "counts": 12868
+        },
+        {
+          "tag": "pixelart",
+          "counts": 12280
+        },
+        {
+          "tag": "digitalart",
+          "counts": 12269
+        },
+        {
+          "tag": "gif",
+          "counts": 11095
+        },
+        {
+          "tag": "programart",
+          "counts": 10729
+        },
+        {
+          "tag": "loop",
+          "counts": 9156
+        },
+        {
+          "tag": "nftcommunity",
+          "counts": 9090
+        },
+        {
+          "tag": "glitch",
+          "counts": 8809
+        },
+        {
+          "tag": "painting",
+          "counts": 8092
+        },
+        {
+          "tag": "ai",
+          "counts": 7583
+        },
+        {
+          "tag": "collectible",
+          "counts": 7299
+        },
+        {
+          "tag": "cryptoart",
+          "counts": 7104
+        },
+        {
+          "tag": "generativeart",
+          "counts": 6810
+        },
+        {
+          "tag": "drawing",
+          "counts": 6547
+        },
+        {
+          "tag": "2d",
+          "counts": 6080
+        },
+        {
+          "tag": "portrait",
+          "counts": 5990
+        },
+        {
+          "tag": "tezos",
+          "counts": 5592
+        },
+        {
+          "tag": "psychedelic",
+          "counts": 5367
+        },
+        {
+          "tag": "colorful",
+          "counts": 5314
+        },
+        {
+          "tag": "collage",
+          "counts": 5218
+        },
+        {
+          "tag": "nftpeople",
+          "counts": 5035
+        },
+        {
+          "tag": "nftart",
+          "counts": 4845
+        },
+        {
+          "tag": "crypto",
+          "counts": 4831
+        },
+        {
+          "tag": "cat",
+          "counts": 4680
+        },
+        {
+          "tag": "blackandwhite",
+          "counts": 4619
+        },
+        {
+          "tag": "dark",
+          "counts": 4576
+        },
+        {
+          "tag": "creativecoding",
+          "counts": 4527
+        },
+        {
+          "tag": "video",
+          "counts": 4500
+        },
+        {
+          "tag": "color",
+          "counts": 4472
+        },
+        {
+          "tag": "interactive",
+          "counts": 4381
+        },
+        {
+          "tag": "surreal",
+          "counts": 4263
+        },
+        {
+          "tag": "processing",
+          "counts": 4226
+        },
+        {
+          "tag": "trippy",
+          "counts": 4221
+        },
+        {
+          "tag": "photo",
+          "counts": 4110
+        },
+        {
+          "tag": "space",
+          "counts": 4057
+        },
+        {
+          "tag": "nature",
+          "counts": 4011
+        },
+        {
+          "tag": "artwork",
+          "counts": 3856
+        },
+        {
+          "tag": "black",
+          "counts": 3576
+        },
+        {
+          "tag": "colors",
+          "counts": 3402
+        },
+        {
+          "tag": "punk",
+          "counts": 3392
+        },
+        {
+          "tag": "glitchart",
+          "counts": 3364
+        }
+      ],
       "weekNr": 9,
       "days": [
         {
@@ -423,6 +1031,209 @@
         "q3": 3.0,
         "max": 1100.0
       },
+      "nrOfTagsUsedInWeek": 15935,
+      "topTagsInWeek": [
+        {
+          "tag": "generative",
+          "counts": 28388
+        },
+        {
+          "tag": "art",
+          "counts": 27972
+        },
+        {
+          "tag": "illustration",
+          "counts": 26044
+        },
+        {
+          "tag": "abstract",
+          "counts": 18839
+        },
+        {
+          "tag": "3d",
+          "counts": 18148
+        },
+        {
+          "tag": "animation",
+          "counts": 17149
+        },
+        {
+          "tag": "digital",
+          "counts": 16131
+        },
+        {
+          "tag": "pixel",
+          "counts": 14760
+        },
+        {
+          "tag": "nft",
+          "counts": 13085
+        },
+        {
+          "tag": "photography",
+          "counts": 12868
+        },
+        {
+          "tag": "pixelart",
+          "counts": 12280
+        },
+        {
+          "tag": "digitalart",
+          "counts": 12269
+        },
+        {
+          "tag": "gif",
+          "counts": 11095
+        },
+        {
+          "tag": "programart",
+          "counts": 10729
+        },
+        {
+          "tag": "loop",
+          "counts": 9156
+        },
+        {
+          "tag": "nftcommunity",
+          "counts": 9090
+        },
+        {
+          "tag": "glitch",
+          "counts": 8809
+        },
+        {
+          "tag": "painting",
+          "counts": 8092
+        },
+        {
+          "tag": "ai",
+          "counts": 7583
+        },
+        {
+          "tag": "collectible",
+          "counts": 7299
+        },
+        {
+          "tag": "cryptoart",
+          "counts": 7104
+        },
+        {
+          "tag": "generativeart",
+          "counts": 6810
+        },
+        {
+          "tag": "drawing",
+          "counts": 6547
+        },
+        {
+          "tag": "2d",
+          "counts": 6080
+        },
+        {
+          "tag": "portrait",
+          "counts": 5990
+        },
+        {
+          "tag": "tezos",
+          "counts": 5592
+        },
+        {
+          "tag": "psychedelic",
+          "counts": 5367
+        },
+        {
+          "tag": "colorful",
+          "counts": 5314
+        },
+        {
+          "tag": "collage",
+          "counts": 5218
+        },
+        {
+          "tag": "nftpeople",
+          "counts": 5035
+        },
+        {
+          "tag": "nftart",
+          "counts": 4845
+        },
+        {
+          "tag": "crypto",
+          "counts": 4831
+        },
+        {
+          "tag": "cat",
+          "counts": 4680
+        },
+        {
+          "tag": "blackandwhite",
+          "counts": 4619
+        },
+        {
+          "tag": "dark",
+          "counts": 4576
+        },
+        {
+          "tag": "creativecoding",
+          "counts": 4527
+        },
+        {
+          "tag": "video",
+          "counts": 4500
+        },
+        {
+          "tag": "color",
+          "counts": 4472
+        },
+        {
+          "tag": "interactive",
+          "counts": 4381
+        },
+        {
+          "tag": "surreal",
+          "counts": 4263
+        },
+        {
+          "tag": "processing",
+          "counts": 4226
+        },
+        {
+          "tag": "trippy",
+          "counts": 4221
+        },
+        {
+          "tag": "photo",
+          "counts": 4110
+        },
+        {
+          "tag": "space",
+          "counts": 4057
+        },
+        {
+          "tag": "nature",
+          "counts": 4011
+        },
+        {
+          "tag": "artwork",
+          "counts": 3856
+        },
+        {
+          "tag": "black",
+          "counts": 3576
+        },
+        {
+          "tag": "colors",
+          "counts": 3402
+        },
+        {
+          "tag": "punk",
+          "counts": 3392
+        },
+        {
+          "tag": "glitchart",
+          "counts": 3364
+        }
+      ],
       "weekNr": 10,
       "days": [
         {
@@ -606,6 +1417,209 @@
         "q3": 5.0,
         "max": 2000.0
       },
+      "nrOfTagsUsedInWeek": 18858,
+      "topTagsInWeek": [
+        {
+          "tag": "generative",
+          "counts": 28388
+        },
+        {
+          "tag": "art",
+          "counts": 27972
+        },
+        {
+          "tag": "illustration",
+          "counts": 26044
+        },
+        {
+          "tag": "abstract",
+          "counts": 18839
+        },
+        {
+          "tag": "3d",
+          "counts": 18148
+        },
+        {
+          "tag": "animation",
+          "counts": 17149
+        },
+        {
+          "tag": "digital",
+          "counts": 16131
+        },
+        {
+          "tag": "pixel",
+          "counts": 14760
+        },
+        {
+          "tag": "nft",
+          "counts": 13085
+        },
+        {
+          "tag": "photography",
+          "counts": 12868
+        },
+        {
+          "tag": "pixelart",
+          "counts": 12280
+        },
+        {
+          "tag": "digitalart",
+          "counts": 12269
+        },
+        {
+          "tag": "gif",
+          "counts": 11095
+        },
+        {
+          "tag": "programart",
+          "counts": 10729
+        },
+        {
+          "tag": "loop",
+          "counts": 9156
+        },
+        {
+          "tag": "nftcommunity",
+          "counts": 9090
+        },
+        {
+          "tag": "glitch",
+          "counts": 8809
+        },
+        {
+          "tag": "painting",
+          "counts": 8092
+        },
+        {
+          "tag": "ai",
+          "counts": 7583
+        },
+        {
+          "tag": "collectible",
+          "counts": 7299
+        },
+        {
+          "tag": "cryptoart",
+          "counts": 7104
+        },
+        {
+          "tag": "generativeart",
+          "counts": 6810
+        },
+        {
+          "tag": "drawing",
+          "counts": 6547
+        },
+        {
+          "tag": "2d",
+          "counts": 6080
+        },
+        {
+          "tag": "portrait",
+          "counts": 5990
+        },
+        {
+          "tag": "tezos",
+          "counts": 5592
+        },
+        {
+          "tag": "psychedelic",
+          "counts": 5367
+        },
+        {
+          "tag": "colorful",
+          "counts": 5314
+        },
+        {
+          "tag": "collage",
+          "counts": 5218
+        },
+        {
+          "tag": "nftpeople",
+          "counts": 5035
+        },
+        {
+          "tag": "nftart",
+          "counts": 4845
+        },
+        {
+          "tag": "crypto",
+          "counts": 4831
+        },
+        {
+          "tag": "cat",
+          "counts": 4680
+        },
+        {
+          "tag": "blackandwhite",
+          "counts": 4619
+        },
+        {
+          "tag": "dark",
+          "counts": 4576
+        },
+        {
+          "tag": "creativecoding",
+          "counts": 4527
+        },
+        {
+          "tag": "video",
+          "counts": 4500
+        },
+        {
+          "tag": "color",
+          "counts": 4472
+        },
+        {
+          "tag": "interactive",
+          "counts": 4381
+        },
+        {
+          "tag": "surreal",
+          "counts": 4263
+        },
+        {
+          "tag": "processing",
+          "counts": 4226
+        },
+        {
+          "tag": "trippy",
+          "counts": 4221
+        },
+        {
+          "tag": "photo",
+          "counts": 4110
+        },
+        {
+          "tag": "space",
+          "counts": 4057
+        },
+        {
+          "tag": "nature",
+          "counts": 4011
+        },
+        {
+          "tag": "artwork",
+          "counts": 3856
+        },
+        {
+          "tag": "black",
+          "counts": 3576
+        },
+        {
+          "tag": "colors",
+          "counts": 3402
+        },
+        {
+          "tag": "punk",
+          "counts": 3392
+        },
+        {
+          "tag": "glitchart",
+          "counts": 3364
+        }
+      ],
       "weekNr": 11,
       "days": [
         {
@@ -789,6 +1803,209 @@
         "q3": 1.2,
         "max": 2000.0
       },
+      "nrOfTagsUsedInWeek": 29335,
+      "topTagsInWeek": [
+        {
+          "tag": "generative",
+          "counts": 28388
+        },
+        {
+          "tag": "art",
+          "counts": 27972
+        },
+        {
+          "tag": "illustration",
+          "counts": 26044
+        },
+        {
+          "tag": "abstract",
+          "counts": 18839
+        },
+        {
+          "tag": "3d",
+          "counts": 18148
+        },
+        {
+          "tag": "animation",
+          "counts": 17149
+        },
+        {
+          "tag": "digital",
+          "counts": 16131
+        },
+        {
+          "tag": "pixel",
+          "counts": 14760
+        },
+        {
+          "tag": "nft",
+          "counts": 13085
+        },
+        {
+          "tag": "photography",
+          "counts": 12868
+        },
+        {
+          "tag": "pixelart",
+          "counts": 12280
+        },
+        {
+          "tag": "digitalart",
+          "counts": 12269
+        },
+        {
+          "tag": "gif",
+          "counts": 11095
+        },
+        {
+          "tag": "programart",
+          "counts": 10729
+        },
+        {
+          "tag": "loop",
+          "counts": 9156
+        },
+        {
+          "tag": "nftcommunity",
+          "counts": 9090
+        },
+        {
+          "tag": "glitch",
+          "counts": 8809
+        },
+        {
+          "tag": "painting",
+          "counts": 8092
+        },
+        {
+          "tag": "ai",
+          "counts": 7583
+        },
+        {
+          "tag": "collectible",
+          "counts": 7299
+        },
+        {
+          "tag": "cryptoart",
+          "counts": 7104
+        },
+        {
+          "tag": "generativeart",
+          "counts": 6810
+        },
+        {
+          "tag": "drawing",
+          "counts": 6547
+        },
+        {
+          "tag": "2d",
+          "counts": 6080
+        },
+        {
+          "tag": "portrait",
+          "counts": 5990
+        },
+        {
+          "tag": "tezos",
+          "counts": 5592
+        },
+        {
+          "tag": "psychedelic",
+          "counts": 5367
+        },
+        {
+          "tag": "colorful",
+          "counts": 5314
+        },
+        {
+          "tag": "collage",
+          "counts": 5218
+        },
+        {
+          "tag": "nftpeople",
+          "counts": 5035
+        },
+        {
+          "tag": "nftart",
+          "counts": 4845
+        },
+        {
+          "tag": "crypto",
+          "counts": 4831
+        },
+        {
+          "tag": "cat",
+          "counts": 4680
+        },
+        {
+          "tag": "blackandwhite",
+          "counts": 4619
+        },
+        {
+          "tag": "dark",
+          "counts": 4576
+        },
+        {
+          "tag": "creativecoding",
+          "counts": 4527
+        },
+        {
+          "tag": "video",
+          "counts": 4500
+        },
+        {
+          "tag": "color",
+          "counts": 4472
+        },
+        {
+          "tag": "interactive",
+          "counts": 4381
+        },
+        {
+          "tag": "surreal",
+          "counts": 4263
+        },
+        {
+          "tag": "processing",
+          "counts": 4226
+        },
+        {
+          "tag": "trippy",
+          "counts": 4221
+        },
+        {
+          "tag": "photo",
+          "counts": 4110
+        },
+        {
+          "tag": "space",
+          "counts": 4057
+        },
+        {
+          "tag": "nature",
+          "counts": 4011
+        },
+        {
+          "tag": "artwork",
+          "counts": 3856
+        },
+        {
+          "tag": "black",
+          "counts": 3576
+        },
+        {
+          "tag": "colors",
+          "counts": 3402
+        },
+        {
+          "tag": "punk",
+          "counts": 3392
+        },
+        {
+          "tag": "glitchart",
+          "counts": 3364
+        }
+      ],
       "weekNr": 12,
       "days": [
         {
@@ -972,6 +2189,209 @@
         "q3": 1.0,
         "max": 2000.0
       },
+      "nrOfTagsUsedInWeek": 36878,
+      "topTagsInWeek": [
+        {
+          "tag": "generative",
+          "counts": 28388
+        },
+        {
+          "tag": "art",
+          "counts": 27972
+        },
+        {
+          "tag": "illustration",
+          "counts": 26044
+        },
+        {
+          "tag": "abstract",
+          "counts": 18839
+        },
+        {
+          "tag": "3d",
+          "counts": 18148
+        },
+        {
+          "tag": "animation",
+          "counts": 17149
+        },
+        {
+          "tag": "digital",
+          "counts": 16131
+        },
+        {
+          "tag": "pixel",
+          "counts": 14760
+        },
+        {
+          "tag": "nft",
+          "counts": 13085
+        },
+        {
+          "tag": "photography",
+          "counts": 12868
+        },
+        {
+          "tag": "pixelart",
+          "counts": 12280
+        },
+        {
+          "tag": "digitalart",
+          "counts": 12269
+        },
+        {
+          "tag": "gif",
+          "counts": 11095
+        },
+        {
+          "tag": "programart",
+          "counts": 10729
+        },
+        {
+          "tag": "loop",
+          "counts": 9156
+        },
+        {
+          "tag": "nftcommunity",
+          "counts": 9090
+        },
+        {
+          "tag": "glitch",
+          "counts": 8809
+        },
+        {
+          "tag": "painting",
+          "counts": 8092
+        },
+        {
+          "tag": "ai",
+          "counts": 7583
+        },
+        {
+          "tag": "collectible",
+          "counts": 7299
+        },
+        {
+          "tag": "cryptoart",
+          "counts": 7104
+        },
+        {
+          "tag": "generativeart",
+          "counts": 6810
+        },
+        {
+          "tag": "drawing",
+          "counts": 6547
+        },
+        {
+          "tag": "2d",
+          "counts": 6080
+        },
+        {
+          "tag": "portrait",
+          "counts": 5990
+        },
+        {
+          "tag": "tezos",
+          "counts": 5592
+        },
+        {
+          "tag": "psychedelic",
+          "counts": 5367
+        },
+        {
+          "tag": "colorful",
+          "counts": 5314
+        },
+        {
+          "tag": "collage",
+          "counts": 5218
+        },
+        {
+          "tag": "nftpeople",
+          "counts": 5035
+        },
+        {
+          "tag": "nftart",
+          "counts": 4845
+        },
+        {
+          "tag": "crypto",
+          "counts": 4831
+        },
+        {
+          "tag": "cat",
+          "counts": 4680
+        },
+        {
+          "tag": "blackandwhite",
+          "counts": 4619
+        },
+        {
+          "tag": "dark",
+          "counts": 4576
+        },
+        {
+          "tag": "creativecoding",
+          "counts": 4527
+        },
+        {
+          "tag": "video",
+          "counts": 4500
+        },
+        {
+          "tag": "color",
+          "counts": 4472
+        },
+        {
+          "tag": "interactive",
+          "counts": 4381
+        },
+        {
+          "tag": "surreal",
+          "counts": 4263
+        },
+        {
+          "tag": "processing",
+          "counts": 4226
+        },
+        {
+          "tag": "trippy",
+          "counts": 4221
+        },
+        {
+          "tag": "photo",
+          "counts": 4110
+        },
+        {
+          "tag": "space",
+          "counts": 4057
+        },
+        {
+          "tag": "nature",
+          "counts": 4011
+        },
+        {
+          "tag": "artwork",
+          "counts": 3856
+        },
+        {
+          "tag": "black",
+          "counts": 3576
+        },
+        {
+          "tag": "colors",
+          "counts": 3402
+        },
+        {
+          "tag": "punk",
+          "counts": 3392
+        },
+        {
+          "tag": "glitchart",
+          "counts": 3364
+        }
+      ],
       "weekNr": 13,
       "days": [
         {
@@ -1155,6 +2575,209 @@
         "q3": 2.0,
         "max": 11500.0
       },
+      "nrOfTagsUsedInWeek": 38126,
+      "topTagsInWeek": [
+        {
+          "tag": "generative",
+          "counts": 28388
+        },
+        {
+          "tag": "art",
+          "counts": 27972
+        },
+        {
+          "tag": "illustration",
+          "counts": 26044
+        },
+        {
+          "tag": "abstract",
+          "counts": 18839
+        },
+        {
+          "tag": "3d",
+          "counts": 18148
+        },
+        {
+          "tag": "animation",
+          "counts": 17149
+        },
+        {
+          "tag": "digital",
+          "counts": 16131
+        },
+        {
+          "tag": "pixel",
+          "counts": 14760
+        },
+        {
+          "tag": "nft",
+          "counts": 13085
+        },
+        {
+          "tag": "photography",
+          "counts": 12868
+        },
+        {
+          "tag": "pixelart",
+          "counts": 12280
+        },
+        {
+          "tag": "digitalart",
+          "counts": 12269
+        },
+        {
+          "tag": "gif",
+          "counts": 11095
+        },
+        {
+          "tag": "programart",
+          "counts": 10729
+        },
+        {
+          "tag": "loop",
+          "counts": 9156
+        },
+        {
+          "tag": "nftcommunity",
+          "counts": 9090
+        },
+        {
+          "tag": "glitch",
+          "counts": 8809
+        },
+        {
+          "tag": "painting",
+          "counts": 8092
+        },
+        {
+          "tag": "ai",
+          "counts": 7583
+        },
+        {
+          "tag": "collectible",
+          "counts": 7299
+        },
+        {
+          "tag": "cryptoart",
+          "counts": 7104
+        },
+        {
+          "tag": "generativeart",
+          "counts": 6810
+        },
+        {
+          "tag": "drawing",
+          "counts": 6547
+        },
+        {
+          "tag": "2d",
+          "counts": 6080
+        },
+        {
+          "tag": "portrait",
+          "counts": 5990
+        },
+        {
+          "tag": "tezos",
+          "counts": 5592
+        },
+        {
+          "tag": "psychedelic",
+          "counts": 5367
+        },
+        {
+          "tag": "colorful",
+          "counts": 5314
+        },
+        {
+          "tag": "collage",
+          "counts": 5218
+        },
+        {
+          "tag": "nftpeople",
+          "counts": 5035
+        },
+        {
+          "tag": "nftart",
+          "counts": 4845
+        },
+        {
+          "tag": "crypto",
+          "counts": 4831
+        },
+        {
+          "tag": "cat",
+          "counts": 4680
+        },
+        {
+          "tag": "blackandwhite",
+          "counts": 4619
+        },
+        {
+          "tag": "dark",
+          "counts": 4576
+        },
+        {
+          "tag": "creativecoding",
+          "counts": 4527
+        },
+        {
+          "tag": "video",
+          "counts": 4500
+        },
+        {
+          "tag": "color",
+          "counts": 4472
+        },
+        {
+          "tag": "interactive",
+          "counts": 4381
+        },
+        {
+          "tag": "surreal",
+          "counts": 4263
+        },
+        {
+          "tag": "processing",
+          "counts": 4226
+        },
+        {
+          "tag": "trippy",
+          "counts": 4221
+        },
+        {
+          "tag": "photo",
+          "counts": 4110
+        },
+        {
+          "tag": "space",
+          "counts": 4057
+        },
+        {
+          "tag": "nature",
+          "counts": 4011
+        },
+        {
+          "tag": "artwork",
+          "counts": 3856
+        },
+        {
+          "tag": "black",
+          "counts": 3576
+        },
+        {
+          "tag": "colors",
+          "counts": 3402
+        },
+        {
+          "tag": "punk",
+          "counts": 3392
+        },
+        {
+          "tag": "glitchart",
+          "counts": 3364
+        }
+      ],
       "weekNr": 14,
       "days": [
         {
@@ -1338,6 +2961,209 @@
         "q3": 2.0,
         "max": 11500.0
       },
+      "nrOfTagsUsedInWeek": 50889,
+      "topTagsInWeek": [
+        {
+          "tag": "generative",
+          "counts": 28388
+        },
+        {
+          "tag": "art",
+          "counts": 27972
+        },
+        {
+          "tag": "illustration",
+          "counts": 26044
+        },
+        {
+          "tag": "abstract",
+          "counts": 18839
+        },
+        {
+          "tag": "3d",
+          "counts": 18148
+        },
+        {
+          "tag": "animation",
+          "counts": 17149
+        },
+        {
+          "tag": "digital",
+          "counts": 16131
+        },
+        {
+          "tag": "pixel",
+          "counts": 14760
+        },
+        {
+          "tag": "nft",
+          "counts": 13085
+        },
+        {
+          "tag": "photography",
+          "counts": 12868
+        },
+        {
+          "tag": "pixelart",
+          "counts": 12280
+        },
+        {
+          "tag": "digitalart",
+          "counts": 12269
+        },
+        {
+          "tag": "gif",
+          "counts": 11095
+        },
+        {
+          "tag": "programart",
+          "counts": 10729
+        },
+        {
+          "tag": "loop",
+          "counts": 9156
+        },
+        {
+          "tag": "nftcommunity",
+          "counts": 9090
+        },
+        {
+          "tag": "glitch",
+          "counts": 8809
+        },
+        {
+          "tag": "painting",
+          "counts": 8092
+        },
+        {
+          "tag": "ai",
+          "counts": 7583
+        },
+        {
+          "tag": "collectible",
+          "counts": 7299
+        },
+        {
+          "tag": "cryptoart",
+          "counts": 7104
+        },
+        {
+          "tag": "generativeart",
+          "counts": 6810
+        },
+        {
+          "tag": "drawing",
+          "counts": 6547
+        },
+        {
+          "tag": "2d",
+          "counts": 6080
+        },
+        {
+          "tag": "portrait",
+          "counts": 5990
+        },
+        {
+          "tag": "tezos",
+          "counts": 5592
+        },
+        {
+          "tag": "psychedelic",
+          "counts": 5367
+        },
+        {
+          "tag": "colorful",
+          "counts": 5314
+        },
+        {
+          "tag": "collage",
+          "counts": 5218
+        },
+        {
+          "tag": "nftpeople",
+          "counts": 5035
+        },
+        {
+          "tag": "nftart",
+          "counts": 4845
+        },
+        {
+          "tag": "crypto",
+          "counts": 4831
+        },
+        {
+          "tag": "cat",
+          "counts": 4680
+        },
+        {
+          "tag": "blackandwhite",
+          "counts": 4619
+        },
+        {
+          "tag": "dark",
+          "counts": 4576
+        },
+        {
+          "tag": "creativecoding",
+          "counts": 4527
+        },
+        {
+          "tag": "video",
+          "counts": 4500
+        },
+        {
+          "tag": "color",
+          "counts": 4472
+        },
+        {
+          "tag": "interactive",
+          "counts": 4381
+        },
+        {
+          "tag": "surreal",
+          "counts": 4263
+        },
+        {
+          "tag": "processing",
+          "counts": 4226
+        },
+        {
+          "tag": "trippy",
+          "counts": 4221
+        },
+        {
+          "tag": "photo",
+          "counts": 4110
+        },
+        {
+          "tag": "space",
+          "counts": 4057
+        },
+        {
+          "tag": "nature",
+          "counts": 4011
+        },
+        {
+          "tag": "artwork",
+          "counts": 3856
+        },
+        {
+          "tag": "black",
+          "counts": 3576
+        },
+        {
+          "tag": "colors",
+          "counts": 3402
+        },
+        {
+          "tag": "punk",
+          "counts": 3392
+        },
+        {
+          "tag": "glitchart",
+          "counts": 3364
+        }
+      ],
       "weekNr": 15,
       "days": [
         {
@@ -1521,6 +3347,209 @@
         "q3": 1.0,
         "max": 11500.0
       },
+      "nrOfTagsUsedInWeek": 67008,
+      "topTagsInWeek": [
+        {
+          "tag": "generative",
+          "counts": 28388
+        },
+        {
+          "tag": "art",
+          "counts": 27972
+        },
+        {
+          "tag": "illustration",
+          "counts": 26044
+        },
+        {
+          "tag": "abstract",
+          "counts": 18839
+        },
+        {
+          "tag": "3d",
+          "counts": 18148
+        },
+        {
+          "tag": "animation",
+          "counts": 17149
+        },
+        {
+          "tag": "digital",
+          "counts": 16131
+        },
+        {
+          "tag": "pixel",
+          "counts": 14760
+        },
+        {
+          "tag": "nft",
+          "counts": 13085
+        },
+        {
+          "tag": "photography",
+          "counts": 12868
+        },
+        {
+          "tag": "pixelart",
+          "counts": 12280
+        },
+        {
+          "tag": "digitalart",
+          "counts": 12269
+        },
+        {
+          "tag": "gif",
+          "counts": 11095
+        },
+        {
+          "tag": "programart",
+          "counts": 10729
+        },
+        {
+          "tag": "loop",
+          "counts": 9156
+        },
+        {
+          "tag": "nftcommunity",
+          "counts": 9090
+        },
+        {
+          "tag": "glitch",
+          "counts": 8809
+        },
+        {
+          "tag": "painting",
+          "counts": 8092
+        },
+        {
+          "tag": "ai",
+          "counts": 7583
+        },
+        {
+          "tag": "collectible",
+          "counts": 7299
+        },
+        {
+          "tag": "cryptoart",
+          "counts": 7104
+        },
+        {
+          "tag": "generativeart",
+          "counts": 6810
+        },
+        {
+          "tag": "drawing",
+          "counts": 6547
+        },
+        {
+          "tag": "2d",
+          "counts": 6080
+        },
+        {
+          "tag": "portrait",
+          "counts": 5990
+        },
+        {
+          "tag": "tezos",
+          "counts": 5592
+        },
+        {
+          "tag": "psychedelic",
+          "counts": 5367
+        },
+        {
+          "tag": "colorful",
+          "counts": 5314
+        },
+        {
+          "tag": "collage",
+          "counts": 5218
+        },
+        {
+          "tag": "nftpeople",
+          "counts": 5035
+        },
+        {
+          "tag": "nftart",
+          "counts": 4845
+        },
+        {
+          "tag": "crypto",
+          "counts": 4831
+        },
+        {
+          "tag": "cat",
+          "counts": 4680
+        },
+        {
+          "tag": "blackandwhite",
+          "counts": 4619
+        },
+        {
+          "tag": "dark",
+          "counts": 4576
+        },
+        {
+          "tag": "creativecoding",
+          "counts": 4527
+        },
+        {
+          "tag": "video",
+          "counts": 4500
+        },
+        {
+          "tag": "color",
+          "counts": 4472
+        },
+        {
+          "tag": "interactive",
+          "counts": 4381
+        },
+        {
+          "tag": "surreal",
+          "counts": 4263
+        },
+        {
+          "tag": "processing",
+          "counts": 4226
+        },
+        {
+          "tag": "trippy",
+          "counts": 4221
+        },
+        {
+          "tag": "photo",
+          "counts": 4110
+        },
+        {
+          "tag": "space",
+          "counts": 4057
+        },
+        {
+          "tag": "nature",
+          "counts": 4011
+        },
+        {
+          "tag": "artwork",
+          "counts": 3856
+        },
+        {
+          "tag": "black",
+          "counts": 3576
+        },
+        {
+          "tag": "colors",
+          "counts": 3402
+        },
+        {
+          "tag": "punk",
+          "counts": 3392
+        },
+        {
+          "tag": "glitchart",
+          "counts": 3364
+        }
+      ],
       "weekNr": 16,
       "days": [
         {
@@ -1704,6 +3733,209 @@
         "q3": 1.0,
         "max": 11500.0
       },
+      "nrOfTagsUsedInWeek": 65940,
+      "topTagsInWeek": [
+        {
+          "tag": "generative",
+          "counts": 28388
+        },
+        {
+          "tag": "art",
+          "counts": 27972
+        },
+        {
+          "tag": "illustration",
+          "counts": 26044
+        },
+        {
+          "tag": "abstract",
+          "counts": 18839
+        },
+        {
+          "tag": "3d",
+          "counts": 18148
+        },
+        {
+          "tag": "animation",
+          "counts": 17149
+        },
+        {
+          "tag": "digital",
+          "counts": 16131
+        },
+        {
+          "tag": "pixel",
+          "counts": 14760
+        },
+        {
+          "tag": "nft",
+          "counts": 13085
+        },
+        {
+          "tag": "photography",
+          "counts": 12868
+        },
+        {
+          "tag": "pixelart",
+          "counts": 12280
+        },
+        {
+          "tag": "digitalart",
+          "counts": 12269
+        },
+        {
+          "tag": "gif",
+          "counts": 11095
+        },
+        {
+          "tag": "programart",
+          "counts": 10729
+        },
+        {
+          "tag": "loop",
+          "counts": 9156
+        },
+        {
+          "tag": "nftcommunity",
+          "counts": 9090
+        },
+        {
+          "tag": "glitch",
+          "counts": 8809
+        },
+        {
+          "tag": "painting",
+          "counts": 8092
+        },
+        {
+          "tag": "ai",
+          "counts": 7583
+        },
+        {
+          "tag": "collectible",
+          "counts": 7299
+        },
+        {
+          "tag": "cryptoart",
+          "counts": 7104
+        },
+        {
+          "tag": "generativeart",
+          "counts": 6810
+        },
+        {
+          "tag": "drawing",
+          "counts": 6547
+        },
+        {
+          "tag": "2d",
+          "counts": 6080
+        },
+        {
+          "tag": "portrait",
+          "counts": 5990
+        },
+        {
+          "tag": "tezos",
+          "counts": 5592
+        },
+        {
+          "tag": "psychedelic",
+          "counts": 5367
+        },
+        {
+          "tag": "colorful",
+          "counts": 5314
+        },
+        {
+          "tag": "collage",
+          "counts": 5218
+        },
+        {
+          "tag": "nftpeople",
+          "counts": 5035
+        },
+        {
+          "tag": "nftart",
+          "counts": 4845
+        },
+        {
+          "tag": "crypto",
+          "counts": 4831
+        },
+        {
+          "tag": "cat",
+          "counts": 4680
+        },
+        {
+          "tag": "blackandwhite",
+          "counts": 4619
+        },
+        {
+          "tag": "dark",
+          "counts": 4576
+        },
+        {
+          "tag": "creativecoding",
+          "counts": 4527
+        },
+        {
+          "tag": "video",
+          "counts": 4500
+        },
+        {
+          "tag": "color",
+          "counts": 4472
+        },
+        {
+          "tag": "interactive",
+          "counts": 4381
+        },
+        {
+          "tag": "surreal",
+          "counts": 4263
+        },
+        {
+          "tag": "processing",
+          "counts": 4226
+        },
+        {
+          "tag": "trippy",
+          "counts": 4221
+        },
+        {
+          "tag": "photo",
+          "counts": 4110
+        },
+        {
+          "tag": "space",
+          "counts": 4057
+        },
+        {
+          "tag": "nature",
+          "counts": 4011
+        },
+        {
+          "tag": "artwork",
+          "counts": 3856
+        },
+        {
+          "tag": "black",
+          "counts": 3576
+        },
+        {
+          "tag": "colors",
+          "counts": 3402
+        },
+        {
+          "tag": "punk",
+          "counts": 3392
+        },
+        {
+          "tag": "glitchart",
+          "counts": 3364
+        }
+      ],
       "weekNr": 17,
       "days": [
         {
@@ -1887,6 +4119,209 @@
         "q3": 1.0,
         "max": 11500.0
       },
+      "nrOfTagsUsedInWeek": 77284,
+      "topTagsInWeek": [
+        {
+          "tag": "generative",
+          "counts": 28388
+        },
+        {
+          "tag": "art",
+          "counts": 27972
+        },
+        {
+          "tag": "illustration",
+          "counts": 26044
+        },
+        {
+          "tag": "abstract",
+          "counts": 18839
+        },
+        {
+          "tag": "3d",
+          "counts": 18148
+        },
+        {
+          "tag": "animation",
+          "counts": 17149
+        },
+        {
+          "tag": "digital",
+          "counts": 16131
+        },
+        {
+          "tag": "pixel",
+          "counts": 14760
+        },
+        {
+          "tag": "nft",
+          "counts": 13085
+        },
+        {
+          "tag": "photography",
+          "counts": 12868
+        },
+        {
+          "tag": "pixelart",
+          "counts": 12280
+        },
+        {
+          "tag": "digitalart",
+          "counts": 12269
+        },
+        {
+          "tag": "gif",
+          "counts": 11095
+        },
+        {
+          "tag": "programart",
+          "counts": 10729
+        },
+        {
+          "tag": "loop",
+          "counts": 9156
+        },
+        {
+          "tag": "nftcommunity",
+          "counts": 9090
+        },
+        {
+          "tag": "glitch",
+          "counts": 8809
+        },
+        {
+          "tag": "painting",
+          "counts": 8092
+        },
+        {
+          "tag": "ai",
+          "counts": 7583
+        },
+        {
+          "tag": "collectible",
+          "counts": 7299
+        },
+        {
+          "tag": "cryptoart",
+          "counts": 7104
+        },
+        {
+          "tag": "generativeart",
+          "counts": 6810
+        },
+        {
+          "tag": "drawing",
+          "counts": 6547
+        },
+        {
+          "tag": "2d",
+          "counts": 6080
+        },
+        {
+          "tag": "portrait",
+          "counts": 5990
+        },
+        {
+          "tag": "tezos",
+          "counts": 5592
+        },
+        {
+          "tag": "psychedelic",
+          "counts": 5367
+        },
+        {
+          "tag": "colorful",
+          "counts": 5314
+        },
+        {
+          "tag": "collage",
+          "counts": 5218
+        },
+        {
+          "tag": "nftpeople",
+          "counts": 5035
+        },
+        {
+          "tag": "nftart",
+          "counts": 4845
+        },
+        {
+          "tag": "crypto",
+          "counts": 4831
+        },
+        {
+          "tag": "cat",
+          "counts": 4680
+        },
+        {
+          "tag": "blackandwhite",
+          "counts": 4619
+        },
+        {
+          "tag": "dark",
+          "counts": 4576
+        },
+        {
+          "tag": "creativecoding",
+          "counts": 4527
+        },
+        {
+          "tag": "video",
+          "counts": 4500
+        },
+        {
+          "tag": "color",
+          "counts": 4472
+        },
+        {
+          "tag": "interactive",
+          "counts": 4381
+        },
+        {
+          "tag": "surreal",
+          "counts": 4263
+        },
+        {
+          "tag": "processing",
+          "counts": 4226
+        },
+        {
+          "tag": "trippy",
+          "counts": 4221
+        },
+        {
+          "tag": "photo",
+          "counts": 4110
+        },
+        {
+          "tag": "space",
+          "counts": 4057
+        },
+        {
+          "tag": "nature",
+          "counts": 4011
+        },
+        {
+          "tag": "artwork",
+          "counts": 3856
+        },
+        {
+          "tag": "black",
+          "counts": 3576
+        },
+        {
+          "tag": "colors",
+          "counts": 3402
+        },
+        {
+          "tag": "punk",
+          "counts": 3392
+        },
+        {
+          "tag": "glitchart",
+          "counts": 3364
+        }
+      ],
       "weekNr": 18,
       "days": [
         {
@@ -2070,6 +4505,209 @@
         "q3": 1.0,
         "max": 11500.0
       },
+      "nrOfTagsUsedInWeek": 81749,
+      "topTagsInWeek": [
+        {
+          "tag": "generative",
+          "counts": 28388
+        },
+        {
+          "tag": "art",
+          "counts": 27972
+        },
+        {
+          "tag": "illustration",
+          "counts": 26044
+        },
+        {
+          "tag": "abstract",
+          "counts": 18839
+        },
+        {
+          "tag": "3d",
+          "counts": 18148
+        },
+        {
+          "tag": "animation",
+          "counts": 17149
+        },
+        {
+          "tag": "digital",
+          "counts": 16131
+        },
+        {
+          "tag": "pixel",
+          "counts": 14760
+        },
+        {
+          "tag": "nft",
+          "counts": 13085
+        },
+        {
+          "tag": "photography",
+          "counts": 12868
+        },
+        {
+          "tag": "pixelart",
+          "counts": 12280
+        },
+        {
+          "tag": "digitalart",
+          "counts": 12269
+        },
+        {
+          "tag": "gif",
+          "counts": 11095
+        },
+        {
+          "tag": "programart",
+          "counts": 10729
+        },
+        {
+          "tag": "loop",
+          "counts": 9156
+        },
+        {
+          "tag": "nftcommunity",
+          "counts": 9090
+        },
+        {
+          "tag": "glitch",
+          "counts": 8809
+        },
+        {
+          "tag": "painting",
+          "counts": 8092
+        },
+        {
+          "tag": "ai",
+          "counts": 7583
+        },
+        {
+          "tag": "collectible",
+          "counts": 7299
+        },
+        {
+          "tag": "cryptoart",
+          "counts": 7104
+        },
+        {
+          "tag": "generativeart",
+          "counts": 6810
+        },
+        {
+          "tag": "drawing",
+          "counts": 6547
+        },
+        {
+          "tag": "2d",
+          "counts": 6080
+        },
+        {
+          "tag": "portrait",
+          "counts": 5990
+        },
+        {
+          "tag": "tezos",
+          "counts": 5592
+        },
+        {
+          "tag": "psychedelic",
+          "counts": 5367
+        },
+        {
+          "tag": "colorful",
+          "counts": 5314
+        },
+        {
+          "tag": "collage",
+          "counts": 5218
+        },
+        {
+          "tag": "nftpeople",
+          "counts": 5035
+        },
+        {
+          "tag": "nftart",
+          "counts": 4845
+        },
+        {
+          "tag": "crypto",
+          "counts": 4831
+        },
+        {
+          "tag": "cat",
+          "counts": 4680
+        },
+        {
+          "tag": "blackandwhite",
+          "counts": 4619
+        },
+        {
+          "tag": "dark",
+          "counts": 4576
+        },
+        {
+          "tag": "creativecoding",
+          "counts": 4527
+        },
+        {
+          "tag": "video",
+          "counts": 4500
+        },
+        {
+          "tag": "color",
+          "counts": 4472
+        },
+        {
+          "tag": "interactive",
+          "counts": 4381
+        },
+        {
+          "tag": "surreal",
+          "counts": 4263
+        },
+        {
+          "tag": "processing",
+          "counts": 4226
+        },
+        {
+          "tag": "trippy",
+          "counts": 4221
+        },
+        {
+          "tag": "photo",
+          "counts": 4110
+        },
+        {
+          "tag": "space",
+          "counts": 4057
+        },
+        {
+          "tag": "nature",
+          "counts": 4011
+        },
+        {
+          "tag": "artwork",
+          "counts": 3856
+        },
+        {
+          "tag": "black",
+          "counts": 3576
+        },
+        {
+          "tag": "colors",
+          "counts": 3402
+        },
+        {
+          "tag": "punk",
+          "counts": 3392
+        },
+        {
+          "tag": "glitchart",
+          "counts": 3364
+        }
+      ],
       "weekNr": 19,
       "days": [
         {
@@ -2253,6 +4891,209 @@
         "q3": 1.0,
         "max": 11500.0
       },
+      "nrOfTagsUsedInWeek": 76390,
+      "topTagsInWeek": [
+        {
+          "tag": "generative",
+          "counts": 28388
+        },
+        {
+          "tag": "art",
+          "counts": 27972
+        },
+        {
+          "tag": "illustration",
+          "counts": 26044
+        },
+        {
+          "tag": "abstract",
+          "counts": 18839
+        },
+        {
+          "tag": "3d",
+          "counts": 18148
+        },
+        {
+          "tag": "animation",
+          "counts": 17149
+        },
+        {
+          "tag": "digital",
+          "counts": 16131
+        },
+        {
+          "tag": "pixel",
+          "counts": 14760
+        },
+        {
+          "tag": "nft",
+          "counts": 13085
+        },
+        {
+          "tag": "photography",
+          "counts": 12868
+        },
+        {
+          "tag": "pixelart",
+          "counts": 12280
+        },
+        {
+          "tag": "digitalart",
+          "counts": 12269
+        },
+        {
+          "tag": "gif",
+          "counts": 11095
+        },
+        {
+          "tag": "programart",
+          "counts": 10729
+        },
+        {
+          "tag": "loop",
+          "counts": 9156
+        },
+        {
+          "tag": "nftcommunity",
+          "counts": 9090
+        },
+        {
+          "tag": "glitch",
+          "counts": 8809
+        },
+        {
+          "tag": "painting",
+          "counts": 8092
+        },
+        {
+          "tag": "ai",
+          "counts": 7583
+        },
+        {
+          "tag": "collectible",
+          "counts": 7299
+        },
+        {
+          "tag": "cryptoart",
+          "counts": 7104
+        },
+        {
+          "tag": "generativeart",
+          "counts": 6810
+        },
+        {
+          "tag": "drawing",
+          "counts": 6547
+        },
+        {
+          "tag": "2d",
+          "counts": 6080
+        },
+        {
+          "tag": "portrait",
+          "counts": 5990
+        },
+        {
+          "tag": "tezos",
+          "counts": 5592
+        },
+        {
+          "tag": "psychedelic",
+          "counts": 5367
+        },
+        {
+          "tag": "colorful",
+          "counts": 5314
+        },
+        {
+          "tag": "collage",
+          "counts": 5218
+        },
+        {
+          "tag": "nftpeople",
+          "counts": 5035
+        },
+        {
+          "tag": "nftart",
+          "counts": 4845
+        },
+        {
+          "tag": "crypto",
+          "counts": 4831
+        },
+        {
+          "tag": "cat",
+          "counts": 4680
+        },
+        {
+          "tag": "blackandwhite",
+          "counts": 4619
+        },
+        {
+          "tag": "dark",
+          "counts": 4576
+        },
+        {
+          "tag": "creativecoding",
+          "counts": 4527
+        },
+        {
+          "tag": "video",
+          "counts": 4500
+        },
+        {
+          "tag": "color",
+          "counts": 4472
+        },
+        {
+          "tag": "interactive",
+          "counts": 4381
+        },
+        {
+          "tag": "surreal",
+          "counts": 4263
+        },
+        {
+          "tag": "processing",
+          "counts": 4226
+        },
+        {
+          "tag": "trippy",
+          "counts": 4221
+        },
+        {
+          "tag": "photo",
+          "counts": 4110
+        },
+        {
+          "tag": "space",
+          "counts": 4057
+        },
+        {
+          "tag": "nature",
+          "counts": 4011
+        },
+        {
+          "tag": "artwork",
+          "counts": 3856
+        },
+        {
+          "tag": "black",
+          "counts": 3576
+        },
+        {
+          "tag": "colors",
+          "counts": 3402
+        },
+        {
+          "tag": "punk",
+          "counts": 3392
+        },
+        {
+          "tag": "glitchart",
+          "counts": 3364
+        }
+      ],
       "weekNr": 20,
       "days": [
         {
@@ -2436,6 +5277,209 @@
         "q3": 1.11,
         "max": 11500.0
       },
+      "nrOfTagsUsedInWeek": 76054,
+      "topTagsInWeek": [
+        {
+          "tag": "generative",
+          "counts": 28388
+        },
+        {
+          "tag": "art",
+          "counts": 27972
+        },
+        {
+          "tag": "illustration",
+          "counts": 26044
+        },
+        {
+          "tag": "abstract",
+          "counts": 18839
+        },
+        {
+          "tag": "3d",
+          "counts": 18148
+        },
+        {
+          "tag": "animation",
+          "counts": 17149
+        },
+        {
+          "tag": "digital",
+          "counts": 16131
+        },
+        {
+          "tag": "pixel",
+          "counts": 14760
+        },
+        {
+          "tag": "nft",
+          "counts": 13085
+        },
+        {
+          "tag": "photography",
+          "counts": 12868
+        },
+        {
+          "tag": "pixelart",
+          "counts": 12280
+        },
+        {
+          "tag": "digitalart",
+          "counts": 12269
+        },
+        {
+          "tag": "gif",
+          "counts": 11095
+        },
+        {
+          "tag": "programart",
+          "counts": 10729
+        },
+        {
+          "tag": "loop",
+          "counts": 9156
+        },
+        {
+          "tag": "nftcommunity",
+          "counts": 9090
+        },
+        {
+          "tag": "glitch",
+          "counts": 8809
+        },
+        {
+          "tag": "painting",
+          "counts": 8092
+        },
+        {
+          "tag": "ai",
+          "counts": 7583
+        },
+        {
+          "tag": "collectible",
+          "counts": 7299
+        },
+        {
+          "tag": "cryptoart",
+          "counts": 7104
+        },
+        {
+          "tag": "generativeart",
+          "counts": 6810
+        },
+        {
+          "tag": "drawing",
+          "counts": 6547
+        },
+        {
+          "tag": "2d",
+          "counts": 6080
+        },
+        {
+          "tag": "portrait",
+          "counts": 5990
+        },
+        {
+          "tag": "tezos",
+          "counts": 5592
+        },
+        {
+          "tag": "psychedelic",
+          "counts": 5367
+        },
+        {
+          "tag": "colorful",
+          "counts": 5314
+        },
+        {
+          "tag": "collage",
+          "counts": 5218
+        },
+        {
+          "tag": "nftpeople",
+          "counts": 5035
+        },
+        {
+          "tag": "nftart",
+          "counts": 4845
+        },
+        {
+          "tag": "crypto",
+          "counts": 4831
+        },
+        {
+          "tag": "cat",
+          "counts": 4680
+        },
+        {
+          "tag": "blackandwhite",
+          "counts": 4619
+        },
+        {
+          "tag": "dark",
+          "counts": 4576
+        },
+        {
+          "tag": "creativecoding",
+          "counts": 4527
+        },
+        {
+          "tag": "video",
+          "counts": 4500
+        },
+        {
+          "tag": "color",
+          "counts": 4472
+        },
+        {
+          "tag": "interactive",
+          "counts": 4381
+        },
+        {
+          "tag": "surreal",
+          "counts": 4263
+        },
+        {
+          "tag": "processing",
+          "counts": 4226
+        },
+        {
+          "tag": "trippy",
+          "counts": 4221
+        },
+        {
+          "tag": "photo",
+          "counts": 4110
+        },
+        {
+          "tag": "space",
+          "counts": 4057
+        },
+        {
+          "tag": "nature",
+          "counts": 4011
+        },
+        {
+          "tag": "artwork",
+          "counts": 3856
+        },
+        {
+          "tag": "black",
+          "counts": 3576
+        },
+        {
+          "tag": "colors",
+          "counts": 3402
+        },
+        {
+          "tag": "punk",
+          "counts": 3392
+        },
+        {
+          "tag": "glitchart",
+          "counts": 3364
+        }
+      ],
       "weekNr": 21,
       "days": [
         {
@@ -2619,6 +5663,209 @@
         "q3": 2.0,
         "max": 11500.0
       },
+      "nrOfTagsUsedInWeek": 75302,
+      "topTagsInWeek": [
+        {
+          "tag": "generative",
+          "counts": 28388
+        },
+        {
+          "tag": "art",
+          "counts": 27972
+        },
+        {
+          "tag": "illustration",
+          "counts": 26044
+        },
+        {
+          "tag": "abstract",
+          "counts": 18839
+        },
+        {
+          "tag": "3d",
+          "counts": 18148
+        },
+        {
+          "tag": "animation",
+          "counts": 17149
+        },
+        {
+          "tag": "digital",
+          "counts": 16131
+        },
+        {
+          "tag": "pixel",
+          "counts": 14760
+        },
+        {
+          "tag": "nft",
+          "counts": 13085
+        },
+        {
+          "tag": "photography",
+          "counts": 12868
+        },
+        {
+          "tag": "pixelart",
+          "counts": 12280
+        },
+        {
+          "tag": "digitalart",
+          "counts": 12269
+        },
+        {
+          "tag": "gif",
+          "counts": 11095
+        },
+        {
+          "tag": "programart",
+          "counts": 10729
+        },
+        {
+          "tag": "loop",
+          "counts": 9156
+        },
+        {
+          "tag": "nftcommunity",
+          "counts": 9090
+        },
+        {
+          "tag": "glitch",
+          "counts": 8809
+        },
+        {
+          "tag": "painting",
+          "counts": 8092
+        },
+        {
+          "tag": "ai",
+          "counts": 7583
+        },
+        {
+          "tag": "collectible",
+          "counts": 7299
+        },
+        {
+          "tag": "cryptoart",
+          "counts": 7104
+        },
+        {
+          "tag": "generativeart",
+          "counts": 6810
+        },
+        {
+          "tag": "drawing",
+          "counts": 6547
+        },
+        {
+          "tag": "2d",
+          "counts": 6080
+        },
+        {
+          "tag": "portrait",
+          "counts": 5990
+        },
+        {
+          "tag": "tezos",
+          "counts": 5592
+        },
+        {
+          "tag": "psychedelic",
+          "counts": 5367
+        },
+        {
+          "tag": "colorful",
+          "counts": 5314
+        },
+        {
+          "tag": "collage",
+          "counts": 5218
+        },
+        {
+          "tag": "nftpeople",
+          "counts": 5035
+        },
+        {
+          "tag": "nftart",
+          "counts": 4845
+        },
+        {
+          "tag": "crypto",
+          "counts": 4831
+        },
+        {
+          "tag": "cat",
+          "counts": 4680
+        },
+        {
+          "tag": "blackandwhite",
+          "counts": 4619
+        },
+        {
+          "tag": "dark",
+          "counts": 4576
+        },
+        {
+          "tag": "creativecoding",
+          "counts": 4527
+        },
+        {
+          "tag": "video",
+          "counts": 4500
+        },
+        {
+          "tag": "color",
+          "counts": 4472
+        },
+        {
+          "tag": "interactive",
+          "counts": 4381
+        },
+        {
+          "tag": "surreal",
+          "counts": 4263
+        },
+        {
+          "tag": "processing",
+          "counts": 4226
+        },
+        {
+          "tag": "trippy",
+          "counts": 4221
+        },
+        {
+          "tag": "photo",
+          "counts": 4110
+        },
+        {
+          "tag": "space",
+          "counts": 4057
+        },
+        {
+          "tag": "nature",
+          "counts": 4011
+        },
+        {
+          "tag": "artwork",
+          "counts": 3856
+        },
+        {
+          "tag": "black",
+          "counts": 3576
+        },
+        {
+          "tag": "colors",
+          "counts": 3402
+        },
+        {
+          "tag": "punk",
+          "counts": 3392
+        },
+        {
+          "tag": "glitchart",
+          "counts": 3364
+        }
+      ],
       "weekNr": 22,
       "days": [
         {
@@ -2802,6 +6049,209 @@
         "q3": 1.99,
         "max": 11500.0
       },
+      "nrOfTagsUsedInWeek": 82918,
+      "topTagsInWeek": [
+        {
+          "tag": "generative",
+          "counts": 28388
+        },
+        {
+          "tag": "art",
+          "counts": 27972
+        },
+        {
+          "tag": "illustration",
+          "counts": 26044
+        },
+        {
+          "tag": "abstract",
+          "counts": 18839
+        },
+        {
+          "tag": "3d",
+          "counts": 18148
+        },
+        {
+          "tag": "animation",
+          "counts": 17149
+        },
+        {
+          "tag": "digital",
+          "counts": 16131
+        },
+        {
+          "tag": "pixel",
+          "counts": 14760
+        },
+        {
+          "tag": "nft",
+          "counts": 13085
+        },
+        {
+          "tag": "photography",
+          "counts": 12868
+        },
+        {
+          "tag": "pixelart",
+          "counts": 12280
+        },
+        {
+          "tag": "digitalart",
+          "counts": 12269
+        },
+        {
+          "tag": "gif",
+          "counts": 11095
+        },
+        {
+          "tag": "programart",
+          "counts": 10729
+        },
+        {
+          "tag": "loop",
+          "counts": 9156
+        },
+        {
+          "tag": "nftcommunity",
+          "counts": 9090
+        },
+        {
+          "tag": "glitch",
+          "counts": 8809
+        },
+        {
+          "tag": "painting",
+          "counts": 8092
+        },
+        {
+          "tag": "ai",
+          "counts": 7583
+        },
+        {
+          "tag": "collectible",
+          "counts": 7299
+        },
+        {
+          "tag": "cryptoart",
+          "counts": 7104
+        },
+        {
+          "tag": "generativeart",
+          "counts": 6810
+        },
+        {
+          "tag": "drawing",
+          "counts": 6547
+        },
+        {
+          "tag": "2d",
+          "counts": 6080
+        },
+        {
+          "tag": "portrait",
+          "counts": 5990
+        },
+        {
+          "tag": "tezos",
+          "counts": 5592
+        },
+        {
+          "tag": "psychedelic",
+          "counts": 5367
+        },
+        {
+          "tag": "colorful",
+          "counts": 5314
+        },
+        {
+          "tag": "collage",
+          "counts": 5218
+        },
+        {
+          "tag": "nftpeople",
+          "counts": 5035
+        },
+        {
+          "tag": "nftart",
+          "counts": 4845
+        },
+        {
+          "tag": "crypto",
+          "counts": 4831
+        },
+        {
+          "tag": "cat",
+          "counts": 4680
+        },
+        {
+          "tag": "blackandwhite",
+          "counts": 4619
+        },
+        {
+          "tag": "dark",
+          "counts": 4576
+        },
+        {
+          "tag": "creativecoding",
+          "counts": 4527
+        },
+        {
+          "tag": "video",
+          "counts": 4500
+        },
+        {
+          "tag": "color",
+          "counts": 4472
+        },
+        {
+          "tag": "interactive",
+          "counts": 4381
+        },
+        {
+          "tag": "surreal",
+          "counts": 4263
+        },
+        {
+          "tag": "processing",
+          "counts": 4226
+        },
+        {
+          "tag": "trippy",
+          "counts": 4221
+        },
+        {
+          "tag": "photo",
+          "counts": 4110
+        },
+        {
+          "tag": "space",
+          "counts": 4057
+        },
+        {
+          "tag": "nature",
+          "counts": 4011
+        },
+        {
+          "tag": "artwork",
+          "counts": 3856
+        },
+        {
+          "tag": "black",
+          "counts": 3576
+        },
+        {
+          "tag": "colors",
+          "counts": 3402
+        },
+        {
+          "tag": "punk",
+          "counts": 3392
+        },
+        {
+          "tag": "glitchart",
+          "counts": 3364
+        }
+      ],
       "weekNr": 23,
       "days": [
         {
@@ -2985,6 +6435,209 @@
         "q3": 1.5,
         "max": 11500.0
       },
+      "nrOfTagsUsedInWeek": 84443,
+      "topTagsInWeek": [
+        {
+          "tag": "generative",
+          "counts": 28388
+        },
+        {
+          "tag": "art",
+          "counts": 27972
+        },
+        {
+          "tag": "illustration",
+          "counts": 26044
+        },
+        {
+          "tag": "abstract",
+          "counts": 18839
+        },
+        {
+          "tag": "3d",
+          "counts": 18148
+        },
+        {
+          "tag": "animation",
+          "counts": 17149
+        },
+        {
+          "tag": "digital",
+          "counts": 16131
+        },
+        {
+          "tag": "pixel",
+          "counts": 14760
+        },
+        {
+          "tag": "nft",
+          "counts": 13085
+        },
+        {
+          "tag": "photography",
+          "counts": 12868
+        },
+        {
+          "tag": "pixelart",
+          "counts": 12280
+        },
+        {
+          "tag": "digitalart",
+          "counts": 12269
+        },
+        {
+          "tag": "gif",
+          "counts": 11095
+        },
+        {
+          "tag": "programart",
+          "counts": 10729
+        },
+        {
+          "tag": "loop",
+          "counts": 9156
+        },
+        {
+          "tag": "nftcommunity",
+          "counts": 9090
+        },
+        {
+          "tag": "glitch",
+          "counts": 8809
+        },
+        {
+          "tag": "painting",
+          "counts": 8092
+        },
+        {
+          "tag": "ai",
+          "counts": 7583
+        },
+        {
+          "tag": "collectible",
+          "counts": 7299
+        },
+        {
+          "tag": "cryptoart",
+          "counts": 7104
+        },
+        {
+          "tag": "generativeart",
+          "counts": 6810
+        },
+        {
+          "tag": "drawing",
+          "counts": 6547
+        },
+        {
+          "tag": "2d",
+          "counts": 6080
+        },
+        {
+          "tag": "portrait",
+          "counts": 5990
+        },
+        {
+          "tag": "tezos",
+          "counts": 5592
+        },
+        {
+          "tag": "psychedelic",
+          "counts": 5367
+        },
+        {
+          "tag": "colorful",
+          "counts": 5314
+        },
+        {
+          "tag": "collage",
+          "counts": 5218
+        },
+        {
+          "tag": "nftpeople",
+          "counts": 5035
+        },
+        {
+          "tag": "nftart",
+          "counts": 4845
+        },
+        {
+          "tag": "crypto",
+          "counts": 4831
+        },
+        {
+          "tag": "cat",
+          "counts": 4680
+        },
+        {
+          "tag": "blackandwhite",
+          "counts": 4619
+        },
+        {
+          "tag": "dark",
+          "counts": 4576
+        },
+        {
+          "tag": "creativecoding",
+          "counts": 4527
+        },
+        {
+          "tag": "video",
+          "counts": 4500
+        },
+        {
+          "tag": "color",
+          "counts": 4472
+        },
+        {
+          "tag": "interactive",
+          "counts": 4381
+        },
+        {
+          "tag": "surreal",
+          "counts": 4263
+        },
+        {
+          "tag": "processing",
+          "counts": 4226
+        },
+        {
+          "tag": "trippy",
+          "counts": 4221
+        },
+        {
+          "tag": "photo",
+          "counts": 4110
+        },
+        {
+          "tag": "space",
+          "counts": 4057
+        },
+        {
+          "tag": "nature",
+          "counts": 4011
+        },
+        {
+          "tag": "artwork",
+          "counts": 3856
+        },
+        {
+          "tag": "black",
+          "counts": 3576
+        },
+        {
+          "tag": "colors",
+          "counts": 3402
+        },
+        {
+          "tag": "punk",
+          "counts": 3392
+        },
+        {
+          "tag": "glitchart",
+          "counts": 3364
+        }
+      ],
       "weekNr": 24,
       "days": [
         {
@@ -3168,6 +6821,209 @@
         "q3": 2.0,
         "max": 11500.0
       },
+      "nrOfTagsUsedInWeek": 73878,
+      "topTagsInWeek": [
+        {
+          "tag": "generative",
+          "counts": 28388
+        },
+        {
+          "tag": "art",
+          "counts": 27972
+        },
+        {
+          "tag": "illustration",
+          "counts": 26044
+        },
+        {
+          "tag": "abstract",
+          "counts": 18839
+        },
+        {
+          "tag": "3d",
+          "counts": 18148
+        },
+        {
+          "tag": "animation",
+          "counts": 17149
+        },
+        {
+          "tag": "digital",
+          "counts": 16131
+        },
+        {
+          "tag": "pixel",
+          "counts": 14760
+        },
+        {
+          "tag": "nft",
+          "counts": 13085
+        },
+        {
+          "tag": "photography",
+          "counts": 12868
+        },
+        {
+          "tag": "pixelart",
+          "counts": 12280
+        },
+        {
+          "tag": "digitalart",
+          "counts": 12269
+        },
+        {
+          "tag": "gif",
+          "counts": 11095
+        },
+        {
+          "tag": "programart",
+          "counts": 10729
+        },
+        {
+          "tag": "loop",
+          "counts": 9156
+        },
+        {
+          "tag": "nftcommunity",
+          "counts": 9090
+        },
+        {
+          "tag": "glitch",
+          "counts": 8809
+        },
+        {
+          "tag": "painting",
+          "counts": 8092
+        },
+        {
+          "tag": "ai",
+          "counts": 7583
+        },
+        {
+          "tag": "collectible",
+          "counts": 7299
+        },
+        {
+          "tag": "cryptoart",
+          "counts": 7104
+        },
+        {
+          "tag": "generativeart",
+          "counts": 6810
+        },
+        {
+          "tag": "drawing",
+          "counts": 6547
+        },
+        {
+          "tag": "2d",
+          "counts": 6080
+        },
+        {
+          "tag": "portrait",
+          "counts": 5990
+        },
+        {
+          "tag": "tezos",
+          "counts": 5592
+        },
+        {
+          "tag": "psychedelic",
+          "counts": 5367
+        },
+        {
+          "tag": "colorful",
+          "counts": 5314
+        },
+        {
+          "tag": "collage",
+          "counts": 5218
+        },
+        {
+          "tag": "nftpeople",
+          "counts": 5035
+        },
+        {
+          "tag": "nftart",
+          "counts": 4845
+        },
+        {
+          "tag": "crypto",
+          "counts": 4831
+        },
+        {
+          "tag": "cat",
+          "counts": 4680
+        },
+        {
+          "tag": "blackandwhite",
+          "counts": 4619
+        },
+        {
+          "tag": "dark",
+          "counts": 4576
+        },
+        {
+          "tag": "creativecoding",
+          "counts": 4527
+        },
+        {
+          "tag": "video",
+          "counts": 4500
+        },
+        {
+          "tag": "color",
+          "counts": 4472
+        },
+        {
+          "tag": "interactive",
+          "counts": 4381
+        },
+        {
+          "tag": "surreal",
+          "counts": 4263
+        },
+        {
+          "tag": "processing",
+          "counts": 4226
+        },
+        {
+          "tag": "trippy",
+          "counts": 4221
+        },
+        {
+          "tag": "photo",
+          "counts": 4110
+        },
+        {
+          "tag": "space",
+          "counts": 4057
+        },
+        {
+          "tag": "nature",
+          "counts": 4011
+        },
+        {
+          "tag": "artwork",
+          "counts": 3856
+        },
+        {
+          "tag": "black",
+          "counts": 3576
+        },
+        {
+          "tag": "colors",
+          "counts": 3402
+        },
+        {
+          "tag": "punk",
+          "counts": 3392
+        },
+        {
+          "tag": "glitchart",
+          "counts": 3364
+        }
+      ],
       "weekNr": 25,
       "days": [
         {
@@ -3351,6 +7207,209 @@
         "q3": 2.0,
         "max": 11500.0
       },
+      "nrOfTagsUsedInWeek": 24898,
+      "topTagsInWeek": [
+        {
+          "tag": "generative",
+          "counts": 28388
+        },
+        {
+          "tag": "art",
+          "counts": 27972
+        },
+        {
+          "tag": "illustration",
+          "counts": 26044
+        },
+        {
+          "tag": "abstract",
+          "counts": 18839
+        },
+        {
+          "tag": "3d",
+          "counts": 18148
+        },
+        {
+          "tag": "animation",
+          "counts": 17149
+        },
+        {
+          "tag": "digital",
+          "counts": 16131
+        },
+        {
+          "tag": "pixel",
+          "counts": 14760
+        },
+        {
+          "tag": "nft",
+          "counts": 13085
+        },
+        {
+          "tag": "photography",
+          "counts": 12868
+        },
+        {
+          "tag": "pixelart",
+          "counts": 12280
+        },
+        {
+          "tag": "digitalart",
+          "counts": 12269
+        },
+        {
+          "tag": "gif",
+          "counts": 11095
+        },
+        {
+          "tag": "programart",
+          "counts": 10729
+        },
+        {
+          "tag": "loop",
+          "counts": 9156
+        },
+        {
+          "tag": "nftcommunity",
+          "counts": 9090
+        },
+        {
+          "tag": "glitch",
+          "counts": 8809
+        },
+        {
+          "tag": "painting",
+          "counts": 8092
+        },
+        {
+          "tag": "ai",
+          "counts": 7583
+        },
+        {
+          "tag": "collectible",
+          "counts": 7299
+        },
+        {
+          "tag": "cryptoart",
+          "counts": 7104
+        },
+        {
+          "tag": "generativeart",
+          "counts": 6810
+        },
+        {
+          "tag": "drawing",
+          "counts": 6547
+        },
+        {
+          "tag": "2d",
+          "counts": 6080
+        },
+        {
+          "tag": "portrait",
+          "counts": 5990
+        },
+        {
+          "tag": "tezos",
+          "counts": 5592
+        },
+        {
+          "tag": "psychedelic",
+          "counts": 5367
+        },
+        {
+          "tag": "colorful",
+          "counts": 5314
+        },
+        {
+          "tag": "collage",
+          "counts": 5218
+        },
+        {
+          "tag": "nftpeople",
+          "counts": 5035
+        },
+        {
+          "tag": "nftart",
+          "counts": 4845
+        },
+        {
+          "tag": "crypto",
+          "counts": 4831
+        },
+        {
+          "tag": "cat",
+          "counts": 4680
+        },
+        {
+          "tag": "blackandwhite",
+          "counts": 4619
+        },
+        {
+          "tag": "dark",
+          "counts": 4576
+        },
+        {
+          "tag": "creativecoding",
+          "counts": 4527
+        },
+        {
+          "tag": "video",
+          "counts": 4500
+        },
+        {
+          "tag": "color",
+          "counts": 4472
+        },
+        {
+          "tag": "interactive",
+          "counts": 4381
+        },
+        {
+          "tag": "surreal",
+          "counts": 4263
+        },
+        {
+          "tag": "processing",
+          "counts": 4226
+        },
+        {
+          "tag": "trippy",
+          "counts": 4221
+        },
+        {
+          "tag": "photo",
+          "counts": 4110
+        },
+        {
+          "tag": "space",
+          "counts": 4057
+        },
+        {
+          "tag": "nature",
+          "counts": 4011
+        },
+        {
+          "tag": "artwork",
+          "counts": 3856
+        },
+        {
+          "tag": "black",
+          "counts": 3576
+        },
+        {
+          "tag": "colors",
+          "counts": 3402
+        },
+        {
+          "tag": "punk",
+          "counts": 3392
+        },
+        {
+          "tag": "glitchart",
+          "counts": 3364
+        }
+      ],
       "weekNr": 26,
       "days": [
         {
@@ -3534,6 +7593,209 @@
         "q3": 2.0,
         "max": 11500.0
       },
+      "nrOfTagsUsedInWeek": 42971,
+      "topTagsInWeek": [
+        {
+          "tag": "generative",
+          "counts": 28388
+        },
+        {
+          "tag": "art",
+          "counts": 27972
+        },
+        {
+          "tag": "illustration",
+          "counts": 26044
+        },
+        {
+          "tag": "abstract",
+          "counts": 18839
+        },
+        {
+          "tag": "3d",
+          "counts": 18148
+        },
+        {
+          "tag": "animation",
+          "counts": 17149
+        },
+        {
+          "tag": "digital",
+          "counts": 16131
+        },
+        {
+          "tag": "pixel",
+          "counts": 14760
+        },
+        {
+          "tag": "nft",
+          "counts": 13085
+        },
+        {
+          "tag": "photography",
+          "counts": 12868
+        },
+        {
+          "tag": "pixelart",
+          "counts": 12280
+        },
+        {
+          "tag": "digitalart",
+          "counts": 12269
+        },
+        {
+          "tag": "gif",
+          "counts": 11095
+        },
+        {
+          "tag": "programart",
+          "counts": 10729
+        },
+        {
+          "tag": "loop",
+          "counts": 9156
+        },
+        {
+          "tag": "nftcommunity",
+          "counts": 9090
+        },
+        {
+          "tag": "glitch",
+          "counts": 8809
+        },
+        {
+          "tag": "painting",
+          "counts": 8092
+        },
+        {
+          "tag": "ai",
+          "counts": 7583
+        },
+        {
+          "tag": "collectible",
+          "counts": 7299
+        },
+        {
+          "tag": "cryptoart",
+          "counts": 7104
+        },
+        {
+          "tag": "generativeart",
+          "counts": 6810
+        },
+        {
+          "tag": "drawing",
+          "counts": 6547
+        },
+        {
+          "tag": "2d",
+          "counts": 6080
+        },
+        {
+          "tag": "portrait",
+          "counts": 5990
+        },
+        {
+          "tag": "tezos",
+          "counts": 5592
+        },
+        {
+          "tag": "psychedelic",
+          "counts": 5367
+        },
+        {
+          "tag": "colorful",
+          "counts": 5314
+        },
+        {
+          "tag": "collage",
+          "counts": 5218
+        },
+        {
+          "tag": "nftpeople",
+          "counts": 5035
+        },
+        {
+          "tag": "nftart",
+          "counts": 4845
+        },
+        {
+          "tag": "crypto",
+          "counts": 4831
+        },
+        {
+          "tag": "cat",
+          "counts": 4680
+        },
+        {
+          "tag": "blackandwhite",
+          "counts": 4619
+        },
+        {
+          "tag": "dark",
+          "counts": 4576
+        },
+        {
+          "tag": "creativecoding",
+          "counts": 4527
+        },
+        {
+          "tag": "video",
+          "counts": 4500
+        },
+        {
+          "tag": "color",
+          "counts": 4472
+        },
+        {
+          "tag": "interactive",
+          "counts": 4381
+        },
+        {
+          "tag": "surreal",
+          "counts": 4263
+        },
+        {
+          "tag": "processing",
+          "counts": 4226
+        },
+        {
+          "tag": "trippy",
+          "counts": 4221
+        },
+        {
+          "tag": "photo",
+          "counts": 4110
+        },
+        {
+          "tag": "space",
+          "counts": 4057
+        },
+        {
+          "tag": "nature",
+          "counts": 4011
+        },
+        {
+          "tag": "artwork",
+          "counts": 3856
+        },
+        {
+          "tag": "black",
+          "counts": 3576
+        },
+        {
+          "tag": "colors",
+          "counts": 3402
+        },
+        {
+          "tag": "punk",
+          "counts": 3392
+        },
+        {
+          "tag": "glitchart",
+          "counts": 3364
+        }
+      ],
       "weekNr": 27,
       "days": [
         {
@@ -3717,6 +7979,209 @@
         "q3": 2.0,
         "max": 11500.0
       },
+      "nrOfTagsUsedInWeek": 56953,
+      "topTagsInWeek": [
+        {
+          "tag": "generative",
+          "counts": 28388
+        },
+        {
+          "tag": "art",
+          "counts": 27972
+        },
+        {
+          "tag": "illustration",
+          "counts": 26044
+        },
+        {
+          "tag": "abstract",
+          "counts": 18839
+        },
+        {
+          "tag": "3d",
+          "counts": 18148
+        },
+        {
+          "tag": "animation",
+          "counts": 17149
+        },
+        {
+          "tag": "digital",
+          "counts": 16131
+        },
+        {
+          "tag": "pixel",
+          "counts": 14760
+        },
+        {
+          "tag": "nft",
+          "counts": 13085
+        },
+        {
+          "tag": "photography",
+          "counts": 12868
+        },
+        {
+          "tag": "pixelart",
+          "counts": 12280
+        },
+        {
+          "tag": "digitalart",
+          "counts": 12269
+        },
+        {
+          "tag": "gif",
+          "counts": 11095
+        },
+        {
+          "tag": "programart",
+          "counts": 10729
+        },
+        {
+          "tag": "loop",
+          "counts": 9156
+        },
+        {
+          "tag": "nftcommunity",
+          "counts": 9090
+        },
+        {
+          "tag": "glitch",
+          "counts": 8809
+        },
+        {
+          "tag": "painting",
+          "counts": 8092
+        },
+        {
+          "tag": "ai",
+          "counts": 7583
+        },
+        {
+          "tag": "collectible",
+          "counts": 7299
+        },
+        {
+          "tag": "cryptoart",
+          "counts": 7104
+        },
+        {
+          "tag": "generativeart",
+          "counts": 6810
+        },
+        {
+          "tag": "drawing",
+          "counts": 6547
+        },
+        {
+          "tag": "2d",
+          "counts": 6080
+        },
+        {
+          "tag": "portrait",
+          "counts": 5990
+        },
+        {
+          "tag": "tezos",
+          "counts": 5592
+        },
+        {
+          "tag": "psychedelic",
+          "counts": 5367
+        },
+        {
+          "tag": "colorful",
+          "counts": 5314
+        },
+        {
+          "tag": "collage",
+          "counts": 5218
+        },
+        {
+          "tag": "nftpeople",
+          "counts": 5035
+        },
+        {
+          "tag": "nftart",
+          "counts": 4845
+        },
+        {
+          "tag": "crypto",
+          "counts": 4831
+        },
+        {
+          "tag": "cat",
+          "counts": 4680
+        },
+        {
+          "tag": "blackandwhite",
+          "counts": 4619
+        },
+        {
+          "tag": "dark",
+          "counts": 4576
+        },
+        {
+          "tag": "creativecoding",
+          "counts": 4527
+        },
+        {
+          "tag": "video",
+          "counts": 4500
+        },
+        {
+          "tag": "color",
+          "counts": 4472
+        },
+        {
+          "tag": "interactive",
+          "counts": 4381
+        },
+        {
+          "tag": "surreal",
+          "counts": 4263
+        },
+        {
+          "tag": "processing",
+          "counts": 4226
+        },
+        {
+          "tag": "trippy",
+          "counts": 4221
+        },
+        {
+          "tag": "photo",
+          "counts": 4110
+        },
+        {
+          "tag": "space",
+          "counts": 4057
+        },
+        {
+          "tag": "nature",
+          "counts": 4011
+        },
+        {
+          "tag": "artwork",
+          "counts": 3856
+        },
+        {
+          "tag": "black",
+          "counts": 3576
+        },
+        {
+          "tag": "colors",
+          "counts": 3402
+        },
+        {
+          "tag": "punk",
+          "counts": 3392
+        },
+        {
+          "tag": "glitchart",
+          "counts": 3364
+        }
+      ],
       "weekNr": 28,
       "days": [
         {
@@ -3900,6 +8365,209 @@
         "q3": 2.0,
         "max": 11500.0
       },
+      "nrOfTagsUsedInWeek": 52830,
+      "topTagsInWeek": [
+        {
+          "tag": "generative",
+          "counts": 28388
+        },
+        {
+          "tag": "art",
+          "counts": 27972
+        },
+        {
+          "tag": "illustration",
+          "counts": 26044
+        },
+        {
+          "tag": "abstract",
+          "counts": 18839
+        },
+        {
+          "tag": "3d",
+          "counts": 18148
+        },
+        {
+          "tag": "animation",
+          "counts": 17149
+        },
+        {
+          "tag": "digital",
+          "counts": 16131
+        },
+        {
+          "tag": "pixel",
+          "counts": 14760
+        },
+        {
+          "tag": "nft",
+          "counts": 13085
+        },
+        {
+          "tag": "photography",
+          "counts": 12868
+        },
+        {
+          "tag": "pixelart",
+          "counts": 12280
+        },
+        {
+          "tag": "digitalart",
+          "counts": 12269
+        },
+        {
+          "tag": "gif",
+          "counts": 11095
+        },
+        {
+          "tag": "programart",
+          "counts": 10729
+        },
+        {
+          "tag": "loop",
+          "counts": 9156
+        },
+        {
+          "tag": "nftcommunity",
+          "counts": 9090
+        },
+        {
+          "tag": "glitch",
+          "counts": 8809
+        },
+        {
+          "tag": "painting",
+          "counts": 8092
+        },
+        {
+          "tag": "ai",
+          "counts": 7583
+        },
+        {
+          "tag": "collectible",
+          "counts": 7299
+        },
+        {
+          "tag": "cryptoart",
+          "counts": 7104
+        },
+        {
+          "tag": "generativeart",
+          "counts": 6810
+        },
+        {
+          "tag": "drawing",
+          "counts": 6547
+        },
+        {
+          "tag": "2d",
+          "counts": 6080
+        },
+        {
+          "tag": "portrait",
+          "counts": 5990
+        },
+        {
+          "tag": "tezos",
+          "counts": 5592
+        },
+        {
+          "tag": "psychedelic",
+          "counts": 5367
+        },
+        {
+          "tag": "colorful",
+          "counts": 5314
+        },
+        {
+          "tag": "collage",
+          "counts": 5218
+        },
+        {
+          "tag": "nftpeople",
+          "counts": 5035
+        },
+        {
+          "tag": "nftart",
+          "counts": 4845
+        },
+        {
+          "tag": "crypto",
+          "counts": 4831
+        },
+        {
+          "tag": "cat",
+          "counts": 4680
+        },
+        {
+          "tag": "blackandwhite",
+          "counts": 4619
+        },
+        {
+          "tag": "dark",
+          "counts": 4576
+        },
+        {
+          "tag": "creativecoding",
+          "counts": 4527
+        },
+        {
+          "tag": "video",
+          "counts": 4500
+        },
+        {
+          "tag": "color",
+          "counts": 4472
+        },
+        {
+          "tag": "interactive",
+          "counts": 4381
+        },
+        {
+          "tag": "surreal",
+          "counts": 4263
+        },
+        {
+          "tag": "processing",
+          "counts": 4226
+        },
+        {
+          "tag": "trippy",
+          "counts": 4221
+        },
+        {
+          "tag": "photo",
+          "counts": 4110
+        },
+        {
+          "tag": "space",
+          "counts": 4057
+        },
+        {
+          "tag": "nature",
+          "counts": 4011
+        },
+        {
+          "tag": "artwork",
+          "counts": 3856
+        },
+        {
+          "tag": "black",
+          "counts": 3576
+        },
+        {
+          "tag": "colors",
+          "counts": 3402
+        },
+        {
+          "tag": "punk",
+          "counts": 3392
+        },
+        {
+          "tag": "glitchart",
+          "counts": 3364
+        }
+      ],
       "weekNr": 29,
       "days": [
         {
@@ -4083,6 +8751,209 @@
         "q3": 2.0,
         "max": 11500.0
       },
+      "nrOfTagsUsedInWeek": 50353,
+      "topTagsInWeek": [
+        {
+          "tag": "generative",
+          "counts": 28388
+        },
+        {
+          "tag": "art",
+          "counts": 27972
+        },
+        {
+          "tag": "illustration",
+          "counts": 26044
+        },
+        {
+          "tag": "abstract",
+          "counts": 18839
+        },
+        {
+          "tag": "3d",
+          "counts": 18148
+        },
+        {
+          "tag": "animation",
+          "counts": 17149
+        },
+        {
+          "tag": "digital",
+          "counts": 16131
+        },
+        {
+          "tag": "pixel",
+          "counts": 14760
+        },
+        {
+          "tag": "nft",
+          "counts": 13085
+        },
+        {
+          "tag": "photography",
+          "counts": 12868
+        },
+        {
+          "tag": "pixelart",
+          "counts": 12280
+        },
+        {
+          "tag": "digitalart",
+          "counts": 12269
+        },
+        {
+          "tag": "gif",
+          "counts": 11095
+        },
+        {
+          "tag": "programart",
+          "counts": 10729
+        },
+        {
+          "tag": "loop",
+          "counts": 9156
+        },
+        {
+          "tag": "nftcommunity",
+          "counts": 9090
+        },
+        {
+          "tag": "glitch",
+          "counts": 8809
+        },
+        {
+          "tag": "painting",
+          "counts": 8092
+        },
+        {
+          "tag": "ai",
+          "counts": 7583
+        },
+        {
+          "tag": "collectible",
+          "counts": 7299
+        },
+        {
+          "tag": "cryptoart",
+          "counts": 7104
+        },
+        {
+          "tag": "generativeart",
+          "counts": 6810
+        },
+        {
+          "tag": "drawing",
+          "counts": 6547
+        },
+        {
+          "tag": "2d",
+          "counts": 6080
+        },
+        {
+          "tag": "portrait",
+          "counts": 5990
+        },
+        {
+          "tag": "tezos",
+          "counts": 5592
+        },
+        {
+          "tag": "psychedelic",
+          "counts": 5367
+        },
+        {
+          "tag": "colorful",
+          "counts": 5314
+        },
+        {
+          "tag": "collage",
+          "counts": 5218
+        },
+        {
+          "tag": "nftpeople",
+          "counts": 5035
+        },
+        {
+          "tag": "nftart",
+          "counts": 4845
+        },
+        {
+          "tag": "crypto",
+          "counts": 4831
+        },
+        {
+          "tag": "cat",
+          "counts": 4680
+        },
+        {
+          "tag": "blackandwhite",
+          "counts": 4619
+        },
+        {
+          "tag": "dark",
+          "counts": 4576
+        },
+        {
+          "tag": "creativecoding",
+          "counts": 4527
+        },
+        {
+          "tag": "video",
+          "counts": 4500
+        },
+        {
+          "tag": "color",
+          "counts": 4472
+        },
+        {
+          "tag": "interactive",
+          "counts": 4381
+        },
+        {
+          "tag": "surreal",
+          "counts": 4263
+        },
+        {
+          "tag": "processing",
+          "counts": 4226
+        },
+        {
+          "tag": "trippy",
+          "counts": 4221
+        },
+        {
+          "tag": "photo",
+          "counts": 4110
+        },
+        {
+          "tag": "space",
+          "counts": 4057
+        },
+        {
+          "tag": "nature",
+          "counts": 4011
+        },
+        {
+          "tag": "artwork",
+          "counts": 3856
+        },
+        {
+          "tag": "black",
+          "counts": 3576
+        },
+        {
+          "tag": "colors",
+          "counts": 3402
+        },
+        {
+          "tag": "punk",
+          "counts": 3392
+        },
+        {
+          "tag": "glitchart",
+          "counts": 3364
+        }
+      ],
       "weekNr": 30,
       "days": [
         {
@@ -4266,6 +9137,209 @@
         "q3": 2.0,
         "max": 11500.0
       },
+      "nrOfTagsUsedInWeek": 46468,
+      "topTagsInWeek": [
+        {
+          "tag": "generative",
+          "counts": 28388
+        },
+        {
+          "tag": "art",
+          "counts": 27972
+        },
+        {
+          "tag": "illustration",
+          "counts": 26044
+        },
+        {
+          "tag": "abstract",
+          "counts": 18839
+        },
+        {
+          "tag": "3d",
+          "counts": 18148
+        },
+        {
+          "tag": "animation",
+          "counts": 17149
+        },
+        {
+          "tag": "digital",
+          "counts": 16131
+        },
+        {
+          "tag": "pixel",
+          "counts": 14760
+        },
+        {
+          "tag": "nft",
+          "counts": 13085
+        },
+        {
+          "tag": "photography",
+          "counts": 12868
+        },
+        {
+          "tag": "pixelart",
+          "counts": 12280
+        },
+        {
+          "tag": "digitalart",
+          "counts": 12269
+        },
+        {
+          "tag": "gif",
+          "counts": 11095
+        },
+        {
+          "tag": "programart",
+          "counts": 10729
+        },
+        {
+          "tag": "loop",
+          "counts": 9156
+        },
+        {
+          "tag": "nftcommunity",
+          "counts": 9090
+        },
+        {
+          "tag": "glitch",
+          "counts": 8809
+        },
+        {
+          "tag": "painting",
+          "counts": 8092
+        },
+        {
+          "tag": "ai",
+          "counts": 7583
+        },
+        {
+          "tag": "collectible",
+          "counts": 7299
+        },
+        {
+          "tag": "cryptoart",
+          "counts": 7104
+        },
+        {
+          "tag": "generativeart",
+          "counts": 6810
+        },
+        {
+          "tag": "drawing",
+          "counts": 6547
+        },
+        {
+          "tag": "2d",
+          "counts": 6080
+        },
+        {
+          "tag": "portrait",
+          "counts": 5990
+        },
+        {
+          "tag": "tezos",
+          "counts": 5592
+        },
+        {
+          "tag": "psychedelic",
+          "counts": 5367
+        },
+        {
+          "tag": "colorful",
+          "counts": 5314
+        },
+        {
+          "tag": "collage",
+          "counts": 5218
+        },
+        {
+          "tag": "nftpeople",
+          "counts": 5035
+        },
+        {
+          "tag": "nftart",
+          "counts": 4845
+        },
+        {
+          "tag": "crypto",
+          "counts": 4831
+        },
+        {
+          "tag": "cat",
+          "counts": 4680
+        },
+        {
+          "tag": "blackandwhite",
+          "counts": 4619
+        },
+        {
+          "tag": "dark",
+          "counts": 4576
+        },
+        {
+          "tag": "creativecoding",
+          "counts": 4527
+        },
+        {
+          "tag": "video",
+          "counts": 4500
+        },
+        {
+          "tag": "color",
+          "counts": 4472
+        },
+        {
+          "tag": "interactive",
+          "counts": 4381
+        },
+        {
+          "tag": "surreal",
+          "counts": 4263
+        },
+        {
+          "tag": "processing",
+          "counts": 4226
+        },
+        {
+          "tag": "trippy",
+          "counts": 4221
+        },
+        {
+          "tag": "photo",
+          "counts": 4110
+        },
+        {
+          "tag": "space",
+          "counts": 4057
+        },
+        {
+          "tag": "nature",
+          "counts": 4011
+        },
+        {
+          "tag": "artwork",
+          "counts": 3856
+        },
+        {
+          "tag": "black",
+          "counts": 3576
+        },
+        {
+          "tag": "colors",
+          "counts": 3402
+        },
+        {
+          "tag": "punk",
+          "counts": 3392
+        },
+        {
+          "tag": "glitchart",
+          "counts": 3364
+        }
+      ],
       "weekNr": 31,
       "days": [
         {
@@ -4449,6 +9523,209 @@
         "q3": 2.0,
         "max": 11500.0
       },
+      "nrOfTagsUsedInWeek": 63637,
+      "topTagsInWeek": [
+        {
+          "tag": "generative",
+          "counts": 28388
+        },
+        {
+          "tag": "art",
+          "counts": 27972
+        },
+        {
+          "tag": "illustration",
+          "counts": 26044
+        },
+        {
+          "tag": "abstract",
+          "counts": 18839
+        },
+        {
+          "tag": "3d",
+          "counts": 18148
+        },
+        {
+          "tag": "animation",
+          "counts": 17149
+        },
+        {
+          "tag": "digital",
+          "counts": 16131
+        },
+        {
+          "tag": "pixel",
+          "counts": 14760
+        },
+        {
+          "tag": "nft",
+          "counts": 13085
+        },
+        {
+          "tag": "photography",
+          "counts": 12868
+        },
+        {
+          "tag": "pixelart",
+          "counts": 12280
+        },
+        {
+          "tag": "digitalart",
+          "counts": 12269
+        },
+        {
+          "tag": "gif",
+          "counts": 11095
+        },
+        {
+          "tag": "programart",
+          "counts": 10729
+        },
+        {
+          "tag": "loop",
+          "counts": 9156
+        },
+        {
+          "tag": "nftcommunity",
+          "counts": 9090
+        },
+        {
+          "tag": "glitch",
+          "counts": 8809
+        },
+        {
+          "tag": "painting",
+          "counts": 8092
+        },
+        {
+          "tag": "ai",
+          "counts": 7583
+        },
+        {
+          "tag": "collectible",
+          "counts": 7299
+        },
+        {
+          "tag": "cryptoart",
+          "counts": 7104
+        },
+        {
+          "tag": "generativeart",
+          "counts": 6810
+        },
+        {
+          "tag": "drawing",
+          "counts": 6547
+        },
+        {
+          "tag": "2d",
+          "counts": 6080
+        },
+        {
+          "tag": "portrait",
+          "counts": 5990
+        },
+        {
+          "tag": "tezos",
+          "counts": 5592
+        },
+        {
+          "tag": "psychedelic",
+          "counts": 5367
+        },
+        {
+          "tag": "colorful",
+          "counts": 5314
+        },
+        {
+          "tag": "collage",
+          "counts": 5218
+        },
+        {
+          "tag": "nftpeople",
+          "counts": 5035
+        },
+        {
+          "tag": "nftart",
+          "counts": 4845
+        },
+        {
+          "tag": "crypto",
+          "counts": 4831
+        },
+        {
+          "tag": "cat",
+          "counts": 4680
+        },
+        {
+          "tag": "blackandwhite",
+          "counts": 4619
+        },
+        {
+          "tag": "dark",
+          "counts": 4576
+        },
+        {
+          "tag": "creativecoding",
+          "counts": 4527
+        },
+        {
+          "tag": "video",
+          "counts": 4500
+        },
+        {
+          "tag": "color",
+          "counts": 4472
+        },
+        {
+          "tag": "interactive",
+          "counts": 4381
+        },
+        {
+          "tag": "surreal",
+          "counts": 4263
+        },
+        {
+          "tag": "processing",
+          "counts": 4226
+        },
+        {
+          "tag": "trippy",
+          "counts": 4221
+        },
+        {
+          "tag": "photo",
+          "counts": 4110
+        },
+        {
+          "tag": "space",
+          "counts": 4057
+        },
+        {
+          "tag": "nature",
+          "counts": 4011
+        },
+        {
+          "tag": "artwork",
+          "counts": 3856
+        },
+        {
+          "tag": "black",
+          "counts": 3576
+        },
+        {
+          "tag": "colors",
+          "counts": 3402
+        },
+        {
+          "tag": "punk",
+          "counts": 3392
+        },
+        {
+          "tag": "glitchart",
+          "counts": 3364
+        }
+      ],
       "weekNr": 32,
       "days": [
         {
@@ -4632,6 +9909,209 @@
         "q3": 2.0,
         "max": 11500.0
       },
+      "nrOfTagsUsedInWeek": 77508,
+      "topTagsInWeek": [
+        {
+          "tag": "generative",
+          "counts": 28388
+        },
+        {
+          "tag": "art",
+          "counts": 27972
+        },
+        {
+          "tag": "illustration",
+          "counts": 26044
+        },
+        {
+          "tag": "abstract",
+          "counts": 18839
+        },
+        {
+          "tag": "3d",
+          "counts": 18148
+        },
+        {
+          "tag": "animation",
+          "counts": 17149
+        },
+        {
+          "tag": "digital",
+          "counts": 16131
+        },
+        {
+          "tag": "pixel",
+          "counts": 14760
+        },
+        {
+          "tag": "nft",
+          "counts": 13085
+        },
+        {
+          "tag": "photography",
+          "counts": 12868
+        },
+        {
+          "tag": "pixelart",
+          "counts": 12280
+        },
+        {
+          "tag": "digitalart",
+          "counts": 12269
+        },
+        {
+          "tag": "gif",
+          "counts": 11095
+        },
+        {
+          "tag": "programart",
+          "counts": 10729
+        },
+        {
+          "tag": "loop",
+          "counts": 9156
+        },
+        {
+          "tag": "nftcommunity",
+          "counts": 9090
+        },
+        {
+          "tag": "glitch",
+          "counts": 8809
+        },
+        {
+          "tag": "painting",
+          "counts": 8092
+        },
+        {
+          "tag": "ai",
+          "counts": 7583
+        },
+        {
+          "tag": "collectible",
+          "counts": 7299
+        },
+        {
+          "tag": "cryptoart",
+          "counts": 7104
+        },
+        {
+          "tag": "generativeart",
+          "counts": 6810
+        },
+        {
+          "tag": "drawing",
+          "counts": 6547
+        },
+        {
+          "tag": "2d",
+          "counts": 6080
+        },
+        {
+          "tag": "portrait",
+          "counts": 5990
+        },
+        {
+          "tag": "tezos",
+          "counts": 5592
+        },
+        {
+          "tag": "psychedelic",
+          "counts": 5367
+        },
+        {
+          "tag": "colorful",
+          "counts": 5314
+        },
+        {
+          "tag": "collage",
+          "counts": 5218
+        },
+        {
+          "tag": "nftpeople",
+          "counts": 5035
+        },
+        {
+          "tag": "nftart",
+          "counts": 4845
+        },
+        {
+          "tag": "crypto",
+          "counts": 4831
+        },
+        {
+          "tag": "cat",
+          "counts": 4680
+        },
+        {
+          "tag": "blackandwhite",
+          "counts": 4619
+        },
+        {
+          "tag": "dark",
+          "counts": 4576
+        },
+        {
+          "tag": "creativecoding",
+          "counts": 4527
+        },
+        {
+          "tag": "video",
+          "counts": 4500
+        },
+        {
+          "tag": "color",
+          "counts": 4472
+        },
+        {
+          "tag": "interactive",
+          "counts": 4381
+        },
+        {
+          "tag": "surreal",
+          "counts": 4263
+        },
+        {
+          "tag": "processing",
+          "counts": 4226
+        },
+        {
+          "tag": "trippy",
+          "counts": 4221
+        },
+        {
+          "tag": "photo",
+          "counts": 4110
+        },
+        {
+          "tag": "space",
+          "counts": 4057
+        },
+        {
+          "tag": "nature",
+          "counts": 4011
+        },
+        {
+          "tag": "artwork",
+          "counts": 3856
+        },
+        {
+          "tag": "black",
+          "counts": 3576
+        },
+        {
+          "tag": "colors",
+          "counts": 3402
+        },
+        {
+          "tag": "punk",
+          "counts": 3392
+        },
+        {
+          "tag": "glitchart",
+          "counts": 3364
+        }
+      ],
       "weekNr": 33,
       "days": [
         {
@@ -4815,6 +10295,209 @@
         "q3": 2.0,
         "max": 31337.0
       },
+      "nrOfTagsUsedInWeek": 158721,
+      "topTagsInWeek": [
+        {
+          "tag": "generative",
+          "counts": 28388
+        },
+        {
+          "tag": "art",
+          "counts": 27972
+        },
+        {
+          "tag": "illustration",
+          "counts": 26044
+        },
+        {
+          "tag": "abstract",
+          "counts": 18839
+        },
+        {
+          "tag": "3d",
+          "counts": 18148
+        },
+        {
+          "tag": "animation",
+          "counts": 17149
+        },
+        {
+          "tag": "digital",
+          "counts": 16131
+        },
+        {
+          "tag": "pixel",
+          "counts": 14760
+        },
+        {
+          "tag": "nft",
+          "counts": 13085
+        },
+        {
+          "tag": "photography",
+          "counts": 12868
+        },
+        {
+          "tag": "pixelart",
+          "counts": 12280
+        },
+        {
+          "tag": "digitalart",
+          "counts": 12269
+        },
+        {
+          "tag": "gif",
+          "counts": 11095
+        },
+        {
+          "tag": "programart",
+          "counts": 10729
+        },
+        {
+          "tag": "loop",
+          "counts": 9156
+        },
+        {
+          "tag": "nftcommunity",
+          "counts": 9090
+        },
+        {
+          "tag": "glitch",
+          "counts": 8809
+        },
+        {
+          "tag": "painting",
+          "counts": 8092
+        },
+        {
+          "tag": "ai",
+          "counts": 7583
+        },
+        {
+          "tag": "collectible",
+          "counts": 7299
+        },
+        {
+          "tag": "cryptoart",
+          "counts": 7104
+        },
+        {
+          "tag": "generativeart",
+          "counts": 6810
+        },
+        {
+          "tag": "drawing",
+          "counts": 6547
+        },
+        {
+          "tag": "2d",
+          "counts": 6080
+        },
+        {
+          "tag": "portrait",
+          "counts": 5990
+        },
+        {
+          "tag": "tezos",
+          "counts": 5592
+        },
+        {
+          "tag": "psychedelic",
+          "counts": 5367
+        },
+        {
+          "tag": "colorful",
+          "counts": 5314
+        },
+        {
+          "tag": "collage",
+          "counts": 5218
+        },
+        {
+          "tag": "nftpeople",
+          "counts": 5035
+        },
+        {
+          "tag": "nftart",
+          "counts": 4845
+        },
+        {
+          "tag": "crypto",
+          "counts": 4831
+        },
+        {
+          "tag": "cat",
+          "counts": 4680
+        },
+        {
+          "tag": "blackandwhite",
+          "counts": 4619
+        },
+        {
+          "tag": "dark",
+          "counts": 4576
+        },
+        {
+          "tag": "creativecoding",
+          "counts": 4527
+        },
+        {
+          "tag": "video",
+          "counts": 4500
+        },
+        {
+          "tag": "color",
+          "counts": 4472
+        },
+        {
+          "tag": "interactive",
+          "counts": 4381
+        },
+        {
+          "tag": "surreal",
+          "counts": 4263
+        },
+        {
+          "tag": "processing",
+          "counts": 4226
+        },
+        {
+          "tag": "trippy",
+          "counts": 4221
+        },
+        {
+          "tag": "photo",
+          "counts": 4110
+        },
+        {
+          "tag": "space",
+          "counts": 4057
+        },
+        {
+          "tag": "nature",
+          "counts": 4011
+        },
+        {
+          "tag": "artwork",
+          "counts": 3856
+        },
+        {
+          "tag": "black",
+          "counts": 3576
+        },
+        {
+          "tag": "colors",
+          "counts": 3402
+        },
+        {
+          "tag": "punk",
+          "counts": 3392
+        },
+        {
+          "tag": "glitchart",
+          "counts": 3364
+        }
+      ],
       "weekNr": 34,
       "days": [
         {
