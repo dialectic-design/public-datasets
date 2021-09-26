@@ -2,255 +2,255 @@
   "datafile": "export-for-week-38",
   "statsForWeek": 38,
   "minMintDate": "2021-03-01T03:39:21+00:00",
-  "maxMintDate": "2021-09-20T18:00:14+00:00",
+  "maxMintDate": "2021-09-26T14:56:24+00:00",
   "minCollectDate": "2021-03-01T09:58:07+00:00",
-  "maxCollectDate": "2021-08-17T21:24:50+00:00",
-  "totalUsers": 32695,
-  "artists": 26714,
-  "collectors": 15979,
-  "artistCollectors": 9998,
-  "pureArtists": 16716,
-  "pureCollectors": 5981,
-  "totalObjkts": 334969,
-  "totalEditions": 43439374,
-  "totalCollects": 817021,
+  "maxCollectDate": "2021-09-22T14:37:04+00:00",
+  "totalUsers": 34267,
+  "artists": 28302,
+  "collectors": 15984,
+  "artistCollectors": 10019,
+  "pureArtists": 18283,
+  "pureCollectors": 5965,
+  "totalObjkts": 360353,
+  "totalEditions": 44428549,
+  "totalCollects": 817037,
   "topTagsUpToWeek": [
     {
       "tag": "generative",
-      "counts": 39201
+      "counts": 39506
     },
     {
       "tag": "art",
-      "counts": 37858
+      "counts": 38156
     },
     {
       "tag": "illustration",
-      "counts": 32154
+      "counts": 32408
     },
     {
       "tag": "abstract",
-      "counts": 26133
+      "counts": 26318
     },
     {
       "tag": "animation",
-      "counts": 22578
+      "counts": 22709
     },
     {
       "tag": "3d",
-      "counts": 22440
+      "counts": 22548
     },
     {
       "tag": "digital",
-      "counts": 20121
+      "counts": 20254
     },
     {
       "tag": "pixel",
-      "counts": 19319
+      "counts": 19467
     },
     {
       "tag": "nft",
-      "counts": 19017
+      "counts": 19182
     },
     {
       "tag": "pixelart",
-      "counts": 17223
+      "counts": 17407
     },
     {
       "tag": "digitalart",
-      "counts": 16915
+      "counts": 17071
     },
     {
       "tag": "photography",
-      "counts": 16010
+      "counts": 16112
     },
     {
       "tag": "gif",
-      "counts": 13745
+      "counts": 13838
     },
     {
       "tag": "loop",
-      "counts": 13121
+      "counts": 13191
     },
     {
       "tag": "programart",
-      "counts": 11550
+      "counts": 11574
     },
     {
       "tag": "collectible",
-      "counts": 11042
+      "counts": 11246
     },
     {
       "tag": "cryptoart",
-      "counts": 10992
+      "counts": 11067
     },
     {
       "tag": "painting",
-      "counts": 10778
+      "counts": 10860
     },
     {
       "tag": "generativeart",
-      "counts": 10596
+      "counts": 10713
     },
     {
       "tag": "glitch",
-      "counts": 10541
+      "counts": 10593
     },
     {
       "tag": "nftcommunity",
-      "counts": 10243
+      "counts": 10289
     },
     {
       "tag": "ai",
-      "counts": 9489
+      "counts": 9550
     },
     {
       "tag": "colorful",
-      "counts": 9328
+      "counts": 9429
     },
     {
       "tag": "tezos",
-      "counts": 9309
+      "counts": 9411
     },
     {
       "tag": "psychedelic",
-      "counts": 8730
+      "counts": 8819
     },
     {
       "tag": "creativecoding",
-      "counts": 8704
+      "counts": 8790
     },
     {
       "tag": "processing",
-      "counts": 8298
+      "counts": 8384
     },
     {
       "tag": "drawing",
-      "counts": 8289
+      "counts": 8358
     },
     {
       "tag": "2d",
-      "counts": 7699
+      "counts": 7742
     },
     {
       "tag": "portrait",
-      "counts": 7515
+      "counts": 7553
     },
     {
       "tag": "interactive",
-      "counts": 7438
+      "counts": 7493
     },
     {
       "tag": "nftart",
-      "counts": 7317
+      "counts": 7380
     },
     {
       "tag": "geometric",
-      "counts": 6985
+      "counts": 7056
     },
     {
       "tag": "trippy",
-      "counts": 6904
+      "counts": 6956
     },
     {
       "tag": "motion",
-      "counts": 6536
-    },
-    {
-      "tag": "collage",
-      "counts": 6245
+      "counts": 6619
     },
     {
       "tag": "color",
-      "counts": 6219
+      "counts": 6277
+    },
+    {
+      "tag": "collage",
+      "counts": 6276
     },
     {
       "tag": "cleannft",
-      "counts": 6098
+      "counts": 6170
     },
     {
       "tag": "glitchart",
-      "counts": 5887
+      "counts": 5937
     },
     {
       "tag": "hicetnunc",
-      "counts": 5694
+      "counts": 5756
     },
     {
       "tag": "blackandwhite",
-      "counts": 5660
+      "counts": 5694
     },
     {
       "tag": "crypto",
-      "counts": 5630
+      "counts": 5671
     },
     {
       "tag": "cat",
-      "counts": 5518
+      "counts": 5545
     },
     {
       "tag": "dark",
-      "counts": 5403
+      "counts": 5435
     },
     {
       "tag": "nftartist",
-      "counts": 5358
+      "counts": 5428
     },
     {
       "tag": "photo",
-      "counts": 5340
+      "counts": 5376
     },
     {
       "tag": "space",
-      "counts": 5325
+      "counts": 5361
     },
     {
       "tag": "video",
-      "counts": 5173
+      "counts": 5197
     },
     {
       "tag": "objkt",
-      "counts": 5059
+      "counts": 5130
     },
     {
-      "tag": "nftpeople",
-      "counts": 5035
+      "tag": "nfts",
+      "counts": 5058
     }
   ],
-  "totalEditionsCollected": 1566913,
+  "totalEditionsCollected": 1566929,
   "week-38": {
-    "minted": 3342,
-    "mintedUpToWeek": 334969,
-    "editionsCreated": 139920,
-    "editionsCreatedUpToWeek": 43439374,
-    "editionsCollected": 0,
-    "activeArtists": 1331,
-    "activeCollectors": 2980,
-    "activeUsers": 3948,
-    "artistsUpToWeek": 26714,
-    "collectorsUpToWeek": 29868,
-    "tradesForWeek": 14576,
-    "tradesForWeekPrimary": 13138,
-    "tradesForWeekSecondary": 1438,
-    "tradesForWeekV1": 0,
-    "tradesForWeekV2": 14576,
-    "tradesUpToWeek": 1879528,
-    "tradesUpToWeekV1": 817021,
-    "tradesUpToWeekV2": 1062507,
-    "usersUpToWeek": 41077,
+    "minted": 28726,
+    "mintedUpToWeek": 360353,
+    "editionsCreated": 1129095,
+    "editionsCreatedUpToWeek": 44428549,
+    "editionsCollected": 16,
+    "activeArtists": 6008,
+    "activeCollectors": 9199,
+    "activeUsers": 12574,
+    "artistsUpToWeek": 28302,
+    "collectorsUpToWeek": 31435,
+    "tradesForWeek": 99838,
+    "tradesForWeekPrimary": 89374,
+    "tradesForWeekSecondary": 10464,
+    "tradesForWeekV1": 16,
+    "tradesForWeekV2": 99822,
+    "tradesUpToWeek": 1964790,
+    "tradesUpToWeekV1": 817037,
+    "tradesUpToWeekV2": 1147753,
+    "usersUpToWeek": 43553,
     "weekDaterange": [
       "2021-09-20",
-      "2021-09-20"
+      "2021-09-26"
     ],
-    "newUsers": 328,
-    "newArtists": 210,
-    "newCollectors": 211,
-    "burns": 164043,
-    "burnsUpToWeek": 27167572,
-    "influxForWeek": 50261.14606499999,
-    "influxUpToWeek": 4550274.028032002,
-    "xtzTradedInWeek": 57050.941168000005,
-    "xtzTradedUpToWeek": 7142872.5048450045,
-    "averageXtzPerEditionPerTrade": 3.7995499632692775,
+    "newUsers": 2804,
+    "newArtists": 1798,
+    "newCollectors": 1778,
+    "burns": 777467,
+    "burnsUpToWeek": 27780996,
+    "influxForWeek": 338713.831212,
+    "influxUpToWeek": 4790952.879171002,
+    "xtzTradedInWeek": 432164.237276,
+    "xtzTradedUpToWeek": 7517985.8009530045,
+    "averageXtzPerEditionPerTrade": 3.825586367739849,
     "xtzPerEditionPerTradeQuantiles": {
       "min": 0.0,
       "q1": 0.01,
@@ -258,278 +258,350 @@
       "q3": 2.0,
       "max": 31337.0
     },
-    "nrOfTagsUsedInWeek": 1404,
+    "nrOfTagsUsedInWeek": 8465,
     "topTagsInWeek": [
       {
-        "tag": "pixelart",
-        "counts": 29
-      },
-      {
         "tag": "art",
-        "counts": 26
+        "counts": 166
       },
       {
         "tag": "generative",
-        "counts": 25
-      },
-      {
-        "tag": "collectible",
-        "counts": 24
+        "counts": 161
       },
       {
         "tag": "illustration",
-        "counts": 23
+        "counts": 145
       },
       {
-        "tag": "3d",
-        "counts": 19
+        "tag": "collectible",
+        "counts": 115
       },
       {
-        "tag": "animation",
-        "counts": 18
-      },
-      {
-        "tag": "abstract",
-        "counts": 17
-      },
-      {
-        "tag": "gif",
-        "counts": 17
-      },
-      {
-        "tag": "digitalart",
-        "counts": 17
-      },
-      {
-        "tag": "pixel",
-        "counts": 17
+        "tag": "pixelart",
+        "counts": 108
       },
       {
         "tag": "nft",
-        "counts": 13
+        "counts": 99
       },
       {
-        "tag": "collection",
-        "counts": 11
+        "tag": "abstract",
+        "counts": 93
       },
       {
-        "tag": "photography",
-        "counts": 11
+        "tag": "animation",
+        "counts": 85
       },
       {
-        "tag": "character",
-        "counts": 10
+        "tag": "pixel",
+        "counts": 83
+      },
+      {
+        "tag": "digitalart",
+        "counts": 70
+      },
+      {
+        "tag": "3d",
+        "counts": 68
       },
       {
         "tag": "digital",
-        "counts": 10
+        "counts": 67
       },
       {
-        "tag": "painting",
-        "counts": 10
-      },
-      {
-        "tag": "tezos",
-        "counts": 10
-      },
-      {
-        "tag": "ai",
-        "counts": 10
-      },
-      {
-        "tag": "punks",
-        "counts": 8
-      },
-      {
-        "tag": "motion",
-        "counts": 8
-      },
-      {
-        "tag": "evil",
-        "counts": 8
-      },
-      {
-        "tag": "glitch",
-        "counts": 8
-      },
-      {
-        "tag": "thepix",
-        "counts": 7
-      },
-      {
-        "tag": "anderlaxe",
-        "counts": 7
-      },
-      {
-        "tag": "pix",
-        "counts": 7
-      },
-      {
-        "tag": "shaman",
-        "counts": 7
-      },
-      {
-        "tag": "dark evil",
-        "counts": 7
-      },
-      {
-        "tag": "cryptoart",
-        "counts": 7
-      },
-      {
-        "tag": "#punkz",
-        "counts": 7
+        "tag": "collection",
+        "counts": 58
       },
       {
         "tag": "generativeart",
-        "counts": 6
+        "counts": 58
       },
       {
-        "tag": "pixels",
-        "counts": 6
+        "tag": "gif",
+        "counts": 57
       },
       {
         "tag": "colorful",
-        "counts": 6
+        "counts": 56
+      },
+      {
+        "tag": "tezos",
+        "counts": 55
+      },
+      {
+        "tag": "painting",
+        "counts": 50
+      },
+      {
+        "tag": "character",
+        "counts": 48
+      },
+      {
+        "tag": "photography",
+        "counts": 47
+      },
+      {
+        "tag": "psychedelic",
+        "counts": 46
+      },
+      {
+        "tag": "motion",
+        "counts": 46
+      },
+      {
+        "tag": "cryptoart",
+        "counts": 42
+      },
+      {
+        "tag": "creativecoding",
+        "counts": 41
+      },
+      {
+        "tag": "cleannft",
+        "counts": 41
       },
       {
         "tag": "loop",
-        "counts": 6
-      },
-      {
-        "tag": "nftartist",
-        "counts": 6
-      },
-      {
-        "tag": "collage",
-        "counts": 6
-      },
-      {
-        "tag": "collectibles",
-        "counts": 6
+        "counts": 41
       },
       {
         "tag": "nftart",
-        "counts": 6
+        "counts": 38
       },
       {
-        "tag": "quadsom3s",
-        "counts": 5
+        "tag": "objkt",
+        "counts": 37
       },
       {
-        "tag": "hicetnunc",
-        "counts": 5
+        "tag": "punks",
+        "counts": 37
       },
       {
-        "tag": "crypto",
-        "counts": 5
-      },
-      {
-        "tag": "2d",
-        "counts": 5
-      },
-      {
-        "tag": "gan",
-        "counts": 5
-      },
-      {
-        "tag": "thr33som3s",
-        "counts": 5
+        "tag": "processing",
+        "counts": 36
       },
       {
         "tag": "drawing",
-        "counts": 5
+        "counts": 34
       },
       {
-        "tag": "vintage",
-        "counts": 4
+        "tag": "nftartist",
+        "counts": 34
       },
       {
-        "tag": "tokens",
-        "counts": 4
+        "tag": "ai",
+        "counts": 34
       },
       {
-        "tag": "vfx",
-        "counts": 4
+        "tag": "geometric",
+        "counts": 34
       },
       {
-        "tag": "diamond",
-        "counts": 4
+        "tag": "hicetnunc",
+        "counts": 33
       },
       {
-        "tag": "unique",
-        "counts": 4
+        "tag": "glitch",
+        "counts": 32
+      },
+      {
+        "tag": "avatar",
+        "counts": 31
+      },
+      {
+        "tag": "trippy",
+        "counts": 31
+      },
+      {
+        "tag": "p5js",
+        "counts": 29
+      },
+      {
+        "tag": "noise",
+        "counts": 28
+      },
+      {
+        "tag": "nature",
+        "counts": 28
+      },
+      {
+        "tag": "interactive",
+        "counts": 28
+      },
+      {
+        "tag": "algorithmic",
+        "counts": 27
+      },
+      {
+        "tag": "evil",
+        "counts": 26
+      },
+      {
+        "tag": "nftcommunity",
+        "counts": 25
+      },
+      {
+        "tag": "hen200k",
+        "counts": 25
+      },
+      {
+        "tag": "nfts",
+        "counts": 25
+      },
+      {
+        "tag": "color",
+        "counts": 24
+      },
+      {
+        "tag": "2d",
+        "counts": 24
+      },
+      {
+        "tag": "random",
+        "counts": 24
       }
     ],
     "weekNr": 38,
     "days": [
       {
         "nr": 1,
-        "minted": 3342,
-        "editionsCreated": 139920,
-        "editionsCollected": 14576,
-        "henTradesRevenueXtz": 57050941168.0,
+        "minted": 4766,
+        "editionsCreated": 196886,
+        "editionsCollected": 19231,
+        "henTradesRevenueXtz": 77313081448.0,
         "weekday": "Monday",
         "dayofyear": 263,
         "date": "2021-09-21",
-        "activeArtists": 1331,
-        "activeCollectors": 2980
+        "activeArtists": 1779,
+        "activeCollectors": 3664
+      },
+      {
+        "nr": 2,
+        "minted": 4194,
+        "editionsCreated": 140799,
+        "editionsCollected": 15444,
+        "henTradesRevenueXtz": 68330465363.0,
+        "weekday": "Tuesday",
+        "dayofyear": 264,
+        "date": "2021-09-22",
+        "activeArtists": 1651,
+        "activeCollectors": 3467
+      },
+      {
+        "nr": 3,
+        "minted": 3404,
+        "editionsCreated": 206906,
+        "editionsCollected": 11983,
+        "henTradesRevenueXtz": 50031795000.0,
+        "weekday": "Wednesday",
+        "dayofyear": 265,
+        "date": "2021-09-23",
+        "activeArtists": 1536,
+        "activeCollectors": 2621
+      },
+      {
+        "nr": 4,
+        "minted": 4792,
+        "editionsCreated": 174142,
+        "editionsCollected": 16652,
+        "henTradesRevenueXtz": 72995056138.0,
+        "weekday": "Thursday",
+        "dayofyear": 266,
+        "date": "2021-09-24",
+        "activeArtists": 1841,
+        "activeCollectors": 3582
+      },
+      {
+        "nr": 5,
+        "minted": 5125,
+        "editionsCreated": 204505,
+        "editionsCollected": 17068,
+        "henTradesRevenueXtz": 74099808313.0,
+        "weekday": "Friday",
+        "dayofyear": 267,
+        "date": "2021-09-25",
+        "activeArtists": 1816,
+        "activeCollectors": 3514
+      },
+      {
+        "nr": 6,
+        "minted": 4262,
+        "editionsCreated": 142164,
+        "editionsCollected": 12684,
+        "henTradesRevenueXtz": 44269149220.0,
+        "weekday": "Saturday",
+        "dayofyear": 268,
+        "date": "2021-09-26",
+        "activeArtists": 1524,
+        "activeCollectors": 2718
+      },
+      {
+        "nr": 7,
+        "minted": 2183,
+        "editionsCreated": 63693,
+        "editionsCollected": 6776,
+        "henTradesRevenueXtz": 45124881794.0,
+        "weekday": "Sunday",
+        "dayofyear": 269,
+        "date": "2021-09-27",
+        "activeArtists": 864,
+        "activeCollectors": 1831
       }
     ],
-    "dutch_auctions_created_in_week": 9,
-    "dutch_auctions_created_up_to_week": 631,
-    "dutch_auctions_canceled_in_week": 5,
-    "dutch_auctions_canceled_up_to_week": 436,
-    "dutch_auctions_buys_in_week": 0,
-    "dutch_auctions_buys_up_to_week": 53,
+    "dutch_auctions_created_in_week": 115,
+    "dutch_auctions_created_up_to_week": 737,
+    "dutch_auctions_canceled_in_week": 89,
+    "dutch_auctions_canceled_up_to_week": 520,
+    "dutch_auctions_buys_in_week": 18,
+    "dutch_auctions_buys_up_to_week": 71,
     "dutch_auctions_v1_created_in_week": 0,
     "dutch_auctions_v1_created_up_to_week": 63,
     "dutch_auctions_v1_canceled_in_week": 0,
     "dutch_auctions_v1_canceled_up_to_week": 52,
     "dutch_auctions_v1_buys_in_week": 0,
     "dutch_auctions_v1_buys_up_to_week": 3,
-    "dutch_auctions_v2_created_in_week": 9,
-    "dutch_auctions_v2_created_up_to_week": 568,
-    "dutch_auctions_v2_canceled_in_week": 5,
-    "dutch_auctions_v2_canceled_up_to_week": 384,
-    "dutch_auctions_v2_buys_in_week": 0,
-    "dutch_auctions_v2_buys_up_to_week": 50,
-    "english_auctions_created_in_week": 214,
-    "english_auctions_created_up_to_week": 9935,
-    "english_auctions_canceled_in_week": 17,
-    "english_auctions_canceled_up_to_week": 967,
-    "english_auctions_bids_in_week": 284,
-    "english_auctions_bids_up_to_week": 7133,
-    "english_auctions_concluded_in_week": 182,
-    "english_auctions_concluded_up_to_week": 8208,
+    "dutch_auctions_v2_created_in_week": 115,
+    "dutch_auctions_v2_created_up_to_week": 674,
+    "dutch_auctions_v2_canceled_in_week": 89,
+    "dutch_auctions_v2_canceled_up_to_week": 468,
+    "dutch_auctions_v2_buys_in_week": 18,
+    "dutch_auctions_v2_buys_up_to_week": 68,
+    "english_auctions_created_in_week": 2157,
+    "english_auctions_created_up_to_week": 11878,
+    "english_auctions_canceled_in_week": 154,
+    "english_auctions_canceled_up_to_week": 1104,
+    "english_auctions_bids_in_week": 2011,
+    "english_auctions_bids_up_to_week": 8860,
+    "english_auctions_concluded_in_week": 1961,
+    "english_auctions_concluded_up_to_week": 9987,
     "english_auctions_v1_created_in_week": 0,
     "english_auctions_v1_created_up_to_week": 2208,
     "english_auctions_v1_canceled_in_week": 0,
     "english_auctions_v1_canceled_up_to_week": 225,
     "english_auctions_v1_bids_in_week": 0,
     "english_auctions_v1_bids_up_to_week": 688,
-    "english_auctions_v1_concluded_in_week": 0,
-    "english_auctions_v1_concluded_up_to_week": 1552,
-    "english_auctions_v2_created_in_week": 214,
-    "english_auctions_v2_created_up_to_week": 7727,
-    "english_auctions_v2_canceled_in_week": 17,
-    "english_auctions_v2_canceled_up_to_week": 742,
-    "english_auctions_v2_bids_in_week": 284,
-    "english_auctions_v2_bids_up_to_week": 6445,
-    "english_auctions_v2_concluded_in_week": 182,
-    "english_auctions_v2_concluded_up_to_week": 6656,
-    "marketplace_asks_in_week": 766,
-    "marketplace_asks_up_to_week": 29397,
-    "marketplace_bids_in_week": 226,
-    "marketplace_bids_up_to_week": 10053,
-    "marketplace_fulfilled_asks_in_week": 153,
-    "marketplace_fulfilled_asks_up_to_week": 11620,
-    "marketplace_fulfilled_bids_in_week": 43,
-    "marketplace_fulfilled_bids_up_to_week": 3159,
-    "marketplace_retracted_asks_in_week": 315,
-    "marketplace_retracted_asks_up_to_week": 12716,
-    "marketplace_retracted_bids_in_week": 143,
-    "marketplace_retracted_bids_up_to_week": 5216
+    "english_auctions_v1_concluded_in_week": 9,
+    "english_auctions_v1_concluded_up_to_week": 1561,
+    "english_auctions_v2_created_in_week": 2157,
+    "english_auctions_v2_created_up_to_week": 9670,
+    "english_auctions_v2_canceled_in_week": 154,
+    "english_auctions_v2_canceled_up_to_week": 879,
+    "english_auctions_v2_bids_in_week": 2011,
+    "english_auctions_v2_bids_up_to_week": 8172,
+    "english_auctions_v2_concluded_in_week": 1952,
+    "english_auctions_v2_concluded_up_to_week": 8426,
+    "marketplace_asks_in_week": 9630,
+    "marketplace_asks_up_to_week": 38261,
+    "marketplace_bids_in_week": 2270,
+    "marketplace_bids_up_to_week": 12097,
+    "marketplace_fulfilled_asks_in_week": 3307,
+    "marketplace_fulfilled_asks_up_to_week": 14774,
+    "marketplace_fulfilled_bids_in_week": 467,
+    "marketplace_fulfilled_bids_up_to_week": 3583,
+    "marketplace_retracted_asks_in_week": 4077,
+    "marketplace_retracted_asks_up_to_week": 16478,
+    "marketplace_retracted_bids_in_week": 1689,
+    "marketplace_retracted_bids_up_to_week": 6762
   },
   "weekly": [
     {
@@ -10794,107 +10866,107 @@
         "q3": 2.0,
         "max": 31337.0
       },
-      "nrOfTagsUsedInWeek": 231730,
+      "nrOfTagsUsedInWeek": 232240,
       "topTagsInWeek": [
         {
           "tag": "generative",
-          "counts": 4728
+          "counts": 4742
         },
         {
           "tag": "art",
-          "counts": 4637
+          "counts": 4646
         },
         {
           "tag": "illustration",
-          "counts": 3144
+          "counts": 3153
         },
         {
           "tag": "abstract",
-          "counts": 3053
+          "counts": 3057
         },
         {
           "tag": "nft",
-          "counts": 2687
+          "counts": 2691
         },
         {
           "tag": "animation",
-          "counts": 2506
+          "counts": 2507
         },
         {
           "tag": "pixel",
-          "counts": 2407
+          "counts": 2415
         },
         {
           "tag": "digitalart",
-          "counts": 2164
+          "counts": 2168
         },
         {
           "tag": "pixelart",
-          "counts": 2130
+          "counts": 2140
         },
         {
           "tag": "3d",
-          "counts": 2069
+          "counts": 2072
         },
         {
           "tag": "objkt4objkt",
-          "counts": 1957
+          "counts": 1966
         },
         {
           "tag": "creativecoding",
-          "counts": 1914
+          "counts": 1918
         },
         {
           "tag": "digital",
-          "counts": 1842
-        },
-        {
-          "tag": "loop",
-          "counts": 1819
+          "counts": 1843
         },
         {
           "tag": "collectible",
-          "counts": 1817
+          "counts": 1822
+        },
+        {
+          "tag": "loop",
+          "counts": 1821
         },
         {
           "tag": "tezos",
-          "counts": 1789
+          "counts": 1792
         },
         {
           "tag": "colorful",
-          "counts": 1779
+          "counts": 1780
         },
         {
           "tag": "cryptoart",
-          "counts": 1776
+          "counts": 1779
         },
         {
           "tag": "processing",
-          "counts": 1720
+          "counts": 1723
         },
         {
           "tag": "geometric",
-          "counts": 1649
+          "counts": 1652
         },
         {
           "tag": "generativeart",
-          "counts": 1596
+          "counts": 1600
         },
         {
           "tag": "psychedelic",
-          "counts": 1589
+          "counts": 1592
         },
         {
           "tag": "painting",
-          "counts": 1531
+          "counts": 1533
         },
         {
           "tag": "hen200k",
-          "counts": 1457
+          "counts": 1461
         },
         {
           "tag": "cleannft",
-          "counts": 1436
+          "counts": 1439
         },
         {
           "tag": "motion",
@@ -10902,63 +10974,63 @@
         },
         {
           "tag": "photography",
-          "counts": 1409
+          "counts": 1415
         },
         {
           "tag": "gif",
-          "counts": 1405
+          "counts": 1409
         },
         {
           "tag": "interactive",
-          "counts": 1391
+          "counts": 1392
         },
         {
           "tag": "objkt",
-          "counts": 1368
+          "counts": 1370
         },
         {
           "tag": "nftartist",
-          "counts": 1325
+          "counts": 1326
         },
         {
           "tag": "algorithmic",
-          "counts": 1292
+          "counts": 1293
         },
         {
           "tag": "nfts",
-          "counts": 1257
+          "counts": 1258
         },
         {
           "tag": "hicetnunc",
-          "counts": 1253
+          "counts": 1254
         },
         {
           "tag": "p5js",
-          "counts": 1239
+          "counts": 1241
         },
         {
           "tag": "noise",
-          "counts": 1200
+          "counts": 1201
         },
         {
           "tag": "cleannfts",
-          "counts": 1173
+          "counts": 1175
         },
         {
           "tag": "trippy",
-          "counts": 1156
+          "counts": 1158
         },
         {
           "tag": "particle",
-          "counts": 1154
+          "counts": 1155
         },
         {
           "tag": "nftart",
-          "counts": 1141
+          "counts": 1143
         },
         {
           "tag": "collection",
-          "counts": 1075
+          "counts": 1079
         },
         {
           "tag": "glitchart",
@@ -10966,23 +11038,23 @@
         },
         {
           "tag": "object4objekt",
-          "counts": 1052
+          "counts": 1054
         },
         {
           "tag": "colourful",
-          "counts": 1052
+          "counts": 1053
         },
         {
           "tag": "unique",
-          "counts": 1010
+          "counts": 1016
         },
         {
           "tag": "touchdesigner",
-          "counts": 994
+          "counts": 995
         },
         {
           "tag": "drawing",
-          "counts": 945
+          "counts": 947
         },
         {
           "tag": "fluid",
@@ -10990,7 +11062,7 @@
         },
         {
           "tag": "green",
-          "counts": 905
+          "counts": 906
         },
         {
           "tag": "subtle",
@@ -11180,207 +11252,207 @@
         "q3": 2.0,
         "max": 31337.0
       },
-      "nrOfTagsUsedInWeek": 41941,
+      "nrOfTagsUsedInWeek": 49388,
       "topTagsInWeek": [
         {
           "tag": "generative",
-          "counts": 871
+          "counts": 1026
         },
         {
           "tag": "art",
-          "counts": 828
+          "counts": 977
         },
         {
           "tag": "illustration",
-          "counts": 634
+          "counts": 757
         },
         {
           "tag": "abstract",
-          "counts": 593
-        },
-        {
-          "tag": "pixelart",
-          "counts": 554
+          "counts": 698
         },
         {
           "tag": "collectible",
-          "counts": 544
+          "counts": 652
         },
         {
-          "tag": "nft",
-          "counts": 475
+          "tag": "pixelart",
+          "counts": 649
         },
         {
           "tag": "digitalart",
-          "counts": 475
+          "counts": 574
+        },
+        {
+          "tag": "nft",
+          "counts": 550
         },
         {
           "tag": "pixel",
-          "counts": 426
+          "counts": 500
         },
         {
           "tag": "animation",
-          "counts": 415
-        },
-        {
-          "tag": "3d",
-          "counts": 362
+          "counts": 478
         },
         {
           "tag": "digital",
-          "counts": 362
+          "counts": 437
+        },
+        {
+          "tag": "3d",
+          "counts": 418
         },
         {
           "tag": "generativeart",
-          "counts": 329
+          "counts": 390
         },
         {
           "tag": "tezos",
-          "counts": 320
+          "counts": 374
         },
         {
           "tag": "colorful",
-          "counts": 311
+          "counts": 361
         },
         {
           "tag": "photography",
-          "counts": 288
+          "counts": 348
         },
         {
           "tag": "creativecoding",
-          "counts": 281
+          "counts": 324
         },
         {
           "tag": "gif",
-          "counts": 266
+          "counts": 315
         },
         {
           "tag": "processing",
-          "counts": 263
-        },
-        {
-          "tag": "loop",
-          "counts": 254
+          "counts": 311
         },
         {
           "tag": "psychedelic",
-          "counts": 249
+          "counts": 291
         },
         {
-          "tag": "cryptoart",
-          "counts": 243
+          "tag": "loop",
+          "counts": 287
         },
         {
           "tag": "motion",
-          "counts": 239
+          "counts": 284
+        },
+        {
+          "tag": "cryptoart",
+          "counts": 280
         },
         {
           "tag": "hen200k",
-          "counts": 235
+          "counts": 271
         },
         {
           "tag": "painting",
-          "counts": 224
-        },
-        {
-          "tag": "nfts",
-          "counts": 221
-        },
-        {
-          "tag": "objkt",
-          "counts": 221
+          "counts": 264
         },
         {
           "tag": "collection",
-          "counts": 218
+          "counts": 258
+        },
+        {
+          "tag": "objkt",
+          "counts": 257
         },
         {
           "tag": "nftartist",
-          "counts": 214
+          "counts": 255
+        },
+        {
+          "tag": "nfts",
+          "counts": 249
         },
         {
           "tag": "cleannft",
-          "counts": 208
+          "counts": 239
         },
         {
           "tag": "cleannfts",
-          "counts": 204
+          "counts": 234
         },
         {
           "tag": "nftart",
-          "counts": 199
-        },
-        {
-          "tag": "interactive",
-          "counts": 190
+          "counts": 228
         },
         {
           "tag": "geometric",
-          "counts": 190
+          "counts": 226
         },
         {
           "tag": "hicetnunc",
-          "counts": 186
-        },
-        {
-          "tag": "objkt4objkt",
-          "counts": 181
+          "counts": 219
         },
         {
           "tag": "drawing",
-          "counts": 180
+          "counts": 218
         },
         {
-          "tag": "trippy",
-          "counts": 173
+          "tag": "interactive",
+          "counts": 218
         },
         {
-          "tag": "algorithmic",
-          "counts": 170
-        },
-        {
-          "tag": "noise",
-          "counts": 167
-        },
-        {
-          "tag": "glitchart",
-          "counts": 161
+          "tag": "objkt4objkt",
+          "counts": 216
         },
         {
           "tag": "ai",
-          "counts": 160
+          "counts": 196
+        },
+        {
+          "tag": "algorithmic",
+          "counts": 196
+        },
+        {
+          "tag": "trippy",
+          "counts": 195
+        },
+        {
+          "tag": "glitchart",
+          "counts": 189
+        },
+        {
+          "tag": "noise",
+          "counts": 188
         },
         {
           "tag": "glitch",
-          "counts": 158
-        },
-        {
-          "tag": "p5js",
-          "counts": 158
-        },
-        {
-          "tag": "punk",
-          "counts": 153
-        },
-        {
-          "tag": "unique",
-          "counts": 150
-        },
-        {
-          "tag": "touchdesigner",
-          "counts": 142
+          "counts": 186
         },
         {
           "tag": "color",
-          "counts": 142
+          "counts": 178
         },
         {
-          "tag": "object4objekt",
-          "counts": 141
+          "tag": "p5js",
+          "counts": 176
+        },
+        {
+          "tag": "punk",
+          "counts": 175
+        },
+        {
+          "tag": "unique",
+          "counts": 173
         },
         {
           "tag": "nftcollector",
-          "counts": 140
+          "counts": 163
+        },
+        {
+          "tag": "touchdesigner",
+          "counts": 163
+        },
+        {
+          "tag": "character",
+          "counts": 159
         }
       ],
       "weekNr": 37,
@@ -11526,39 +11598,39 @@
       "marketplace_retracted_bids_up_to_week": 5073
     },
     {
-      "minted": 3342,
-      "mintedUpToWeek": 334969,
-      "editionsCreated": 139920,
-      "editionsCreatedUpToWeek": 43439374,
-      "editionsCollected": 0,
-      "activeArtists": 1331,
-      "activeCollectors": 2980,
-      "activeUsers": 3948,
-      "artistsUpToWeek": 26714,
-      "collectorsUpToWeek": 29868,
-      "tradesForWeek": 14576,
-      "tradesForWeekPrimary": 13138,
-      "tradesForWeekSecondary": 1438,
-      "tradesForWeekV1": 0,
-      "tradesForWeekV2": 14576,
-      "tradesUpToWeek": 1879528,
-      "tradesUpToWeekV1": 817021,
-      "tradesUpToWeekV2": 1062507,
-      "usersUpToWeek": 41077,
+      "minted": 28726,
+      "mintedUpToWeek": 360353,
+      "editionsCreated": 1129095,
+      "editionsCreatedUpToWeek": 44428549,
+      "editionsCollected": 16,
+      "activeArtists": 6008,
+      "activeCollectors": 9199,
+      "activeUsers": 12574,
+      "artistsUpToWeek": 28302,
+      "collectorsUpToWeek": 31435,
+      "tradesForWeek": 99838,
+      "tradesForWeekPrimary": 89374,
+      "tradesForWeekSecondary": 10464,
+      "tradesForWeekV1": 16,
+      "tradesForWeekV2": 99822,
+      "tradesUpToWeek": 1964790,
+      "tradesUpToWeekV1": 817037,
+      "tradesUpToWeekV2": 1147753,
+      "usersUpToWeek": 43553,
       "weekDaterange": [
         "2021-09-20",
-        "2021-09-20"
+        "2021-09-26"
       ],
-      "newUsers": 328,
-      "newArtists": 210,
-      "newCollectors": 211,
-      "burns": 164043,
-      "burnsUpToWeek": 27167572,
-      "influxForWeek": 50261.14606499999,
-      "influxUpToWeek": 4550274.028032002,
-      "xtzTradedInWeek": 57050.941168000005,
-      "xtzTradedUpToWeek": 7142872.5048450045,
-      "averageXtzPerEditionPerTrade": 3.7995499632692775,
+      "newUsers": 2804,
+      "newArtists": 1798,
+      "newCollectors": 1778,
+      "burns": 777467,
+      "burnsUpToWeek": 27780996,
+      "influxForWeek": 338713.831212,
+      "influxUpToWeek": 4790952.879171002,
+      "xtzTradedInWeek": 432164.237276,
+      "xtzTradedUpToWeek": 7517985.8009530045,
+      "averageXtzPerEditionPerTrade": 3.825586367739849,
       "xtzPerEditionPerTradeQuantiles": {
         "min": 0.0,
         "q1": 0.01,
@@ -11566,278 +11638,350 @@
         "q3": 2.0,
         "max": 31337.0
       },
-      "nrOfTagsUsedInWeek": 1404,
+      "nrOfTagsUsedInWeek": 8465,
       "topTagsInWeek": [
         {
-          "tag": "pixelart",
-          "counts": 29
-        },
-        {
           "tag": "art",
-          "counts": 26
+          "counts": 166
         },
         {
           "tag": "generative",
-          "counts": 25
-        },
-        {
-          "tag": "collectible",
-          "counts": 24
+          "counts": 161
         },
         {
           "tag": "illustration",
-          "counts": 23
+          "counts": 145
         },
         {
-          "tag": "3d",
-          "counts": 19
+          "tag": "collectible",
+          "counts": 115
         },
         {
-          "tag": "animation",
-          "counts": 18
-        },
-        {
-          "tag": "abstract",
-          "counts": 17
-        },
-        {
-          "tag": "gif",
-          "counts": 17
-        },
-        {
-          "tag": "digitalart",
-          "counts": 17
-        },
-        {
-          "tag": "pixel",
-          "counts": 17
+          "tag": "pixelart",
+          "counts": 108
         },
         {
           "tag": "nft",
-          "counts": 13
+          "counts": 99
         },
         {
-          "tag": "collection",
-          "counts": 11
+          "tag": "abstract",
+          "counts": 93
         },
         {
-          "tag": "photography",
-          "counts": 11
+          "tag": "animation",
+          "counts": 85
         },
         {
-          "tag": "character",
-          "counts": 10
+          "tag": "pixel",
+          "counts": 83
+        },
+        {
+          "tag": "digitalart",
+          "counts": 70
+        },
+        {
+          "tag": "3d",
+          "counts": 68
         },
         {
           "tag": "digital",
-          "counts": 10
+          "counts": 67
         },
         {
-          "tag": "painting",
-          "counts": 10
-        },
-        {
-          "tag": "tezos",
-          "counts": 10
-        },
-        {
-          "tag": "ai",
-          "counts": 10
-        },
-        {
-          "tag": "punks",
-          "counts": 8
-        },
-        {
-          "tag": "motion",
-          "counts": 8
-        },
-        {
-          "tag": "evil",
-          "counts": 8
-        },
-        {
-          "tag": "glitch",
-          "counts": 8
-        },
-        {
-          "tag": "thepix",
-          "counts": 7
-        },
-        {
-          "tag": "anderlaxe",
-          "counts": 7
-        },
-        {
-          "tag": "pix",
-          "counts": 7
-        },
-        {
-          "tag": "shaman",
-          "counts": 7
-        },
-        {
-          "tag": "dark evil",
-          "counts": 7
-        },
-        {
-          "tag": "cryptoart",
-          "counts": 7
-        },
-        {
-          "tag": "#punkz",
-          "counts": 7
+          "tag": "collection",
+          "counts": 58
         },
         {
           "tag": "generativeart",
-          "counts": 6
+          "counts": 58
         },
         {
-          "tag": "pixels",
-          "counts": 6
+          "tag": "gif",
+          "counts": 57
         },
         {
           "tag": "colorful",
-          "counts": 6
+          "counts": 56
+        },
+        {
+          "tag": "tezos",
+          "counts": 55
+        },
+        {
+          "tag": "painting",
+          "counts": 50
+        },
+        {
+          "tag": "character",
+          "counts": 48
+        },
+        {
+          "tag": "photography",
+          "counts": 47
+        },
+        {
+          "tag": "psychedelic",
+          "counts": 46
+        },
+        {
+          "tag": "motion",
+          "counts": 46
+        },
+        {
+          "tag": "cryptoart",
+          "counts": 42
+        },
+        {
+          "tag": "creativecoding",
+          "counts": 41
+        },
+        {
+          "tag": "cleannft",
+          "counts": 41
         },
         {
           "tag": "loop",
-          "counts": 6
-        },
-        {
-          "tag": "nftartist",
-          "counts": 6
-        },
-        {
-          "tag": "collage",
-          "counts": 6
-        },
-        {
-          "tag": "collectibles",
-          "counts": 6
+          "counts": 41
         },
         {
           "tag": "nftart",
-          "counts": 6
+          "counts": 38
         },
         {
-          "tag": "quadsom3s",
-          "counts": 5
+          "tag": "objkt",
+          "counts": 37
         },
         {
-          "tag": "hicetnunc",
-          "counts": 5
+          "tag": "punks",
+          "counts": 37
         },
         {
-          "tag": "crypto",
-          "counts": 5
-        },
-        {
-          "tag": "2d",
-          "counts": 5
-        },
-        {
-          "tag": "gan",
-          "counts": 5
-        },
-        {
-          "tag": "thr33som3s",
-          "counts": 5
+          "tag": "processing",
+          "counts": 36
         },
         {
           "tag": "drawing",
-          "counts": 5
+          "counts": 34
         },
         {
-          "tag": "vintage",
-          "counts": 4
+          "tag": "nftartist",
+          "counts": 34
         },
         {
-          "tag": "tokens",
-          "counts": 4
+          "tag": "ai",
+          "counts": 34
         },
         {
-          "tag": "vfx",
-          "counts": 4
+          "tag": "geometric",
+          "counts": 34
         },
         {
-          "tag": "diamond",
-          "counts": 4
+          "tag": "hicetnunc",
+          "counts": 33
         },
         {
-          "tag": "unique",
-          "counts": 4
+          "tag": "glitch",
+          "counts": 32
+        },
+        {
+          "tag": "avatar",
+          "counts": 31
+        },
+        {
+          "tag": "trippy",
+          "counts": 31
+        },
+        {
+          "tag": "p5js",
+          "counts": 29
+        },
+        {
+          "tag": "noise",
+          "counts": 28
+        },
+        {
+          "tag": "nature",
+          "counts": 28
+        },
+        {
+          "tag": "interactive",
+          "counts": 28
+        },
+        {
+          "tag": "algorithmic",
+          "counts": 27
+        },
+        {
+          "tag": "evil",
+          "counts": 26
+        },
+        {
+          "tag": "nftcommunity",
+          "counts": 25
+        },
+        {
+          "tag": "hen200k",
+          "counts": 25
+        },
+        {
+          "tag": "nfts",
+          "counts": 25
+        },
+        {
+          "tag": "color",
+          "counts": 24
+        },
+        {
+          "tag": "2d",
+          "counts": 24
+        },
+        {
+          "tag": "random",
+          "counts": 24
         }
       ],
       "weekNr": 38,
       "days": [
         {
           "nr": 1,
-          "minted": 3342,
-          "editionsCreated": 139920,
-          "editionsCollected": 14576,
-          "henTradesRevenueXtz": 57050941168.0,
+          "minted": 4766,
+          "editionsCreated": 196886,
+          "editionsCollected": 19231,
+          "henTradesRevenueXtz": 77313081448.0,
           "weekday": "Monday",
           "dayofyear": 263,
           "date": "2021-09-21",
-          "activeArtists": 1331,
-          "activeCollectors": 2980
+          "activeArtists": 1779,
+          "activeCollectors": 3664
+        },
+        {
+          "nr": 2,
+          "minted": 4194,
+          "editionsCreated": 140799,
+          "editionsCollected": 15444,
+          "henTradesRevenueXtz": 68330465363.0,
+          "weekday": "Tuesday",
+          "dayofyear": 264,
+          "date": "2021-09-22",
+          "activeArtists": 1651,
+          "activeCollectors": 3467
+        },
+        {
+          "nr": 3,
+          "minted": 3404,
+          "editionsCreated": 206906,
+          "editionsCollected": 11983,
+          "henTradesRevenueXtz": 50031795000.0,
+          "weekday": "Wednesday",
+          "dayofyear": 265,
+          "date": "2021-09-23",
+          "activeArtists": 1536,
+          "activeCollectors": 2621
+        },
+        {
+          "nr": 4,
+          "minted": 4792,
+          "editionsCreated": 174142,
+          "editionsCollected": 16652,
+          "henTradesRevenueXtz": 72995056138.0,
+          "weekday": "Thursday",
+          "dayofyear": 266,
+          "date": "2021-09-24",
+          "activeArtists": 1841,
+          "activeCollectors": 3582
+        },
+        {
+          "nr": 5,
+          "minted": 5125,
+          "editionsCreated": 204505,
+          "editionsCollected": 17068,
+          "henTradesRevenueXtz": 74099808313.0,
+          "weekday": "Friday",
+          "dayofyear": 267,
+          "date": "2021-09-25",
+          "activeArtists": 1816,
+          "activeCollectors": 3514
+        },
+        {
+          "nr": 6,
+          "minted": 4262,
+          "editionsCreated": 142164,
+          "editionsCollected": 12684,
+          "henTradesRevenueXtz": 44269149220.0,
+          "weekday": "Saturday",
+          "dayofyear": 268,
+          "date": "2021-09-26",
+          "activeArtists": 1524,
+          "activeCollectors": 2718
+        },
+        {
+          "nr": 7,
+          "minted": 2183,
+          "editionsCreated": 63693,
+          "editionsCollected": 6776,
+          "henTradesRevenueXtz": 45124881794.0,
+          "weekday": "Sunday",
+          "dayofyear": 269,
+          "date": "2021-09-27",
+          "activeArtists": 864,
+          "activeCollectors": 1831
         }
       ],
-      "dutch_auctions_created_in_week": 9,
-      "dutch_auctions_created_up_to_week": 631,
-      "dutch_auctions_canceled_in_week": 5,
-      "dutch_auctions_canceled_up_to_week": 436,
-      "dutch_auctions_buys_in_week": 0,
-      "dutch_auctions_buys_up_to_week": 53,
+      "dutch_auctions_created_in_week": 115,
+      "dutch_auctions_created_up_to_week": 737,
+      "dutch_auctions_canceled_in_week": 89,
+      "dutch_auctions_canceled_up_to_week": 520,
+      "dutch_auctions_buys_in_week": 18,
+      "dutch_auctions_buys_up_to_week": 71,
       "dutch_auctions_v1_created_in_week": 0,
       "dutch_auctions_v1_created_up_to_week": 63,
       "dutch_auctions_v1_canceled_in_week": 0,
       "dutch_auctions_v1_canceled_up_to_week": 52,
       "dutch_auctions_v1_buys_in_week": 0,
       "dutch_auctions_v1_buys_up_to_week": 3,
-      "dutch_auctions_v2_created_in_week": 9,
-      "dutch_auctions_v2_created_up_to_week": 568,
-      "dutch_auctions_v2_canceled_in_week": 5,
-      "dutch_auctions_v2_canceled_up_to_week": 384,
-      "dutch_auctions_v2_buys_in_week": 0,
-      "dutch_auctions_v2_buys_up_to_week": 50,
-      "english_auctions_created_in_week": 214,
-      "english_auctions_created_up_to_week": 9935,
-      "english_auctions_canceled_in_week": 17,
-      "english_auctions_canceled_up_to_week": 967,
-      "english_auctions_bids_in_week": 284,
-      "english_auctions_bids_up_to_week": 7133,
-      "english_auctions_concluded_in_week": 182,
-      "english_auctions_concluded_up_to_week": 8208,
+      "dutch_auctions_v2_created_in_week": 115,
+      "dutch_auctions_v2_created_up_to_week": 674,
+      "dutch_auctions_v2_canceled_in_week": 89,
+      "dutch_auctions_v2_canceled_up_to_week": 468,
+      "dutch_auctions_v2_buys_in_week": 18,
+      "dutch_auctions_v2_buys_up_to_week": 68,
+      "english_auctions_created_in_week": 2157,
+      "english_auctions_created_up_to_week": 11878,
+      "english_auctions_canceled_in_week": 154,
+      "english_auctions_canceled_up_to_week": 1104,
+      "english_auctions_bids_in_week": 2011,
+      "english_auctions_bids_up_to_week": 8860,
+      "english_auctions_concluded_in_week": 1961,
+      "english_auctions_concluded_up_to_week": 9987,
       "english_auctions_v1_created_in_week": 0,
       "english_auctions_v1_created_up_to_week": 2208,
       "english_auctions_v1_canceled_in_week": 0,
       "english_auctions_v1_canceled_up_to_week": 225,
       "english_auctions_v1_bids_in_week": 0,
       "english_auctions_v1_bids_up_to_week": 688,
-      "english_auctions_v1_concluded_in_week": 0,
-      "english_auctions_v1_concluded_up_to_week": 1552,
-      "english_auctions_v2_created_in_week": 214,
-      "english_auctions_v2_created_up_to_week": 7727,
-      "english_auctions_v2_canceled_in_week": 17,
-      "english_auctions_v2_canceled_up_to_week": 742,
-      "english_auctions_v2_bids_in_week": 284,
-      "english_auctions_v2_bids_up_to_week": 6445,
-      "english_auctions_v2_concluded_in_week": 182,
-      "english_auctions_v2_concluded_up_to_week": 6656,
-      "marketplace_asks_in_week": 766,
-      "marketplace_asks_up_to_week": 29397,
-      "marketplace_bids_in_week": 226,
-      "marketplace_bids_up_to_week": 10053,
-      "marketplace_fulfilled_asks_in_week": 153,
-      "marketplace_fulfilled_asks_up_to_week": 11620,
-      "marketplace_fulfilled_bids_in_week": 43,
-      "marketplace_fulfilled_bids_up_to_week": 3159,
-      "marketplace_retracted_asks_in_week": 315,
-      "marketplace_retracted_asks_up_to_week": 12716,
-      "marketplace_retracted_bids_in_week": 143,
-      "marketplace_retracted_bids_up_to_week": 5216
+      "english_auctions_v1_concluded_in_week": 9,
+      "english_auctions_v1_concluded_up_to_week": 1561,
+      "english_auctions_v2_created_in_week": 2157,
+      "english_auctions_v2_created_up_to_week": 9670,
+      "english_auctions_v2_canceled_in_week": 154,
+      "english_auctions_v2_canceled_up_to_week": 879,
+      "english_auctions_v2_bids_in_week": 2011,
+      "english_auctions_v2_bids_up_to_week": 8172,
+      "english_auctions_v2_concluded_in_week": 1952,
+      "english_auctions_v2_concluded_up_to_week": 8426,
+      "marketplace_asks_in_week": 9630,
+      "marketplace_asks_up_to_week": 38261,
+      "marketplace_bids_in_week": 2270,
+      "marketplace_bids_up_to_week": 12097,
+      "marketplace_fulfilled_asks_in_week": 3307,
+      "marketplace_fulfilled_asks_up_to_week": 14774,
+      "marketplace_fulfilled_bids_in_week": 467,
+      "marketplace_fulfilled_bids_up_to_week": 3583,
+      "marketplace_retracted_asks_in_week": 4077,
+      "marketplace_retracted_asks_up_to_week": 16478,
+      "marketplace_retracted_bids_in_week": 1689,
+      "marketplace_retracted_bids_up_to_week": 6762
     }
   ],
   "daily": []
