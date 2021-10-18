@@ -219,6 +219,8 @@
   "totalEditionsCollected": 1566839,
   "week-26": {
     "minted": 3881,
+    "mintsByReportedWalletsForWeek": 60,
+    "mintsByReportedWalletsUpToWeek": 3615,
     "mintedUpToWeek": 158572,
     "editionsCreated": 419161,
     "editionsCreatedUpToWeek": 30731962,
@@ -614,6 +616,8 @@
   "weekly": [
     {
       "minted": 1656,
+      "mintsByReportedWalletsForWeek": 39,
+      "mintsByReportedWalletsUpToWeek": 39,
       "mintedUpToWeek": 1656,
       "editionsCreated": 88523,
       "editionsCreatedUpToWeek": 88523,
@@ -807,6 +811,8 @@
     },
     {
       "minted": 4356,
+      "mintsByReportedWalletsForWeek": 600,
+      "mintsByReportedWalletsUpToWeek": 639,
       "mintedUpToWeek": 6012,
       "editionsCreated": 197375,
       "editionsCreatedUpToWeek": 285898,
@@ -1201,6 +1207,8 @@
     },
     {
       "minted": 3892,
+      "mintsByReportedWalletsForWeek": 337,
+      "mintsByReportedWalletsUpToWeek": 976,
       "mintedUpToWeek": 9904,
       "editionsCreated": 287896,
       "editionsCreatedUpToWeek": 573794,
@@ -1595,6 +1603,8 @@
     },
     {
       "minted": 6033,
+      "mintsByReportedWalletsForWeek": 303,
+      "mintsByReportedWalletsUpToWeek": 1279,
       "mintedUpToWeek": 15937,
       "editionsCreated": 517616,
       "editionsCreatedUpToWeek": 1091410,
@@ -1989,6 +1999,8 @@
     },
     {
       "minted": 7166,
+      "mintsByReportedWalletsForWeek": 278,
+      "mintsByReportedWalletsUpToWeek": 1557,
       "mintedUpToWeek": 23103,
       "editionsCreated": 397749,
       "editionsCreatedUpToWeek": 1489159,
@@ -2383,6 +2395,8 @@
     },
     {
       "minted": 6814,
+      "mintsByReportedWalletsForWeek": 328,
+      "mintsByReportedWalletsUpToWeek": 1885,
       "mintedUpToWeek": 29917,
       "editionsCreated": 230614,
       "editionsCreatedUpToWeek": 1719773,
@@ -2777,6 +2791,8 @@
     },
     {
       "minted": 8117,
+      "mintsByReportedWalletsForWeek": 271,
+      "mintsByReportedWalletsUpToWeek": 2156,
       "mintedUpToWeek": 38034,
       "editionsCreated": 325890,
       "editionsCreatedUpToWeek": 2045663,
@@ -3171,6 +3187,8 @@
     },
     {
       "minted": 11020,
+      "mintsByReportedWalletsForWeek": 210,
+      "mintsByReportedWalletsUpToWeek": 2366,
       "mintedUpToWeek": 49054,
       "editionsCreated": 1215904,
       "editionsCreatedUpToWeek": 3261567,
@@ -3565,6 +3583,8 @@
     },
     {
       "minted": 10888,
+      "mintsByReportedWalletsForWeek": 285,
+      "mintsByReportedWalletsUpToWeek": 2651,
       "mintedUpToWeek": 59942,
       "editionsCreated": 931477,
       "editionsCreatedUpToWeek": 4193044,
@@ -3959,6 +3979,8 @@
     },
     {
       "minted": 11629,
+      "mintsByReportedWalletsForWeek": 192,
+      "mintsByReportedWalletsUpToWeek": 2843,
       "mintedUpToWeek": 71571,
       "editionsCreated": 909199,
       "editionsCreatedUpToWeek": 5102243,
@@ -4353,6 +4375,8 @@
     },
     {
       "minted": 12268,
+      "mintsByReportedWalletsForWeek": 139,
+      "mintsByReportedWalletsUpToWeek": 2982,
       "mintedUpToWeek": 83839,
       "editionsCreated": 754218,
       "editionsCreatedUpToWeek": 5856461,
@@ -4747,6 +4771,8 @@
     },
     {
       "minted": 11204,
+      "mintsByReportedWalletsForWeek": 114,
+      "mintsByReportedWalletsUpToWeek": 3096,
       "mintedUpToWeek": 95043,
       "editionsCreated": 712149,
       "editionsCreatedUpToWeek": 6568610,
@@ -5141,6 +5167,8 @@
     },
     {
       "minted": 11342,
+      "mintsByReportedWalletsForWeek": 89,
+      "mintsByReportedWalletsUpToWeek": 3185,
       "mintedUpToWeek": 106385,
       "editionsCreated": 711692,
       "editionsCreatedUpToWeek": 7280302,
@@ -5535,6 +5563,8 @@
     },
     {
       "minted": 11421,
+      "mintsByReportedWalletsForWeek": 68,
+      "mintsByReportedWalletsUpToWeek": 3253,
       "mintedUpToWeek": 117806,
       "editionsCreated": 1550513,
       "editionsCreatedUpToWeek": 8830815,
@@ -5929,6 +5959,8 @@
     },
     {
       "minted": 12501,
+      "mintsByReportedWalletsForWeek": 98,
+      "mintsByReportedWalletsUpToWeek": 3351,
       "mintedUpToWeek": 130307,
       "editionsCreated": 806315,
       "editionsCreatedUpToWeek": 9637130,
@@ -6323,6 +6355,8 @@
     },
     {
       "minted": 13193,
+      "mintsByReportedWalletsForWeek": 101,
+      "mintsByReportedWalletsUpToWeek": 3452,
       "mintedUpToWeek": 143500,
       "editionsCreated": 17608168,
       "editionsCreatedUpToWeek": 27245298,
@@ -6717,6 +6751,8 @@
     },
     {
       "minted": 11191,
+      "mintsByReportedWalletsForWeek": 103,
+      "mintsByReportedWalletsUpToWeek": 3555,
       "mintedUpToWeek": 154691,
       "editionsCreated": 3067503,
       "editionsCreatedUpToWeek": 30312801,
@@ -7111,6 +7147,8 @@
     },
     {
       "minted": 3881,
+      "mintsByReportedWalletsForWeek": 60,
+      "mintsByReportedWalletsUpToWeek": 3615,
       "mintedUpToWeek": 158572,
       "editionsCreated": 419161,
       "editionsCreatedUpToWeek": 30731962,
