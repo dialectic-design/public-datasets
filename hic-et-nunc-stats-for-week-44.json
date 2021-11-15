@@ -419,14 +419,14 @@
     "hicdex_english_auctions_completed_up_to_week": 21552,
     "hicdex_english_auctions_xtz_transacted_in_week": 15462.989900000002,
     "hicdex_english_auctions_xtz_transacted_up_to_week": 479068.174678,
-    "hicdex_asks_completed_in_week": 1317,
-    "hicdex_asks_completed_up_to_week": 19509,
-    "hicdex_asks_xtz_transacted_in_week": 31589.182336999995,
-    "hicdex_asks_xtz_transacted_up_to_week": 1932690.341793,
-    "hicdex_bids_completed_in_week": 743,
-    "hicdex_bids_fulfilled_up_to_week": 8567,
-    "hicdex_bids_xtz_transacted_in_week": 19597.98289,
-    "hicdex_bids_xtz_transacted_up_to_week": 396633.71212900005
+    "hicdex_asks_completed_in_week": 1863,
+    "hicdex_asks_completed_up_to_week": 20055,
+    "hicdex_asks_xtz_transacted_in_week": 44968.677016,
+    "hicdex_asks_xtz_transacted_up_to_week": 1946069.836472,
+    "hicdex_bids_completed_in_week": 848,
+    "hicdex_bids_fulfilled_up_to_week": 8672,
+    "hicdex_bids_xtz_transacted_in_week": 23053.767888000002,
+    "hicdex_bids_xtz_transacted_up_to_week": 400089.497127
   },
   "weekly": [
     {
@@ -13845,14 +13845,14 @@
       "hicdex_english_auctions_completed_up_to_week": 21552,
       "hicdex_english_auctions_xtz_transacted_in_week": 15462.989900000002,
       "hicdex_english_auctions_xtz_transacted_up_to_week": 479068.174678,
-      "hicdex_asks_completed_in_week": 1317,
-      "hicdex_asks_completed_up_to_week": 19509,
-      "hicdex_asks_xtz_transacted_in_week": 31589.182336999995,
-      "hicdex_asks_xtz_transacted_up_to_week": 1932690.341793,
-      "hicdex_bids_completed_in_week": 743,
-      "hicdex_bids_fulfilled_up_to_week": 8567,
-      "hicdex_bids_xtz_transacted_in_week": 19597.98289,
-      "hicdex_bids_xtz_transacted_up_to_week": 396633.71212900005
+      "hicdex_asks_completed_in_week": 1863,
+      "hicdex_asks_completed_up_to_week": 20055,
+      "hicdex_asks_xtz_transacted_in_week": 44968.677016,
+      "hicdex_asks_xtz_transacted_up_to_week": 1946069.836472,
+      "hicdex_bids_completed_in_week": 848,
+      "hicdex_bids_fulfilled_up_to_week": 8672,
+      "hicdex_bids_xtz_transacted_in_week": 23053.767888000002,
+      "hicdex_bids_xtz_transacted_up_to_week": 400089.497127
     }
   ],
   "daily": []
